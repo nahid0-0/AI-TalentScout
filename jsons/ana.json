@@ -1,0 +1,1374 @@
+[{
+  "id": "ACoAAC3RxroBkD4mvmRWokJnbZWG03amfKUlN8g",
+  "publicIdentifier": "anna-gutowska",
+  "linkedinUrl": "https://www.linkedin.com/in/anna-gutowska",
+  "firstName": "Anna",
+  "lastName": "Gutowska",
+  "emails": [],
+  "headline": "AI Engineer, Developer Advocate @ IBM | Stanford MSCS",
+  "openToWork": false,
+  "hiring": false,
+  "premium": true,
+  "influencer": false,
+  "memorialized": false,
+  "creator": false,
+  "location": {
+    "linkedinText": "United States",
+    "countryCode": "US",
+    "parsed": {
+      "text": "United States",
+      "countryCode": "US",
+      "regionCode": null,
+      "country": "United States",
+      "countryFull": "United States of America"
+    }
+  },
+  "objectUrn": "768722618",
+  "registeredAt": "2019-10-17T22:19:20.745Z",
+  "topSkills": [
+    "Research Skills",
+    "Programming Languages",
+    "Leadership",
+    "Organizational Effectiveness"
+  ],
+  "connectionsCount": 1392,
+  "followerCount": null,
+  "verified": true,
+  "about": "I build AI applications, talk about them, and help other devs do the same (with fewer headaches).",
+  "currentPosition": [
+    {
+      "position": "AI Engineer, Developer Advocate",
+      "location": "New York, NY",
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "IBM",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/ibm/",
+      "companyId": "1009",
+      "duration": "2 yrs 1 mo",
+      "description": "Bridging the gap between developers and AI innovation through content, community, and code. \n➤ Crafting technical explainers, tutorials, and videos to translate complex AI topics into practical knowledge and hands-on applications.\n➤ Speaking at international tech conferences and hosting webinars to educate and engage developer communities.\n➤ Engineering internal tools that streamline workflows and leverage agentic AI.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Software Development",
+        "Public Speaking",
+        "Technical Writing"
+      ],
+      "startDate": {
+        "month": "Jun",
+        "year": 2024,
+        "text": "Jun 2024"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=XykThOMs_NGYqXVrmKGGqodDj1Rx1kskkfV6UTHk7rE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=7sG6BWB9B9iTbKZywd8MoTw8rFr0rLoQmJQjYBL1Q2Q",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "ibm"
+    }
+  ],
+  "profileTopEducation": [
+    {
+      "schoolName": "Stanford University",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/1792/",
+      "schoolId": "1792",
+      "degree": "Master of Science",
+      "fieldOfStudy": "Computer Science",
+      "period": "Sep 2025",
+      "startDate": null,
+      "endDate": {
+        "month": "Sep",
+        "year": 2025,
+        "text": "Sep 2025"
+      },
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=SYlFsh5VcwFD-wyOilQdIOnSI3Ab9JpnuaoEmB6iKjs",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=SYlFsh5VcwFD-wyOilQdIOnSI3Ab9JpnuaoEmB6iKjs",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=lUTPEBpdV1Dg05xGYhVlj3WjSgNYKPLLW00zo_a1Wc8",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=2kUSN0N5QDYhkzGpeOKpHdxmZdWj5M3aZPTjn7PXxyk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "profileActions": [],
+  "profilePicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D4E03AQG3-3vavAlSbw/profile-displayphoto-crop_800_800/B4EZlvXFpRIMAI-/0/1758509947880?e=1784160000&v=beta&t=7CyghkSnd9hFs-nk8rD087lmCjUVh8u4HbXP1XChJVw",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG3-3vavAlSbw/profile-displayphoto-crop_800_800/B4EZlvXFpRIMAI-/0/1758509947880?e=1784160000&v=beta&t=7CyghkSnd9hFs-nk8rD087lmCjUVh8u4HbXP1XChJVw",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG3-3vavAlSbw/profile-displayphoto-scale_400_400/B4EZlvXFpRIMAg-/0/1758509947961?e=1784160000&v=beta&t=BgN5eKWl7MGFCDZltgLgjtIPpYq7VboeH4pMbAbOkcY",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG3-3vavAlSbw/profile-displayphoto-scale_200_200/B4EZlvXFpRIMAY-/0/1758509947961?e=1784160000&v=beta&t=wmTtRH_uYXlg0xaa-JK21MBsTR3UXVfSHpotvhWd8V8",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQG3-3vavAlSbw/profile-displayphoto-scale_100_100/B4EZlvXFpRIMAc-/0/1758509947961?e=1784160000&v=beta&t=5gmAkWHEimZACbC4A48V1Pz2_MuuzxF8g2661NSSU6E",
+        "width": 100,
+        "height": 100
+      }
+    ]
+  },
+  "coverPicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D4E16AQE2OMNvWv-aPA/profile-displaybackgroundimage-shrink_350_1400/B4EZ1kFz3HG8AY-/0/1775500740241?e=1784160000&v=beta&t=8whnSXmxzUlfgn0-SYdGmBo7ASBh7npDQ-NzW-0h-es",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E16AQE2OMNvWv-aPA/profile-displaybackgroundimage-shrink_350_1400/B4EZ1kFz3HG8AY-/0/1775500740241?e=1784160000&v=beta&t=8whnSXmxzUlfgn0-SYdGmBo7ASBh7npDQ-NzW-0h-es",
+        "width": 1400,
+        "height": 350
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E16AQE2OMNvWv-aPA/profile-displaybackgroundimage-shrink_200_800/B4EZ1kFz3HG8AU-/0/1775500740241?e=1784160000&v=beta&t=Ry3oAI7Qgt5c9_5kDckc8PGgStUTN8pX1S3MAEq2F7I",
+        "width": 800,
+        "height": 200
+      }
+    ]
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/D4E03AQG3-3vavAlSbw/profile-displayphoto-crop_800_800/B4EZlvXFpRIMAI-/0/1758509947880?e=1784160000&v=beta&t=7CyghkSnd9hFs-nk8rD087lmCjUVh8u4HbXP1XChJVw",
+  "profileLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "primaryLocale": {
+    "country": "US",
+    "language": "en"
+  },
+  "multiLocaleHeadline": [
+    {
+      "headline": "AI Engineer, Developer Advocate @ IBM | Stanford MSCS",
+      "locale": "en_US"
+    }
+  ],
+  "services": null,
+  "experience": [
+    {
+      "position": "AI Engineer, Developer Advocate",
+      "location": "New York, NY",
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "IBM",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/ibm/",
+      "companyId": "1009",
+      "duration": "2 yrs 1 mo",
+      "description": "Bridging the gap between developers and AI innovation through content, community, and code. \n➤ Crafting technical explainers, tutorials, and videos to translate complex AI topics into practical knowledge and hands-on applications.\n➤ Speaking at international tech conferences and hosting webinars to educate and engage developer communities.\n➤ Engineering internal tools that streamline workflows and leverage agentic AI.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Software Development",
+        "Public Speaking",
+        "Technical Writing"
+      ],
+      "startDate": {
+        "month": "Jun",
+        "year": 2024,
+        "text": "Jun 2024"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=XykThOMs_NGYqXVrmKGGqodDj1Rx1kskkfV6UTHk7rE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=7sG6BWB9B9iTbKZywd8MoTw8rFr0rLoQmJQjYBL1Q2Q",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "ibm"
+    },
+    {
+      "position": "Social Computing Lab - Lead Research Assistant",
+      "location": "New Brunswick, New Jersey, United States",
+      "employmentType": "Contract",
+      "workplaceType": "Remote",
+      "companyName": "Rutgers University School of Communication and Information",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/917269/",
+      "companyId": "917269",
+      "duration": "2 yrs 7 mos",
+      "description": "➤ Utilized Twitter and Reddit APIs to collect and clean data to produce co-occurrence networks, sentiment analysis, data visualization, BERTopic modeling, data visualization, and qualitative coding using Python, R, and Tableau.\n➤ Built exponential random graph models (ERGMs) and multi-layered networks for complex social networks in R.\n➤ Conducted research in relation to how ethnic minorities access COVID-related information online using data science tools.\n➤ Presented the research at the 18th annual Aresty Undergraduate Research Symposium",
+      "skills": [
+        "R (Programming Language)",
+        "Python (Programming Language)",
+        "Data Science",
+        "Python"
+      ],
+      "startDate": {
+        "month": "Sep",
+        "year": 2021,
+        "text": "Sep 2021"
+      },
+      "endDate": {
+        "month": "Mar",
+        "year": 2024,
+        "text": "Mar 2024"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH78p3w9Bn14w/company-logo_400_400/company-logo_400_400/0/1719415532794/rutgers_university_school_of_communication_and_information_logo?e=1784160000&v=beta&t=Dm4wxZcGcY453kYxE-RYIwuaGwxKbD1JiULL_sxwVvk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH78p3w9Bn14w/company-logo_400_400/company-logo_400_400/0/1719415532794/rutgers_university_school_of_communication_and_information_logo?e=1784160000&v=beta&t=Dm4wxZcGcY453kYxE-RYIwuaGwxKbD1JiULL_sxwVvk",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH78p3w9Bn14w/company-logo_200_200/company-logo_200_200/0/1719415532794/rutgers_university_school_of_communication_and_information_logo?e=1784160000&v=beta&t=0vPYCDofqNq9alx3sjNXXPBYFEfmuiXteWpRgbasCts",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH78p3w9Bn14w/company-logo_100_100/company-logo_100_100/0/1719415532794/rutgers_university_school_of_communication_and_information_logo?e=1784160000&v=beta&t=wk7iWwJ9dwh1vdJDj0IFdpffzbczypgJ3p9W75DTVZ4",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "position": "Full-Stack Developer Intern",
+      "location": "New Brunswick, New Jersey, United States",
+      "employmentType": "Internship",
+      "workplaceType": null,
+      "companyName": "Rutgers School of Arts and Sciences",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/rutgers-sas/",
+      "companyId": "71516844",
+      "duration": "3 mos",
+      "description": "➤ Conducted research on Rutgers University's Introduction to Data Science course in order to improve it. \n➤ Designed wireframes and coded the front end of a new grading platform, CodeBench using JavaScript and React.\n➤ Interviewed and surveyed students who had taken the course prior to gain feedback.",
+      "skills": [
+        "Web Development",
+        "Web Design",
+        "Front-End Development"
+      ],
+      "startDate": {
+        "month": "Jun",
+        "year": 2022,
+        "text": "Jun 2022"
+      },
+      "endDate": {
+        "month": "Aug",
+        "year": 2022,
+        "text": "Aug 2022"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH397BFfZq8ZQ/company-logo_400_400/company-logo_400_400/0/1710770045048/rutgers_sas_logo?e=1784160000&v=beta&t=6pJe2-HWVQdEkxAaSWH1V-NzOygoUmIvXC2sCSyvrGU",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH397BFfZq8ZQ/company-logo_400_400/company-logo_400_400/0/1710770045048/rutgers_sas_logo?e=1784160000&v=beta&t=6pJe2-HWVQdEkxAaSWH1V-NzOygoUmIvXC2sCSyvrGU",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH397BFfZq8ZQ/company-logo_200_200/company-logo_200_200/0/1710770045048/rutgers_sas_logo?e=1784160000&v=beta&t=wU1e6J8nIKSEPvM-zHnDXgfUSn3xQlWGcFR_uIeyhmg",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQH397BFfZq8ZQ/company-logo_100_100/company-logo_100_100/0/1710770045048/rutgers_sas_logo?e=1784160000&v=beta&t=ncq3-K5qhEWNHoJXfXmUHvuB5lxnqZg102CDb4SKorg",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "rutgers-sas"
+    },
+    {
+      "position": "Software Engineer Intern",
+      "location": null,
+      "employmentType": "Internship",
+      "workplaceType": null,
+      "companyName": "Adventure Networks",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/adventurenetworks/",
+      "companyId": "11156171",
+      "duration": "3 mos",
+      "description": "➤ Built and implemented knowledge in JS, HTML, CSS, and more in order to build features in the start-up's social media platform, trychats.\n➤ Researched gpt-3, cryptocurrencies, crypto mining, decentralized networks, NFTs, and blockchain technology.",
+      "skills": null,
+      "startDate": {
+        "month": "Jun",
+        "year": 2021,
+        "text": "Jun 2021"
+      },
+      "endDate": {
+        "month": "Aug",
+        "year": 2021,
+        "text": "Aug 2021"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQFc41n2_NPbog/company-logo_400_400/company-logo_400_400/0/1670533148272/adventurenetworks_logo?e=1784160000&v=beta&t=_819IMHCxbRLlyqcFva_3GQi---pOAOFUVJ0qIEfwow",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFc41n2_NPbog/company-logo_400_400/company-logo_400_400/0/1670533148272/adventurenetworks_logo?e=1784160000&v=beta&t=_819IMHCxbRLlyqcFva_3GQi---pOAOFUVJ0qIEfwow",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFc41n2_NPbog/company-logo_200_200/company-logo_200_200/0/1670533148272/adventurenetworks_logo?e=1784160000&v=beta&t=HQNo2c52kC-BjI7j4dnSooUYOSriwmUgfRMPnO9wA7c",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFc41n2_NPbog/company-logo_100_100/company-logo_100_100/0/1670533148272/adventurenetworks_logo?e=1784160000&v=beta&t=TRu0J32BxTNaR5x5eBszdIbbYUq-CP8Pr2H6c7npQYM",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "adventurenetworks"
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "Stanford University",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/1792/",
+      "schoolId": "1792",
+      "degree": "Master of Science",
+      "fieldOfStudy": "Computer Science",
+      "skills": [],
+      "description": "Honors Cooperative Program",
+      "startDate": null,
+      "endDate": {
+        "month": "Sep",
+        "year": 2025,
+        "text": "Sep 2025"
+      },
+      "period": "Sep 2025",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=SYlFsh5VcwFD-wyOilQdIOnSI3Ab9JpnuaoEmB6iKjs",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=SYlFsh5VcwFD-wyOilQdIOnSI3Ab9JpnuaoEmB6iKjs",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=lUTPEBpdV1Dg05xGYhVlj3WjSgNYKPLLW00zo_a1Wc8",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=2kUSN0N5QDYhkzGpeOKpHdxmZdWj5M3aZPTjn7PXxyk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "Rutgers University–New Brunswick",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/22295811/",
+      "schoolId": "22295811",
+      "degree": "Bachelor of Science - BS",
+      "fieldOfStudy": "Computer Science",
+      "skills": [],
+      "description": "➤ Graduated from the Honors College summa cum laude with a B.S. in Computer Science (High Honors) and B.A. in Cognitive Science (Highest Honors). \n➤ Member of the Phi Beta Kappa Honor Society and awarded the Dean's List all semesters",
+      "insights": "Activities and societies: Polish Club President, Honors College Ally (First-Year Mentor), Alpha Omega Epsilon Recruitment Chair, Women in Computer Science Club.",
+      "startDate": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "endDate": {
+        "year": 2023,
+        "text": "2023"
+      },
+      "period": "2019 - 2023",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEBRTKlTDdhRw/company-logo_400_400/company-logo_400_400/0/1695149141823/rutgersnb_logo?e=1784160000&v=beta&t=6tYW9P6yaFzlCh-SbOUhoIst3tRTu-lB0HMNhxXgJy4",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEBRTKlTDdhRw/company-logo_400_400/company-logo_400_400/0/1695149141823/rutgersnb_logo?e=1784160000&v=beta&t=6tYW9P6yaFzlCh-SbOUhoIst3tRTu-lB0HMNhxXgJy4",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEBRTKlTDdhRw/company-logo_200_200/company-logo_200_200/0/1695149141823/rutgersnb_logo?e=1784160000&v=beta&t=WiHRrOESsetWdkwWExHgBAuNyGvIDivvibC75zV7sDI",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEBRTKlTDdhRw/company-logo_100_100/company-logo_100_100/0/1695149141823/rutgersnb_logo?e=1784160000&v=beta&t=Xo4l-47ITyZlDHdBQh83vuqrS54ia2rXWW8ZCyx9sYg",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "Townsend Harris High School",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/4009638/",
+      "schoolId": "4009638",
+      "degree": "High School Diploma",
+      "fieldOfStudy": "Humanities/Humanistic Studies",
+      "skills": [],
+      "description": "➤ Graduated with THHS Honors & Service Distinction\n➤ Archon & Arista National Honor Societies, National Science Honors Society\n➤ 99% percentile SAT",
+      "startDate": {
+        "year": 2015,
+        "text": "2015"
+      },
+      "endDate": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "period": "2015 - 2019",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQHblpLqTcxF8w/company-logo_400_400/company-logo_400_400/0/1631322559291?e=1784160000&v=beta&t=ytjezx-FnPbyAkzdDE5zahfdgz3fG0AA8uVuUMKkuvk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHblpLqTcxF8w/company-logo_400_400/company-logo_400_400/0/1631322559291?e=1784160000&v=beta&t=ytjezx-FnPbyAkzdDE5zahfdgz3fG0AA8uVuUMKkuvk",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHblpLqTcxF8w/company-logo_200_200/company-logo_200_200/0/1631322559291?e=1784160000&v=beta&t=8w-I9vgL0L5aWuzakUkI5MHnGhPuKSPiDp1Faf1SFug",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHblpLqTcxF8w/company-logo_100_100/company-logo_100_100/0/1631322559291?e=1784160000&v=beta&t=bUmX2bkqHAZ4YKXjdFHLRBQbEZnwgenqe3v-kuc4aAw",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Group 2: IRB Nonmedical Research (All Nonmedical Investigators and Staff) ",
+      "issuedAt": "Issued Mar 2026 · Expires Mar 2029",
+      "link": "https://www.citiprogram.org/verify/?w4d2b572b-7428-4c48-bb1e-48c73f508bb8-75686502",
+      "issuedBy": "CITI Program",
+      "issuedByLink": "https://www.linkedin.com/company/11118398/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_400_400/company-logo_400_400/0/1631314320914?e=1784160000&v=beta&t=Ewo3kuJQqqP_8WcjS1s9MszJPQ2vLwYK-foLKzKMFP8",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_400_400/company-logo_400_400/0/1631314320914?e=1784160000&v=beta&t=Ewo3kuJQqqP_8WcjS1s9MszJPQ2vLwYK-foLKzKMFP8",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_200_200/company-logo_200_200/0/1631314320914?e=1784160000&v=beta&t=PbiCjcf8az7iIBDpYmvGbDZvrm2IwRTBQ0Rn-M0AECs",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_100_100/company-logo_100_100/0/1631314320914?e=1784160000&v=beta&t=H95Qpj4ByUh7bnldy8GGt_lcdvtnIVut4NCyv2wvM9s",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": " Foundation: Introduction to LangGraph",
+      "issuedAt": "Issued Aug 2025",
+      "link": "https://academy.langchain.com/certificates/guj5zlvzig",
+      "issuedBy": "LangChain",
+      "issuedByLink": "https://www.linkedin.com/company/91342320/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQHPcIPJSkandA/company-logo_400_400/B56Zys8ORrIwAg-/0/1772427994524/langchain_logo?e=1784160000&v=beta&t=ROtlsL-TDh4a5LUxZOYSFQZVl2spg-6RUDzqc0At-MA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHPcIPJSkandA/company-logo_400_400/B56Zys8ORrIwAg-/0/1772427994524/langchain_logo?e=1784160000&v=beta&t=ROtlsL-TDh4a5LUxZOYSFQZVl2spg-6RUDzqc0At-MA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHPcIPJSkandA/company-logo_200_200/B56Zys8ORrIwAQ-/0/1772427994524/langchain_logo?e=1784160000&v=beta&t=h1pp3_PVVLy3nKDjccJVFVqWxeyn_nKDfNJ6XZ3OIXQ",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHPcIPJSkandA/company-logo_100_100/B56Zys8ORrIwAY-/0/1772427994524/langchain_logo?e=1784160000&v=beta&t=jEyrUYvq_UBt4FMIQJFgr_CsyoSG6C22nJxkRpommVA",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Certificate of Participation IBM TechXchange Dev Day: Open Source LLMs",
+      "issuedAt": "Issued Apr 2025",
+      "link": "https://www.virtualbadge.io/certificate-validator?credential=96462f3e-3e4b-4e6f-a164-4b8a2e0a92b5",
+      "issuedBy": "BeMyApp",
+      "issuedByLink": "https://www.linkedin.com/company/2734603/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQGlxWQ9ufp8MA/company-logo_400_400/company-logo_400_400/0/1644936356307/bemyapp_logo?e=1784160000&v=beta&t=kK_ge80YmM8_iI-ZklnEaEHXcDm_ddT6F13xs27VV6M",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGlxWQ9ufp8MA/company-logo_400_400/company-logo_400_400/0/1644936356307/bemyapp_logo?e=1784160000&v=beta&t=kK_ge80YmM8_iI-ZklnEaEHXcDm_ddT6F13xs27VV6M",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGlxWQ9ufp8MA/company-logo_200_200/company-logo_200_200/0/1644936356307/bemyapp_logo?e=1784160000&v=beta&t=-FQcyUtyl_xV154jXPcy9idV-lHhs_xCB9VFoIHRNaY",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGlxWQ9ufp8MA/company-logo_100_100/company-logo_100_100/0/1644936356307/bemyapp_logo?e=1784160000&v=beta&t=t5SGUxgYU4tAgZMAtInDmajc6TarYHlS7-kh6wZg9Ek",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Create Reports and Visualizations Using Adobe Analytics II",
+      "issuedAt": "Issued Jan 2025",
+      "link": null,
+      "issuedBy": "Adobe",
+      "issuedByLink": "https://www.linkedin.com/company/1480/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_400_400/B56ZodIp56HUAc-/0/1761425400480?e=1784160000&v=beta&t=_or_AqbpZtaUsZ21JDGVq7iEg7qTAEGfVtzsgNTyJlI",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_400_400/B56ZodIp56HUAc-/0/1761425400480?e=1784160000&v=beta&t=_or_AqbpZtaUsZ21JDGVq7iEg7qTAEGfVtzsgNTyJlI",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_200_200/B56ZodIp56HUAM-/0/1761425400480?e=1784160000&v=beta&t=oGWaebWLun0DHebIhSraH3RWuiGXv7pHddqPsTslrq4",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=1784160000&v=beta&t=6mr5wM1P-DIOVZwV_HaWLgCme2Gw0T3UYMRIDOVeOMk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Create Reports and Visualizations Using Adobe Analytics I",
+      "issuedAt": "Issued Dec 2024",
+      "link": null,
+      "issuedBy": "Adobe",
+      "issuedByLink": "https://www.linkedin.com/company/1480/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_400_400/B56ZodIp56HUAc-/0/1761425400480?e=1784160000&v=beta&t=_or_AqbpZtaUsZ21JDGVq7iEg7qTAEGfVtzsgNTyJlI",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_400_400/B56ZodIp56HUAc-/0/1761425400480?e=1784160000&v=beta&t=_or_AqbpZtaUsZ21JDGVq7iEg7qTAEGfVtzsgNTyJlI",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_200_200/B56ZodIp56HUAM-/0/1761425400480?e=1784160000&v=beta&t=oGWaebWLun0DHebIhSraH3RWuiGXv7pHddqPsTslrq4",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=1784160000&v=beta&t=6mr5wM1P-DIOVZwV_HaWLgCme2Gw0T3UYMRIDOVeOMk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "IBM watsonx Essentials",
+      "issuedAt": "Issued Jun 2024",
+      "link": "https://www.credly.com/badges/9c859324-0034-4a58-8d36-eb92f433deaf/public_url",
+      "issuedBy": "IBM",
+      "issuedByLink": "https://www.linkedin.com/company/1009/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=XykThOMs_NGYqXVrmKGGqodDj1Rx1kskkfV6UTHk7rE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=7sG6BWB9B9iTbKZywd8MoTw8rFr0rLoQmJQjYBL1Q2Q",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "IBM watsonx.ai Technical Essentials",
+      "issuedAt": "Issued May 2024",
+      "link": "https://www.credly.com/badges/d47deaad-0fce-4df7-bcfb-c622bab2f053/public_url",
+      "issuedBy": "IBM",
+      "issuedByLink": "https://www.linkedin.com/company/1009/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=XykThOMs_NGYqXVrmKGGqodDj1Rx1kskkfV6UTHk7rE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=7sG6BWB9B9iTbKZywd8MoTw8rFr0rLoQmJQjYBL1Q2Q",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "State Certification of Proficiency in Polish as a Foreign Language (B2)",
+      "issuedAt": "Issued Jun 2019",
+      "link": null,
+      "issuedBy": "State Certification Committee",
+      "issuedByLink": null,
+      "issuedByLogo": {
+        "url": null,
+        "sizes": []
+      }
+    }
+  ],
+  "projects": [],
+  "volunteering": [
+    {
+      "role": "Data Engineer",
+      "organizationName": "The Percentage Project",
+      "duration": "Mar 2021 - Oct 2024 · 3 yrs 8 mos",
+      "startDate": {
+        "month": "Mar",
+        "year": 2021,
+        "text": "Mar 2021"
+      },
+      "endDate": {
+        "month": "Oct",
+        "year": 2024,
+        "text": "Oct 2024"
+      }
+    },
+    {
+      "role": "Chief Technology Officer",
+      "organizationName": "Polish Youth Association",
+      "duration": "Mar 2021 - Feb 2024 · 3 yrs",
+      "startDate": {
+        "month": "Mar",
+        "year": 2021,
+        "text": "Mar 2021"
+      },
+      "endDate": {
+        "month": "Feb",
+        "year": 2024,
+        "text": "Feb 2024"
+      }
+    }
+  ],
+  "receivedRecommendations": [],
+  "skills": [
+    {
+      "name": "Public Speaking",
+      "positions": [
+        "AI Engineer, Developer Advocate at IBM",
+        "Certificate of Participation IBM TechXchange Dev Day: Open Source LLMs"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Analytical Skills",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "positions": [
+        "Data Engineer"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Python",
+      "positions": [
+        "Social Computing Lab - Lead Research Assistant at Rutgers University School of Communication and Information"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Swift (Programming Language)",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "React.js"
+    },
+    {
+      "name": "MATLAB"
+    },
+    {
+      "name": "R (Programming Language)",
+      "positions": [
+        "Social Computing Lab - Lead Research Assistant at Rutgers University School of Communication and Information"
+      ]
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "SQL",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "Python (Programming Language)",
+      "positions": [
+        "Social Computing Lab - Lead Research Assistant at Rutgers University School of Communication and Information"
+      ]
+    },
+    {
+      "name": "D3.js"
+    },
+    {
+      "name": "Technical Writing",
+      "positions": [
+        "AI Engineer, Developer Advocate at IBM"
+      ]
+    },
+    {
+      "name": "Web Analytics",
+      "positions": [
+        "Create Reports and Visualizations Using Adobe Analytics I"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Dashboard Building",
+      "positions": [
+        "Create Reports and Visualizations Using Adobe Analytics I"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Software Development",
+      "positions": [
+        "AI Engineer, Developer Advocate at IBM"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Research and Development (R&D)"
+    },
+    {
+      "name": "Web Content Writing"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "positions": [
+        "AI Engineer, Developer Advocate at IBM",
+        "IBM watsonx.ai Technical Essentials"
+      ]
+    },
+    {
+      "name": "Convolutional Neural Networks (CNN)",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Qualtrics",
+      "positions": [
+        "Data Engineer"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "positions": [
+        "Social Computing Lab - Lead Research Assistant at Rutgers University School of Communication and Information"
+      ]
+    },
+    {
+      "name": "Front-End Development",
+      "positions": [
+        "Full-Stack Developer Intern at Rutgers School of Arts and Sciences"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "positions": [
+        "Full-Stack Developer Intern at Rutgers School of Arts and Sciences"
+      ]
+    },
+    {
+      "name": "Web Design",
+      "positions": [
+        "Full-Stack Developer Intern at Rutgers School of Arts and Sciences"
+      ]
+    },
+    {
+      "name": "Organizational Effectiveness",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Research Skills"
+    },
+    {
+      "name": "Programming Languages"
+    },
+    {
+      "name": "Foreign Languages",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Programming",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Collaborative Work",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "LangGraph",
+      "positions": [
+        " Foundation: Introduction to LangGraph"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "AI Agents",
+      "positions": [
+        " Foundation: Introduction to LangGraph"
+      ],
+      "endorsements": "2 endorsements"
+    }
+  ],
+  "publications": [],
+  "courses": [
+    {
+      "title": "Calculus 1 & 2",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Cognitive Neuroscience: Case Studies",
+      "number": "185:430",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Computer Architecture",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Data Structures",
+      "number": "CS112",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Discrete Mathematics I & II",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Honors College Forum ",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Honors Interdisciplinary Seminar",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Intro to Cognitive Science",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Introduction to Artificial Intelligence (Graduate)",
+      "number": "CS520",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Introduction to Computer Science",
+      "number": "CS111",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Introduction to Data Science",
+      "number": "CS439",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Linear Algebra"
+    },
+    {
+      "title": "Management Skills",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Numerical Analysis",
+      "number": "CS323",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Physics 1 and 2",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Principles of Information and Data Management",
+      "number": "CS336",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    }
+  ],
+  "patents": [],
+  "honorsAndAwards": [
+    {
+      "title": "The President's Volunteer Service Award (PVSA)",
+      "issuedBy": "The President of the United States  | AmeriCorps - U.S. Government",
+      "issuedAt": "Jun 2024",
+      "description": "Silver award for volunteering around 200 hours in 2023 with the Polish Youth Association.",
+      "associatedWith": null,
+      "associatedWithLink": null
+    },
+    {
+      "title": "Outstanding Greek Scholar Award",
+      "issuedBy": "Fraternity and Sorority Affairs",
+      "issuedAt": "Mar 2023",
+      "description": "In recognition of my academic achievements including strong GPA, graduate level coursework, and research.",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Alan J. Fierstein Scholastic and Humanitarian Award",
+      "issuedBy": "Jun 2015",
+      "associatedWith": null,
+      "associatedWithLink": null
+    },
+    {
+      "title": "Dean's List",
+      "description": "All semesters. ",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "James Dickson Carr and Honors College Alumni Scholarships",
+      "issuedBy": "Rutgers University",
+      "description": "4-year renewable merit scholarships. ",
+      "associatedWith": "Associated with Rutgers University–New Brunswick",
+      "associatedWithLink": "https://www.linkedin.com/company/22295811/"
+    },
+    {
+      "title": "Phi Beta Kappa Honor Society",
+      "issuedBy": "Phi Beta Kappa",
+      "associatedWith": null,
+      "associatedWithLink": null
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Native or bilingual proficiency"
+    },
+    {
+      "name": "Latin",
+      "proficiency": "Elementary proficiency"
+    },
+    {
+      "name": "Polish",
+      "proficiency": "Native or bilingual proficiency"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "Limited working proficiency"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Alpha Omega Epsilon",
+      "positionHeld": "Recruitment Chair · Jan 2022 - May 2023",
+      "description": "A social/professional sorority for women in S.T.E.M.",
+      "startDate": null,
+      "endDate": null,
+      "companyLinkedinUrl": "https://www.linkedin.com/school/rutgersnb/",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEBRTKlTDdhRw/company-logo_400_400/company-logo_400_400/0/1695149141823/rutgersnb_logo?e=1784160000&v=beta&t=6tYW9P6yaFzlCh-SbOUhoIst3tRTu-lB0HMNhxXgJy4"
+    },
+    {
+      "name": "Rutgers Polish Club",
+      "positionHeld": "President · Aug 2022 - May 2023",
+      "description": null,
+      "startDate": null,
+      "endDate": null,
+      "companyLinkedinUrl": "https://www.linkedin.com/school/rutgersnb/",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEBRTKlTDdhRw/company-logo_400_400/company-logo_400_400/0/1695149141823/rutgersnb_logo?e=1784160000&v=beta&t=6tYW9P6yaFzlCh-SbOUhoIst3tRTu-lB0HMNhxXgJy4"
+    }
+  ],
+  "causes": [],
+  "featured": {
+    "images": [],
+    "link": null,
+    "title": null,
+    "subtitle": null,
+    "slides": [
+      {
+        "title": "Multi Agent Systems Explained: How AI Agents & LLMs Work Together",
+        "subtitle": "youtube.com",
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7406644651228545024?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7406644651228545024%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGYEw2zBbd79w/articleshare-shrink_800/B4DZsh.Tm_KcAI-/0/1765801540612?e=1783242000&v=beta&t=i4YnChF0qO1VUm1MP1BBjoU8ifI3ccJVxDsGq9BfkWk"
+        }
+      },
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7203516608122662912?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7203516608122662912%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQFV9XeWz3wvsQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717452193240?e=1784160000&v=beta&t=qhpRIcyxcpIFueSJ_kxTMCYZCZ3qsuEryawGX3Vuiek"
+        }
+      },
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7318966600768868352?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7318966600768868352%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEIL_bDu_3GdA/feedshare-image-high-res/B4EZZGqJQuG0As-/0/1744942176653?e=1784160000&v=beta&t=7BQZGWmLU_N-UhvNEeX0_t3l3AodqXecD1VSujgNGq0"
+        }
+      }
+    ]
+  },
+  "composeOptionType": "PREMIUM_INMAIL",
+  "moreProfiles": [
+    {
+      "id": "ACoAACLBuw4BSTUbboRxGm0pGI5dsJXr_BYu95U",
+      "firstName": "Palak",
+      "lastName": "Khera",
+      "position": "AI Engineer @ IBM",
+      "publicIdentifier": "palak-khera",
+      "linkedinUrl": "https://www.linkedin.com/in/palak-khera"
+    },
+    {
+      "id": "ACoAACmxN1YBZPis-L99UuJJo5lEoaHkc-LwJ3U",
+      "firstName": "Drew",
+      "lastName": "Letvin",
+      "position": "AI Engineer @ IBM",
+      "publicIdentifier": "drew-letvin",
+      "linkedinUrl": "https://www.linkedin.com/in/drew-letvin"
+    },
+    {
+      "id": "ACoAACRmHc8B9Bh4NLitLE_bJjztwtRjBSYZ19A",
+      "firstName": "David",
+      "lastName": "Cruz",
+      "position": "AI Engineer | IBM Client Engineering",
+      "publicIdentifier": "daavidcruuz",
+      "linkedinUrl": "https://www.linkedin.com/in/daavidcruuz"
+    },
+    {
+      "id": "ACoAACLS248BwKWSAqY_pUM3jFE34gQ13rfk6zE",
+      "firstName": "Brandon",
+      "lastName": "Kim",
+      "position": "AI Developer @ IBM",
+      "publicIdentifier": "brandonkimibm",
+      "linkedinUrl": "https://www.linkedin.com/in/brandonkimibm"
+    },
+    {
+      "id": "ACoAADOGe28BQhfkC3t3JcI4WCHf0c_Pgov5tU0",
+      "firstName": "Mary",
+      "lastName": "Beck",
+      "position": "AI Engineer @ IBM",
+      "publicIdentifier": "mary02beck",
+      "linkedinUrl": "https://www.linkedin.com/in/mary02beck"
+    },
+    {
+      "id": "ACoAACD5kwcBVs4SYJGCIyD3Fi78_maLG3_D4P8",
+      "firstName": "Evelyn",
+      "lastName": "Nkanga",
+      "position": "AI Engineer at IBM",
+      "publicIdentifier": "enkanga",
+      "linkedinUrl": "https://www.linkedin.com/in/enkanga"
+    },
+    {
+      "id": "ACoAABGMkrIBEk17XYfVMclsoGWoUWc0iYwGYPQ",
+      "firstName": "Fangfang",
+      "lastName": "Lee",
+      "position": "Devrel, AI @ IBM | ex-Google",
+      "publicIdentifier": "fangfang-lee",
+      "linkedinUrl": "https://www.linkedin.com/in/fangfang-lee"
+    },
+    {
+      "id": "ACoAAAC1G_sBiXJe1Ff8CX9dP2L51XcV96yxjK8",
+      "firstName": "Erika",
+      "lastName": "Russi",
+      "position": "CPA turned Data Scientist skilled in translating between technical work and business needs. Bilingual in English and Spanish.",
+      "publicIdentifier": "erika-russi",
+      "linkedinUrl": "https://www.linkedin.com/in/erika-russi"
+    },
+    {
+      "id": "ACoAACrjiSQBscEtgQeFjare3AXmmqkgWNqEJe0",
+      "firstName": "Lauren",
+      "lastName": "Brandenstein",
+      "position": "Advisory AI Engineer at IBM",
+      "publicIdentifier": "lauren-brandenstein",
+      "linkedinUrl": "https://www.linkedin.com/in/lauren-brandenstein"
+    },
+    {
+      "id": "ACoAADd6jR8BHtgrx8RGdnNi1tJLiRF53Elq-7c",
+      "firstName": "Becca",
+      "lastName": "Shamus",
+      "position": "AI Engineer @ IBM | Fellow @ Fibe",
+      "publicIdentifier": "rebecca-shamus",
+      "linkedinUrl": "https://www.linkedin.com/in/rebecca-shamus"
+    },
+    {
+      "id": "ACoAAGmlCvABsGvsiHbhr6t17JWFF_cj_Bo2aks",
+      "firstName": "Nelly",
+      "lastName": "Gamba",
+      "position": "--",
+      "publicIdentifier": "nelly-gamba-3546b8415",
+      "linkedinUrl": "https://www.linkedin.com/in/nelly-gamba-3546b8415"
+    },
+    {
+      "id": "ACoAAGZFvPwBMi7jfsMRU-oWA7YaDAcmVoFaGT8",
+      "firstName": "Emmanuel",
+      "lastName": "mukoma",
+      "position": "--",
+      "publicIdentifier": "emmanuel-mukoma-7b87723ba",
+      "linkedinUrl": "https://www.linkedin.com/in/emmanuel-mukoma-7b87723ba"
+    },
+    {
+      "id": "ACoAAFxi5hwB258KJvmBhgo1GWqaFrkw1z-wC6c",
+      "firstName": "Rose",
+      "lastName": "Bosire",
+      "position": "--",
+      "publicIdentifier": "rose-bosire-2a4106373",
+      "linkedinUrl": "https://www.linkedin.com/in/rose-bosire-2a4106373"
+    },
+    {
+      "id": "ACoAAGn8qXEBXn-2QDGZzGb73YuI8dpXzbL3aqg",
+      "firstName": "Clement",
+      "lastName": "Okuku",
+      "position": "--",
+      "publicIdentifier": "clement-okuku-3a9607417",
+      "linkedinUrl": "https://www.linkedin.com/in/clement-okuku-3a9607417"
+    },
+    {
+      "id": "ACoAAEz_bs8BOxRRH-5EW9L-p1upOFocxtrSR9A",
+      "firstName": "joyce",
+      "lastName": "jefwa",
+      "position": "--",
+      "publicIdentifier": "joyce-jefwa-41375a300",
+      "linkedinUrl": "https://www.linkedin.com/in/joyce-jefwa-41375a300"
+    },
+    {
+      "id": "ACoAAFTshRQBK5ZQvcSqljDGiv2rGJFtQ9Pk_k4",
+      "firstName": "kanori",
+      "lastName": "ndung'u",
+      "position": "--",
+      "publicIdentifier": "kanori-ndung-u-4181a9339",
+      "linkedinUrl": "https://www.linkedin.com/in/kanori-ndung-u-4181a9339"
+    },
+    {
+      "id": "ACoAAGl-_KEBoyy_l_dE5Rzg07eM-51h9FrtTQg",
+      "firstName": "Everlyn",
+      "lastName": "Alele",
+      "position": "--",
+      "publicIdentifier": "everlyn-alele-b958b4414",
+      "linkedinUrl": "https://www.linkedin.com/in/everlyn-alele-b958b4414"
+    },
+    {
+      "id": "ACoAAGlbDdoBEvBLXyemQgJMqUZYrZBw8ahpllI",
+      "firstName": "Maggie",
+      "lastName": "Ong'ele",
+      "position": "--",
+      "publicIdentifier": "maggie-ong-ele-24ab5a413",
+      "linkedinUrl": "https://www.linkedin.com/in/maggie-ong-ele-24ab5a413"
+    },
+    {
+      "id": "ACoAAGBBTqcBoU26PG2fXGpkq2SZdozLt2-KTnw",
+      "firstName": "Ronnie",
+      "lastName": "Lawrence",
+      "position": "--",
+      "publicIdentifier": "ronnie-lawrence-4879a8390",
+      "linkedinUrl": "https://www.linkedin.com/in/ronnie-lawrence-4879a8390"
+    }
+  ],
+  "interests": [
+    {
+      "interestName": "Top Voices",
+      "elements": [
+        {
+          "title": "Natalie (Corporate Natalie)",
+          "subtitle": "2023 LinkedIn Top Voice | Content Creator | CEO of Work-From-Home Jokes | Advisor | Brand Consultant",
+          "link": "https://www.linkedin.com/in/corporatenatalie",
+          "caption": "328,004 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGQwiiWPYE3AQ/profile-displayphoto-shrink_800_800/B56ZRbyAjuHoAc-/0/1736706624262?e=1784160000&v=beta&t=5vLWASPuLSGo1VtpEVA-NRL554VNfjN2FN2gvIdZiXk"
+          }
+        },
+        {
+          "title": "Demis Hassabis",
+          "subtitle": "Co-Founder & CEO, Google DeepMind",
+          "link": "https://www.linkedin.com/in/demishassabis",
+          "caption": "302,323 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQHDlCnuxugKuA/profile-displayphoto-shrink_800_800/B4EZSKW58BHAAc-/0/1737488048398?e=1784160000&v=beta&t=epZIoxHrI9bwaMhUP5_Csz_BtX5qkul4iW04n8YHKuA"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Companies",
+      "elements": [
+        {
+          "title": "IBM",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1009/",
+          "caption": "19,641,566 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ"
+          }
+        },
+        {
+          "title": "Oracle",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1028/",
+          "caption": "11,424,172 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1784160000&v=beta&t=Pl8NTUlyHPaa6eB4Z92u60BdQR4YLonkXsSEJSRtj_0"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Groups",
+      "elements": [
+        {
+          "title": "Rutgers Alumni (Official)",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/37533",
+          "caption": "50,033 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E07AQH5POHbXU-ECg/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1701834708974?e=1783242000&v=beta&t=0wwA5MlomRd3VBTIqsVTgxNHVeWxI0xMI0rVqU9VN0M"
+          }
+        },
+        {
+          "title": "Honors College, Rutgers University–New Brunswick",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/8671193",
+          "caption": "1,086 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C5607AQGT_SaIc41GCQ/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1631010365579?e=1783242000&v=beta&t=vaDlZCcC5tun1LZK1bFnnBPBOyqNgeTWWvk_mNg6bmc"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Newsletters",
+      "elements": [
+        {
+          "title": "Nobody Cares",
+          "subtitle": "Hard-earned insights from 25+ years as a software executive—covering leadership, innovation and strategy",
+          "link": "https://www.linkedin.com/newsletters/7301648459395121153",
+          "caption": "Published monthly",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D5612AQFoii74xe12pQ/series-logo_image-shrink_300_300/B56ZVSqMpfHoAQ-/0/1740848548726?e=1784160000&v=beta&t=70Ngtw-igTu9LulNvU7K8WQwKpZpn4yF-iYviBbpDx4"
+          }
+        },
+        {
+          "title": "AI and Devops Insights",
+          "subtitle": "Get the latest updates in AI & Devops",
+          "link": "https://www.linkedin.com/newsletters/7368987637887434754",
+          "caption": "Published biweekly",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D12AQFA9Dd3zD5lFg/series-logo_image-shrink_300_300/B4DZk3lcRcGgAQ-/0/1757574195653?e=1784160000&v=beta&t=x5-Qcg_W6X9Vn9vltGGrxU34eaw_G6u0my2cO5yXcJs"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Schools",
+      "elements": [
+        {
+          "title": "Columbia University",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/2624/",
+          "caption": "765,625 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFxn78nvVaTDA/company-logo_400_400/company-logo_400_400/0/1630638452046/columbia_university_logo?e=1784160000&v=beta&t=TPimyN_N7tmnrQ-C55jHTgfgWhKiwlIUOTEnmXjVIfY"
+          }
+        },
+        {
+          "title": "Stanford University",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/1792/",
+          "caption": "1,534,014 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1784160000&v=beta&t=SYlFsh5VcwFD-wyOilQdIOnSI3Ab9JpnuaoEmB6iKjs"
+          }
+        }
+      ]
+    }
+  ],
+  "originalQuery": {
+    "url": "https://www.linkedin.com/in/anna-gutowska/"
+  }
+}]

@@ -1,0 +1,1631 @@
+[{
+  "id": "ACoAABNsuLoBIjjsUtxLj9_7sR2Z_0RjexYItIc",
+  "publicIdentifier": "darrylwongqz",
+  "linkedinUrl": "https://www.linkedin.com/in/darrylwongqz",
+  "firstName": "Darryl",
+  "lastName": "Wong",
+  "emails": [],
+  "headline": "Full-Stack + AI Engineer | Building Scalable Systems, AI Agents & LLM Workflows | Python, Java, TypeScript",
+  "openToWork": false,
+  "hiring": false,
+  "premium": false,
+  "influencer": false,
+  "memorialized": false,
+  "creator": true,
+  "location": {
+    "linkedinText": "Singapore",
+    "countryCode": "SG",
+    "parsed": {
+      "text": "Singapore, Singapore",
+      "countryCode": "SG",
+      "regionCode": null,
+      "country": "Singapore",
+      "countryFull": "Singapore",
+      "state": "Central Singapore Community Development Council",
+      "city": "Singapore"
+    }
+  },
+  "objectUrn": "325892282",
+  "registeredAt": "2014-03-01T02:09:17.548Z",
+  "topSkills": [
+    "React.js",
+    "Node.js",
+    "Google Cloud Platform (GCP)",
+    "TypeScript",
+    "Amazon Web Services (AWS)"
+  ],
+  "connectionsCount": 1177,
+  "followerCount": 1252,
+  "verified": true,
+  "about": "Hi, I’m Darryl.\n\nI’m a software engineer who somehow went from investment banking to startups to building software for a living.\n\nI started my career at Citi, where I spent my days building financial models, making PowerPoint slides, and learning that “urgent” is a highly subjective term. After catching the startup bug, I co-founded a few ventures, directed a short web series with more enthusiasm than budget, and eventually discovered that writing code was a far more scalable way to solve problems.\n\nSince then, I’ve built across a fairly wide range of domains: fintech platforms, trading systems, onboarding and identity infrastructure, payments, internal tooling, digital assets, and now AI-native products.\n\nThe upside of taking a slightly chaotic route through finance, startups, and software is that I can usually understand why the business wants something, how the product should work, and why the database is on fire.\n\nI enjoy working across the stack, but I naturally gravitate toward backend systems, platform architecture, and the kind of distributed systems problems that only reveal themselves after you’ve already deployed.\n\nLately, I’ve been spending a lot of time in the AI ecosystem.\n\nWhile the world debates which model tops the benchmark leaderboard this week, I’m more interested in the practical questions:\n\nHow do we make AI systems reliable?\nHow do agents safely interact with tools and other agents?\nHow do we manage context, memory, evaluation, and observability?\nHow do we build AI products that create real business value instead of just impressive demos?\n\nCurrent areas of interest:\n\n- Agentic and multi-agent systems\n- Retrieval-Augmented Generation (RAG)\n- Context-Augmented Generation (CAG)\n- Model Context Protocol (MCP)\n- AI tooling and orchestration\n- LLM evaluation, guardrails, and observability\n- Production AI infrastructure\n\nTech I work with regularly:\n\n- TypeScript / NestJS / React / Next.js\n- Python / FastAPI\n- Java / Spring Boot\n- PostgreSQL / MySQL / Redis\n- AWS / GCP / Terraform / Docker / Kubernetes\n\nI enjoy building products, mentoring engineers, solving difficult technical problems, and occasionally deleting thousands of lines of code that seemed like a great idea six months earlier.\n  \nIf you’re building something interesting in AI, fintech, developer tooling, or infrastructure, let’s connect.\n  \nGitHub: github.com/darrylwongqz",
+  "currentPosition": [
+    {
+      "position": "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer",
+      "location": "Singapore",
+      "employmentType": "Full-time",
+      "workplaceType": "On-site",
+      "companyName": "Tomoro",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/tomoro-ai/",
+      "companyId": "100285071",
+      "duration": "1 yr 1 mo",
+      "description": "Building a ton of AI applications while drinking a lot more coffee than previous roles and lashing my figurative whip on multiple codexes every day.\n\nVibe code cleanup specialist across the stack - frontend, backend, infra & deployed across multiple client projects in the region.\n\nOwner/lead engineer of multiple R&D workstreams that include:\n- Built the Fullstack Template - a developer starter kit that automatically integrates various services with CICD - that the entire firm uses as a base to build agentic applications from and shipping production ready AI applications in days (sometimes hours) not weeks.\n- Sumi - internal prototyping tool primarily for delivery leads and non-technical stakeholders to build apps fast while minimising tech debt when handing projects over to engineers to scale and take to production.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Python (Programming Language)",
+        "Large Language Models (LLM)",
+        "AI Agents",
+        "Microservices",
+        "TypeScript",
+        "DevOps",
+        "Terraform",
+        "Apache Airflow",
+        "React.js",
+        "Next.js",
+        "Google Cloud Platform (GCP)",
+        "Microsoft Azure",
+        "PostgreSQL",
+        "Bash"
+      ],
+      "startDate": {
+        "month": "Jun",
+        "year": 2025,
+        "text": "Jun 2025"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQG2iSxbodtrxw/company-logo_400_400/B4EZm5BaoaIUAY-/0/1759745780772/tomoro_ai_logo?e=1784160000&v=beta&t=x7wLTpriJeOT3AF36YUUYLJqUl1K5Zs-X_3goygei30",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQG2iSxbodtrxw/company-logo_400_400/B4EZm5BaoaIUAY-/0/1759745780772/tomoro_ai_logo?e=1784160000&v=beta&t=x7wLTpriJeOT3AF36YUUYLJqUl1K5Zs-X_3goygei30",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQG2iSxbodtrxw/company-logo_200_200/B4EZm5BaoaIUAI-/0/1759745780772/tomoro_ai_logo?e=1784160000&v=beta&t=QDMdtf0Gp-RZ82sru7GDW35xLe7UVIPQun3XitDRyzA",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQG2iSxbodtrxw/company-logo_100_100/B4EZm5BaoaIUAQ-/0/1759745780772/tomoro_ai_logo?e=1784160000&v=beta&t=JcZKeFtAITFWqNPHT3nU-JgjWcNXB0mnoLYHKuFGtPQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "tomoro-ai"
+    }
+  ],
+  "profileTopEducation": [
+    {
+      "schoolName": "NYU Stern School of Business",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/3157/",
+      "schoolId": "3157",
+      "degree": "Bachelor of Science - BS",
+      "fieldOfStudy": "Finance",
+      "period": null,
+      "startDate": null,
+      "endDate": null,
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_400_400/company-logo_400_400/0/1631317988803?e=1784160000&v=beta&t=TswGbbbDNuhYYZlXOYCTzEevH9gz76ey6i-k6LLDUJs",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_400_400/company-logo_400_400/0/1631317988803?e=1784160000&v=beta&t=TswGbbbDNuhYYZlXOYCTzEevH9gz76ey6i-k6LLDUJs",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_200_200/company-logo_200_200/0/1631317988803?e=1784160000&v=beta&t=X_ijBTGK37NIWFBjOlxfl61pBfl60LiENdoLud5tdog",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_100_100/company-logo_100_100/0/1631317988803?e=1784160000&v=beta&t=CF5m4VU-K9iw-CaVBLZgWcJGXjmTHY5__WNl2izXjQc",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "profileActions": [],
+  "profilePicture": null,
+  "coverPicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D5616AQEOtgNR9ydJDA/profile-displaybackgroundimage-shrink_350_1400/B56ZllGmx_KIAY-/0/1758337855201?e=1784160000&v=beta&t=gp3cQ5MOZYAxGnjE56fWrqTy5frZLZpTffyn3tKDxJ4",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5616AQEOtgNR9ydJDA/profile-displaybackgroundimage-shrink_350_1400/B56ZllGmx_KIAY-/0/1758337855201?e=1784160000&v=beta&t=gp3cQ5MOZYAxGnjE56fWrqTy5frZLZpTffyn3tKDxJ4",
+        "width": 1400,
+        "height": 350
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5616AQEOtgNR9ydJDA/profile-displaybackgroundimage-shrink_200_800/B56ZllGmx_KIAU-/0/1758337855201?e=1784160000&v=beta&t=LaqihBpzUdeqEKW1rFAQb83ifNLun1KpS9Y3Bk37kmY",
+        "width": 800,
+        "height": 200
+      }
+    ]
+  },
+  "photo": null,
+  "profileLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "primaryLocale": {
+    "country": "US",
+    "language": "en"
+  },
+  "multiLocaleHeadline": [
+    {
+      "headline": "Full-Stack + AI Engineer | Building Scalable Systems, AI Agents & LLM Workflows | Python, Java, TypeScript",
+      "locale": "en_US"
+    }
+  ],
+  "services": null,
+  "experience": [
+    {
+      "position": "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer",
+      "location": "Singapore",
+      "employmentType": "Full-time",
+      "workplaceType": "On-site",
+      "companyName": "Tomoro",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/tomoro-ai/",
+      "companyId": "100285071",
+      "duration": "1 yr 1 mo",
+      "description": "Building a ton of AI applications while drinking a lot more coffee than previous roles and lashing my figurative whip on multiple codexes every day.\n\nVibe code cleanup specialist across the stack - frontend, backend, infra & deployed across multiple client projects in the region.\n\nOwner/lead engineer of multiple R&D workstreams that include:\n- Built the Fullstack Template - a developer starter kit that automatically integrates various services with CICD - that the entire firm uses as a base to build agentic applications from and shipping production ready AI applications in days (sometimes hours) not weeks.\n- Sumi - internal prototyping tool primarily for delivery leads and non-technical stakeholders to build apps fast while minimising tech debt when handing projects over to engineers to scale and take to production.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Python (Programming Language)",
+        "Large Language Models (LLM)",
+        "AI Agents",
+        "Microservices",
+        "TypeScript",
+        "DevOps",
+        "Terraform",
+        "Apache Airflow",
+        "React.js",
+        "Next.js",
+        "Google Cloud Platform (GCP)",
+        "Microsoft Azure",
+        "PostgreSQL",
+        "Bash"
+      ],
+      "startDate": {
+        "month": "Jun",
+        "year": 2025,
+        "text": "Jun 2025"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQG2iSxbodtrxw/company-logo_400_400/B4EZm5BaoaIUAY-/0/1759745780772/tomoro_ai_logo?e=1784160000&v=beta&t=x7wLTpriJeOT3AF36YUUYLJqUl1K5Zs-X_3goygei30",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQG2iSxbodtrxw/company-logo_400_400/B4EZm5BaoaIUAY-/0/1759745780772/tomoro_ai_logo?e=1784160000&v=beta&t=x7wLTpriJeOT3AF36YUUYLJqUl1K5Zs-X_3goygei30",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQG2iSxbodtrxw/company-logo_200_200/B4EZm5BaoaIUAI-/0/1759745780772/tomoro_ai_logo?e=1784160000&v=beta&t=QDMdtf0Gp-RZ82sru7GDW35xLe7UVIPQun3XitDRyzA",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQG2iSxbodtrxw/company-logo_100_100/B4EZm5BaoaIUAQ-/0/1759745780772/tomoro_ai_logo?e=1784160000&v=beta&t=JcZKeFtAITFWqNPHT3nU-JgjWcNXB0mnoLYHKuFGtPQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "tomoro-ai"
+    },
+    {
+      "position": "Software Engineer",
+      "location": "Singapore",
+      "employmentType": "Full-time",
+      "workplaceType": "On-site",
+      "companyName": "Alta (formerly Fundnel)",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/altaexchange/",
+      "companyId": "6431061",
+      "duration": "3 yrs 2 mos",
+      "description": "Frontend, Backend, DevSecOps - did it all. Some say this is a full stack role, but full cycle engineer would be more apt.\n\nDrank way too much coffee raising and assigning myself Jira tickets to the issues I found, triaged and solved. Fell short of being awarded a medal because the budget found its way to better use - pizzas and beer parties to boost team morale - did I mention we tokenized whiskies?\n\nJokes aside, learnt a lot, and I’m glad I was able to take on massive scope and responsibilities that I’m sure I would not be able to experience in most bigger firms.",
+      "skills": [
+        "NestJS",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Software Development Life Cycle (SDLC)",
+        "Cascading Style Sheets (CSS)",
+        "TypeScript",
+        "Google Cloud Platform (GCP)",
+        "GitHub",
+        "Jira",
+        "Back-End Web Development",
+        "MySQL",
+        "Next.js",
+        "React.js",
+        "Docker",
+        "Node.js",
+        "JavaScript",
+        "Terraform",
+        "Amazon Web Services (AWS)",
+        "Bitbucket",
+        "Bash",
+        "Front-End Development"
+      ],
+      "startDate": {
+        "month": "Apr",
+        "year": 2022,
+        "text": "Apr 2022"
+      },
+      "endDate": {
+        "month": "May",
+        "year": 2025,
+        "text": "May 2025"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHqsr6c_mdnNg/company-logo_400_400/company-logo_400_400/0/1664468310268/fundnel_limited_logo?e=1784160000&v=beta&t=te-Tm-1_1VSbKzlpDnYHVw8-P2WgwjlHoUpXHS2Cpxo",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHqsr6c_mdnNg/company-logo_400_400/company-logo_400_400/0/1664468310268/fundnel_limited_logo?e=1784160000&v=beta&t=te-Tm-1_1VSbKzlpDnYHVw8-P2WgwjlHoUpXHS2Cpxo",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHqsr6c_mdnNg/company-logo_200_200/company-logo_200_200/0/1664468310268/fundnel_limited_logo?e=1784160000&v=beta&t=CyASzi-FlMkrOhsVOMe2U-XLRbThcrCcp4nCEKEzdJg",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHqsr6c_mdnNg/company-logo_100_100/company-logo_100_100/0/1664468310268/fundnel_limited_logo?e=1784160000&v=beta&t=jO9EOU32VKP64y3JNN-c4_CE0LviBYMHkVd7eXa57d8",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "altaexchange"
+    },
+    {
+      "position": "Lead Instructor (Software Engineering)",
+      "location": "Singapore",
+      "employmentType": "Part-time",
+      "workplaceType": "Hybrid",
+      "companyName": "General Assembly",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/2408664/",
+      "companyId": "2408664",
+      "duration": "Less than a year",
+      "description": "Helping career switchers go from zero to full stack heroes!",
+      "skills": null,
+      "startDate": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "endDate": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_400_400/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1784160000&v=beta&t=FrhHEMY1KzruHNURzh7HPkZ9ntN_nfQQK2vxhek3mIw",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_400_400/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1784160000&v=beta&t=FrhHEMY1KzruHNURzh7HPkZ9ntN_nfQQK2vxhek3mIw",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_200_200/company-logo_200_200/0/1630655071296/generalassembly_logo?e=1784160000&v=beta&t=_MFCgZMsYNML5oNG07HrqVCOser5gnJ-Tk--edASUUk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_100_100/company-logo_100_100/0/1630655071297/generalassembly_logo?e=1784160000&v=beta&t=7DB7E69RRyt0DU02xr0Csvvh70VbvMsoDKHyFNwKK2M",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "position": "Entrepreneur",
+      "location": "Singapore",
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "Antler",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/antlerglobal/",
+      "companyId": "27221633",
+      "duration": "Less than a year",
+      "description": "Antler is a global early-stage venture capital firm that invests in the defining technology companies of tomorrow.\n\nRapidly tested start-up ideas with over a period of a few months. Worked with venture capitalists and industry specialists to find product-market-fit for these ideas... \n\nBasically a nice way of phrasing how I created lots of slide decks selling dreams to people with money with the hope that they buy into one of them and/or help create them together with me.",
+      "skills": null,
+      "startDate": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "endDate": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGcO8WhScYJvg/company-logo_400_400/company-logo_400_400/0/1630652634929/antlerglobal_logo?e=1784160000&v=beta&t=NJ6JQk7yjt_HALB-potsI8cseBviF_iDF12Bj8-Yb0w",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGcO8WhScYJvg/company-logo_400_400/company-logo_400_400/0/1630652634929/antlerglobal_logo?e=1784160000&v=beta&t=NJ6JQk7yjt_HALB-potsI8cseBviF_iDF12Bj8-Yb0w",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGcO8WhScYJvg/company-logo_200_200/company-logo_200_200/0/1630652634929/antlerglobal_logo?e=1784160000&v=beta&t=cBC0c74ybMfCT2SkCGdfemU6brgv7DKy_UYx4JEIIRk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGcO8WhScYJvg/company-logo_100_100/company-logo_100_100/0/1630652634929/antlerglobal_logo?e=1784160000&v=beta&t=bdkG-6CDqos1vrYNIpVp5xQgBMJvRf4AhcegGYxB0NQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "antlerglobal"
+    },
+    {
+      "position": "Co-Founder & CEO",
+      "location": "Singapore",
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "paragraph.",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/useparagraph/",
+      "companyId": "74725905",
+      "duration": "Less than a year",
+      "description": "My first real shot at creating a tech-enabled startup where our team made a push for users to get rewarded while getting served more relevant ads.\n\nLiaised with various big name publishers in the region in an effort to push our mutually beneficial unique UA strategy.\n\nBut really... the highlight of the whole experience was when I directed, produced and edited a cool web-series laced with deadpan humour as part of marketing: https://youtu.be/okKocxXv8iY",
+      "skills": null,
+      "startDate": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "endDate": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQF_LeVa_l1ulg/company-logo_400_400/company-logo_400_400/0/1630640567363?e=1784160000&v=beta&t=iGCNuDhcONnCZXqPm9VOw9z1u1_BvFgaXBDWvXrOiuc",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQF_LeVa_l1ulg/company-logo_400_400/company-logo_400_400/0/1630640567363?e=1784160000&v=beta&t=iGCNuDhcONnCZXqPm9VOw9z1u1_BvFgaXBDWvXrOiuc",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQF_LeVa_l1ulg/company-logo_200_200/company-logo_200_200/0/1630640567362?e=1784160000&v=beta&t=EGet_PMv7d3s1zbivV_XwVkSiDp1tfpufx6tmzm5tXo",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQF_LeVa_l1ulg/company-logo_100_100/company-logo_100_100/0/1630640567363?e=1784160000&v=beta&t=-3pZ21idxKTqvHoMwUQzA59hvCZIBTIIMnaH0M_yQ4w",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "useparagraph"
+    },
+    {
+      "position": "Founder",
+      "location": "Singapore",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "DW Brands Pte Ltd",
+      "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=DW+Brands+Pte+Ltd",
+      "duration": "2 yrs",
+      "description": "Ran even more Facebook Ads, this time for E-Commerce until Covid came.\n\nTook a portion of the profits and invested in Shopify - made more money there ironically.\n\nThen pivoted to mainly content creation. My career trajectory might have been completely different should I have had the guts to post dance videos on TikTok.\n\nOh did I mention that I learnt how to code during this period too?",
+      "skills": null,
+      "startDate": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "endDate": {
+        "year": 2021,
+        "text": "2021"
+      }
+    },
+    {
+      "position": "Media Trading",
+      "location": "Singapore",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "The Trade Desk",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/892001/",
+      "companyId": "892001",
+      "duration": "Less than a year",
+      "description": "Programmatic Advertising Specialist\nI was there long enough to know that I should invest in the company.\n\nAnd yes I invested.",
+      "skills": null,
+      "startDate": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "endDate": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEiipi1eIta9A/company-logo_400_400/company-logo_400_400/0/1712686752136/the_trade_desk_logo?e=1784160000&v=beta&t=uVkypuYyDaz38KiAb2q-Od8jl4r35Pwkc-Q6el9CYHs",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEiipi1eIta9A/company-logo_400_400/company-logo_400_400/0/1712686752136/the_trade_desk_logo?e=1784160000&v=beta&t=uVkypuYyDaz38KiAb2q-Od8jl4r35Pwkc-Q6el9CYHs",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEiipi1eIta9A/company-logo_200_200/company-logo_200_200/0/1712686752136/the_trade_desk_logo?e=1784160000&v=beta&t=l36k0VGA_3Z1kRgiQ8HzL1I8edAk5Ftb3uK7lyd_cI0",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEiipi1eIta9A/company-logo_100_100/company-logo_100_100/0/1712686752136/the_trade_desk_logo?e=1784160000&v=beta&t=Q8cVqqYZlm6abUAbigbHLdPwelleeXIkFPj7IB4X0Ls",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "position": "Affiliate Marketer",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Affiliate Marketing",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/984648/",
+      "companyId": "984648",
+      "duration": "1 yr",
+      "description": "Ran a bunch of Facebook ads, got a cut of the revenue selling other people's products.\n\nI arguably got in at the last bit of time where affiliate marketing was easy to make money.",
+      "skills": null,
+      "startDate": {
+        "year": 2018,
+        "text": "2018"
+      },
+      "endDate": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "companyLogo": null
+    },
+    {
+      "position": "Investment Banking Analyst",
+      "location": "Hong Kong SAR",
+      "employmentType": "Full-time",
+      "workplaceType": "On-site",
+      "companyName": "Citi",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/11448/",
+      "companyId": "11448",
+      "duration": "3 yrs",
+      "description": "Debt Capital Markets & Leveraged Finance\n\nCreated lots of decks, tinkered with a lot of excel sheets, and found many reasons to justify volatile market movements with the US president's twitter account retroactively.\n\n“Always a good time to raise” was the motto instilled by my bosses and reflected in the pitch books that I ended up getting staffed on till 3-4am in the mornings every other day.\n\nAlso wrote a lot of credit memos and also managed to discover many synonyms and phrases to describe the same thing 5x over to show our risk committee that we did our homework and due diligence",
+      "skills": null,
+      "startDate": {
+        "year": 2016,
+        "text": "2016"
+      },
+      "endDate": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_400_400/company-logo_400_400/0/1719257068492/citi_logo?e=1784160000&v=beta&t=Sinj7L4GDkYuPLGWrDD4zUdZ4HkcB8QXEc9uZJHpYt4",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_400_400/company-logo_400_400/0/1719257068492/citi_logo?e=1784160000&v=beta&t=Sinj7L4GDkYuPLGWrDD4zUdZ4HkcB8QXEc9uZJHpYt4",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_200_200/company-logo_200_200/0/1719257270317/citi_logo?e=1784160000&v=beta&t=W6glTcuHnMUyBMmlE1toqEFJt2VaNTnVUJb-2FdUUmM",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_100_100/company-logo_100_100/0/1719257286385/citi_logo?e=1784160000&v=beta&t=Ffv8d1jvs2Z2tJqyhNUZFU_eDsA2mMN3AhM-qEd8daI",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "position": "M&A Transactions Services",
+      "location": "Singapore",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Deloitte Financial Advisory Services",
+      "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Deloitte+Financial+Advisory+Services",
+      "duration": "Less than a year",
+      "description": "I now know a lot about the plastic surgery industry because I was made to do a comprehensive deck on it.\n\nBiggest takeaway is to not do fillers, they stay in your face way longer than you think and not in places you want.",
+      "skills": null,
+      "startDate": {
+        "year": 2015,
+        "text": "2015"
+      },
+      "endDate": {
+        "year": 2015,
+        "text": "2015"
+      }
+    },
+    {
+      "position": "Investment Banking",
+      "location": "Singapore",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Canaccord Genuity Inc.",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/978774/",
+      "companyId": "978774",
+      "duration": "Less than a year",
+      "description": "Equity Capital Markets\n\nStared at prospectuses all day. Had a lot of $2 Old Tea Hut Coffee.\n\nGreatest contribution would be providing my team free access to CapitalIQ that my university paid for (well I guess I paid for it via my exorbitant school fees).",
+      "skills": null,
+      "startDate": {
+        "year": 2015,
+        "text": "2015"
+      },
+      "endDate": {
+        "year": 2015,
+        "text": "2015"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D0BAQG0FFAiNCGZ_w/company-logo_400_400/company-logo_400_400/0/1719844982475/canaccord_genuity_global_capital_markets_logo?e=1784160000&v=beta&t=kczevI5Tzp0MtoVgKkd2LY3MOrMsRM6MS7es3Gq_OTE",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQG0FFAiNCGZ_w/company-logo_400_400/company-logo_400_400/0/1719844982475/canaccord_genuity_global_capital_markets_logo?e=1784160000&v=beta&t=kczevI5Tzp0MtoVgKkd2LY3MOrMsRM6MS7es3Gq_OTE",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQG0FFAiNCGZ_w/company-logo_200_200/company-logo_200_200/0/1719844982475/canaccord_genuity_global_capital_markets_logo?e=1784160000&v=beta&t=OK2DDmsNC4E62EzMbJkBKsEihjlTVeIilbSglCaqLsY",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQG0FFAiNCGZ_w/company-logo_100_100/company-logo_100_100/0/1719844982475/canaccord_genuity_global_capital_markets_logo?e=1784160000&v=beta&t=5lIH9Scf_N1NUxqSEuHH3eZX2dYqv0SkvX1kHVcOKjw",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "position": "Finance",
+      "location": "Singapore",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Surbana International Consultants",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/47658/",
+      "companyId": "47658",
+      "duration": "Less than a year",
+      "description": "Learnt how to use the SAP system and chased other companies to pay up their dues in a timely fashion.\n\nI got really good at folding pink slips and shoving them into envelopes.\n\nCould recite the SAP codes for accounts receivable in my sleep for a while.",
+      "skills": null,
+      "startDate": {
+        "year": 2014,
+        "text": "2014"
+      },
+      "endDate": {
+        "year": 2014,
+        "text": "2014"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEt-_F91M1ntw/company-logo_400_400/company-logo_400_400/0/1710734279856/surbanajuronggroup_logo?e=1784160000&v=beta&t=xWrM43lXfAkllR_3LVugVPmmHjlJcvR6XKxAwG7OjJs",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEt-_F91M1ntw/company-logo_400_400/company-logo_400_400/0/1710734279856/surbanajuronggroup_logo?e=1784160000&v=beta&t=xWrM43lXfAkllR_3LVugVPmmHjlJcvR6XKxAwG7OjJs",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEt-_F91M1ntw/company-logo_200_200/company-logo_200_200/0/1710734279856/surbanajuronggroup_logo?e=1784160000&v=beta&t=7u95bjOgmLPJxaGVzxj83tmoWDfPlh_Cj-f-OG7uSKg",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEt-_F91M1ntw/company-logo_100_100/company-logo_100_100/0/1710734279856/surbanajuronggroup_logo?e=1784160000&v=beta&t=vDtZBB6UmMe7ldn1Uiz66SjwX0rs-UL6SLqH5fcAMaQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "NYU Stern School of Business",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/3157/",
+      "schoolId": "3157",
+      "degree": "Bachelor of Science - BS",
+      "fieldOfStudy": "Finance",
+      "skills": [],
+      "description": "Contrary to what a lot of people think about college, I did learn a lot about investing and finance there from professors who actually put their money where their mouths are.\nAlso the best time of my life that I will forever treasure.",
+      "insights": "Grade: GPA 3.86/4.00, Magna Cum Laude",
+      "startDate": null,
+      "endDate": {},
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_400_400/company-logo_400_400/0/1631317988803?e=1784160000&v=beta&t=TswGbbbDNuhYYZlXOYCTzEevH9gz76ey6i-k6LLDUJs",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_400_400/company-logo_400_400/0/1631317988803?e=1784160000&v=beta&t=TswGbbbDNuhYYZlXOYCTzEevH9gz76ey6i-k6LLDUJs",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_200_200/company-logo_200_200/0/1631317988803?e=1784160000&v=beta&t=X_ijBTGK37NIWFBjOlxfl61pBfl60LiENdoLud5tdog",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_100_100/company-logo_100_100/0/1631317988803?e=1784160000&v=beta&t=CF5m4VU-K9iw-CaVBLZgWcJGXjmTHY5__WNl2izXjQc",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "Anderson Junior College",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/30980099/",
+      "schoolId": "30980099",
+      "degree": "GCE A'Levels",
+      "fieldOfStudy": null,
+      "skills": [],
+      "description": "2 years went by so fast it almost felt like it didn't happen.\nAlso a time where I could bury my head into books almost 24/7 without complaining.",
+      "insights": "Grade: 6 Distinctions\nActivities and societies: Anderson Junior College Academic Scholar, A'STAR (JC) Science Award, Table Tennis Club",
+      "startDate": null,
+      "endDate": {},
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C510BAQHT_A6rZKkTWA/company-logo_400_400/company-logo_400_400/0/1630625123313?e=1784160000&v=beta&t=teMQXKgEkmtmJpdLD5TrXxr5x9lMijP2MQgZpL5KlVc",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQHT_A6rZKkTWA/company-logo_400_400/company-logo_400_400/0/1630625123313?e=1784160000&v=beta&t=teMQXKgEkmtmJpdLD5TrXxr5x9lMijP2MQgZpL5KlVc",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQHT_A6rZKkTWA/company-logo_200_200/company-logo_200_200/0/1630625123313?e=1784160000&v=beta&t=uxLltmAyDHqq68ekRoUbHE4eyLyccBovPhaDYuNZuMQ",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQHT_A6rZKkTWA/company-logo_100_100/company-logo_100_100/0/1630625123313?e=1784160000&v=beta&t=lL6JqmV-lyAiNvgk1EQgY1i3F4a-2isU-0Fm33zNaP0",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "General Assembly",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/2408664/",
+      "schoolId": "2408664",
+      "degree": "Software Engineering Immersive",
+      "fieldOfStudy": "Full Stack Web Development",
+      "skills": [],
+      "insights": "Activities and societies: Learnt to code. Met great people. Really enjoyed my time diving deep into programming. Also a time where I thought I wrote good code, but really wrote so much spagetti I could pass off as an Italian.",
+      "startDate": null,
+      "endDate": {},
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_400_400/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1784160000&v=beta&t=FrhHEMY1KzruHNURzh7HPkZ9ntN_nfQQK2vxhek3mIw",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_400_400/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1784160000&v=beta&t=FrhHEMY1KzruHNURzh7HPkZ9ntN_nfQQK2vxhek3mIw",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_200_200/company-logo_200_200/0/1630655071296/generalassembly_logo?e=1784160000&v=beta&t=_MFCgZMsYNML5oNG07HrqVCOser5gnJ-Tk--edASUUk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_100_100/company-logo_100_100/0/1630655071297/generalassembly_logo?e=1784160000&v=beta&t=7DB7E69RRyt0DU02xr0Csvvh70VbvMsoDKHyFNwKK2M",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Cypress End-to-End Testing - Getting Started",
+      "issuedAt": "Issued May 2023",
+      "link": "https://nlbsg.udemy.com/certificate/UC-ba57f0a9-f245-4b0b-b3c8-b29f917361c2/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "GitHub Actions - The Complete Guide",
+      "issuedAt": "Issued Jan 2023",
+      "link": "https://nlbsg.udemy.com/certificate/UC-fbf397bc-6c7d-4a1e-940d-8ce96dee7f36/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Fundamentals of Backend Communications and Protocols",
+      "issuedAt": "Issued Jan 2023",
+      "link": "https://nlbsg.udemy.com/certificate/UC-39fa8291-19a5-4866-8887-ee6583a76a47/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Javascript Unit Testing - The Practical Guide",
+      "issuedAt": "Issued Oct 2022",
+      "link": "https://nlbsg.udemy.com/certificate/UC-c452c1af-b54e-4fa3-a30f-b304e9156cb9/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Algorithms and Data Structures",
+      "issuedAt": "Issued Mar 2022",
+      "link": "https://certificates.emeritus.org/58c9065a-5fe7-4b5c-bce9-e6e9f4377f02",
+      "issuedBy": "Carnegie Mellon University School of Computer Science",
+      "issuedByLink": "https://www.linkedin.com/company/28172194/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGMNW-foa0zIg/company-logo_400_400/company-logo_400_400/0/1630472413403/cmuscs_logo?e=1784160000&v=beta&t=IbP7t1JYvsZ51BlnkQxTVr_otgcnxHSK_zeLDYvGL2I",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGMNW-foa0zIg/company-logo_400_400/company-logo_400_400/0/1630472413403/cmuscs_logo?e=1784160000&v=beta&t=IbP7t1JYvsZ51BlnkQxTVr_otgcnxHSK_zeLDYvGL2I",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGMNW-foa0zIg/company-logo_200_200/company-logo_200_200/0/1630472413403/cmuscs_logo?e=1784160000&v=beta&t=no2h7d1M6cBEOxjScdFSSRLzQvtV7Lejqt2ru85C6RU",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGMNW-foa0zIg/company-logo_100_100/company-logo_100_100/0/1630472413403/cmuscs_logo?e=1784160000&v=beta&t=3j8ihrnF0spdcvzrQZegkxtWoHk-x3fCD5dYRN6am5U",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Understanding TypeScript - 2022 Edition",
+      "issuedAt": "Issued Mar 2022",
+      "link": "https://www.udemy.com/certificate/UC-a1d61d7b-11d5-4191-8079-0ee5c70e40c6/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mastering Data Modeling Fundamentals",
+      "issuedAt": "Issued Feb 2022",
+      "link": "https://www.udemy.com/certificate/UC-7b822e37-55fe-43c7-a873-d2894f3f46f1/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Modern GraphQL with Node - Complete Developers Guide",
+      "issuedAt": "Issued Jan 2022",
+      "link": "https://www.udemy.com/certificate/UC-35cd6006-c693-471e-a2a7-ab30813104e4/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Tailwind CSS : A Modern Way To Build Websites Using CSS",
+      "issuedAt": "Issued Dec 2021",
+      "link": "https://www.udemy.com/certificate/UC-23f42097-8667-4383-8d19-76d6524d509c/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Complete Developers Guide to MongoDB - Stephen Grider",
+      "issuedAt": "Issued Oct 2021",
+      "link": "https://www.udemy.com/certificate/UC-44087788-9c5a-4ce8-b46e-7fc7a16ff834/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Landing Page Design & Conversion Rate Optimization 2018",
+      "issuedAt": "Issued Oct 2021",
+      "link": "https://www.udemy.com/certificate/UC-18d25465-2934-46f0-8746-858aa97d15f5/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Modern Javascript Bootcamp Course (2021) - Stephen Grider",
+      "issuedAt": "Issued Oct 2021",
+      "link": "https://www.udemy.com/certificate/UC-c4d761b6-56dd-4f8c-8014-fea3568270f2/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Complete 2021 Web Development Bootcamp - Dr Angela Yu",
+      "issuedAt": "Issued Sep 2021",
+      "link": "https://www.udemy.com/certificate/UC-2d76ab63-c899-4cc9-b6e9-bdb7c5136fac/",
+      "issuedBy": "Udemy",
+      "issuedByLink": "https://www.linkedin.com/company/822535/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=JUk-xcXaXalYv7gZXmZIW8CTxu2icb4M0ZlNVEXAfh0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=8gTGCS6roBgcA0jvcSUSs20CCBF9G1HNJ2JW36F0t5g",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1784160000&v=beta&t=AvImK1pUi_zmILgMSMD3b7X9PeHPJBQjdImh-uHzxcY",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "projects": [],
+  "volunteering": [],
+  "receivedRecommendations": [],
+  "skills": [
+    {
+      "name": "Artificial Intelligence (AI)",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "Large Language Models (LLM)",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "Microservices",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "Software Development Life Cycle (SDLC)",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "TypeScript",
+      "positions": [
+        "2 experiences across Tomoro and 1 other company"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Front-End Development",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Back-End Web Development",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Data Analysis",
+      "endorsements": "4 endorsements"
+    },
+    {
+      "name": "Social Media",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Research",
+      "endorsements": "4 endorsements"
+    },
+    {
+      "name": "Customer Service",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Finance",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Corporate Finance",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Event Planning",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Facebook Marketing",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "E-commerce",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "English",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Apache Airflow",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "Microsoft Azure",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "Python (Programming Language)",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "positions": [
+        "2 experiences across Tomoro and 1 other company"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "NestJS",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "React.js",
+      "positions": [
+        "2 experiences across Tomoro and 1 other company"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Terraform",
+      "positions": [
+        "2 experiences across Tomoro and 1 other company"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "positions": [
+        "2 experiences across Tomoro and 1 other company"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "JavaScript",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Docker",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Node.js",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "MySQL",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Bash",
+      "positions": [
+        "2 experiences across Tomoro and 1 other company"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "GitHub",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Bitbucket",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Jira",
+      "positions": [
+        "Software Engineer at Alta (formerly Fundnel)"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Microsoft Excel",
+      "endorsements": "5 endorsements"
+    },
+    {
+      "name": "AI Agents",
+      "positions": [
+        "Member of Technical Staff | Applied AI Engineering | Forward Deployed Engineer at Tomoro"
+      ]
+    },
+    {
+      "name": "Teamwork",
+      "endorsements": "6 endorsements"
+    },
+    {
+      "name": "Public Speaking",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Leadership",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "PowerPoint",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Microsoft Word",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Microsoft Office",
+      "endorsements": "5 endorsements"
+    }
+  ],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [],
+  "languages": [],
+  "organizations": [],
+  "causes": [],
+  "featured": null,
+  "composeOptionType": null,
+  "moreProfiles": [
+    {
+      "id": "ACoAACinr-UB_WTVcX8wyZ76hshKNfeukbXk9Lo",
+      "firstName": "Douglas",
+      "lastName": "Adams",
+      "position": "Applied AI at Tomoro",
+      "publicIdentifier": "douglas-adams99",
+      "linkedinUrl": "https://www.linkedin.com/in/douglas-adams99"
+    },
+    {
+      "id": "ACoAABu9NGoBE008Mw3OriOLLD5h7q4TPRB8XXA",
+      "firstName": "Bjorn",
+      "lastName": "Jee",
+      "position": "Tomoro.ai - AI Engineer",
+      "publicIdentifier": "bjorn-jee-922a3310b",
+      "linkedinUrl": "https://www.linkedin.com/in/bjorn-jee-922a3310b"
+    },
+    {
+      "id": "ACoAACz4zMMBXhFGIHcwsbLsSlULpU0OWvYtJJY",
+      "firstName": "Sheah Wen",
+      "lastName": "Liaw",
+      "position": "AI Engineer",
+      "publicIdentifier": "sheahwen",
+      "linkedinUrl": "https://www.linkedin.com/in/sheahwen"
+    },
+    {
+      "id": "ACoAABBi0bMBZzKWGSc4PGYBYkOSkYPuL5UmhuA",
+      "firstName": "Ugo",
+      "lastName": "Okoroafor",
+      "position": "AI Engineer | Member of Technical Staff @ Tomoro",
+      "publicIdentifier": "ugo-okoroafor-49709878",
+      "linkedinUrl": "https://www.linkedin.com/in/ugo-okoroafor-49709878"
+    },
+    {
+      "id": "ACoAAB_V0PABvzbyiNexiUL8tZBzYsQxtVjkWlQ",
+      "firstName": "Peng Seng",
+      "lastName": "Ang",
+      "position": "AI Engineer | Member of Technical Staff at Tomoro.ai",
+      "publicIdentifier": "pengsengang95",
+      "linkedinUrl": "https://www.linkedin.com/in/pengsengang95"
+    },
+    {
+      "id": "ACoAAC5J_zAB2V5lo06E9OMmSGw4fsjAyzrDUKQ",
+      "firstName": "Frank",
+      "lastName": "Mitchell",
+      "position": "Member of Technical Staff @ Tomoro AI",
+      "publicIdentifier": "frankmitchellai",
+      "linkedinUrl": "https://www.linkedin.com/in/frankmitchellai"
+    },
+    {
+      "id": "ACoAADFbEXUBGdnI4htAMSiNJRx_0EWfkLke7IU",
+      "firstName": "Oliver",
+      "lastName": "Wood",
+      "position": "Forward Deployed AI Engineer | Member of Technical Staff @ Tomoro.ai",
+      "publicIdentifier": "oliverhwood",
+      "linkedinUrl": "https://www.linkedin.com/in/oliverhwood"
+    },
+    {
+      "id": "ACoAAA7v50EBCTB8ASXUPpdsOe0S7AbNS88C32U",
+      "firstName": "Xin",
+      "lastName": "Huang",
+      "position": "Member of technical staff at Tomoro.AI",
+      "publicIdentifier": "xin-huang-0a9b156b",
+      "linkedinUrl": "https://www.linkedin.com/in/xin-huang-0a9b156b"
+    },
+    {
+      "id": "ACoAAAWTBMoBrdNuY2EJzx8riLSbqQXFZqHOjE8",
+      "firstName": "Darren",
+      "lastName": "Foong",
+      "position": "AI Engineer | Member of Technical Staff at Tomoro.ai",
+      "publicIdentifier": "darrenfoong",
+      "linkedinUrl": "https://www.linkedin.com/in/darrenfoong"
+    },
+    {
+      "id": "ACoAABiKP40BkmF6MfG2qTCAzULIo6I4hVrvYB8",
+      "firstName": "Shubham",
+      "lastName": "Gupta",
+      "position": "Software Engineer",
+      "publicIdentifier": "shubhamgupta2208",
+      "linkedinUrl": "https://www.linkedin.com/in/shubhamgupta2208"
+    },
+    {
+      "id": "ACoAAAmxkjwBWPRv2RmQ0NSN44B7aFHvjhKbJW4",
+      "firstName": "José",
+      "lastName": "Herrera",
+      "position": "--",
+      "publicIdentifier": "jos%C3%A9-herrera-a7856b46",
+      "linkedinUrl": "https://www.linkedin.com/in/jos%C3%A9-herrera-a7856b46"
+    },
+    {
+      "id": "ACoAAGkrWNUBBEIRRPqslUr_vnBO8ETbIZwzaSA",
+      "firstName": "Madeline",
+      "lastName": "Oliva",
+      "position": "--",
+      "publicIdentifier": "madeline-oliva-a45ab0412",
+      "linkedinUrl": "https://www.linkedin.com/in/madeline-oliva-a45ab0412"
+    },
+    {
+      "id": "ACoAAGk8hVQBqctpmP5zabkqp4lW_zYoTTHschA",
+      "firstName": "Sara",
+      "lastName": "Yepez",
+      "position": "--",
+      "publicIdentifier": "sara-yepez-244354413",
+      "linkedinUrl": "https://www.linkedin.com/in/sara-yepez-244354413"
+    },
+    {
+      "id": "ACoAAGl_-BAB8tAa5WnLTIfHW-RhbMn0yF1wZKM",
+      "firstName": "Luis",
+      "lastName": "Solis Aguirre",
+      "position": "--",
+      "publicIdentifier": "luis-solis-aguirre-294926414",
+      "linkedinUrl": "https://www.linkedin.com/in/luis-solis-aguirre-294926414"
+    },
+    {
+      "id": "ACoAAGoS15EBDUgd9R4HnoYUsd0BrF2U6pHu78Y",
+      "firstName": "Jairo",
+      "lastName": "Armijo",
+      "position": "--",
+      "publicIdentifier": "jairo-armijo-641ba8417",
+      "linkedinUrl": "https://www.linkedin.com/in/jairo-armijo-641ba8417"
+    },
+    {
+      "id": "ACoAAGm-334BMKhGV5B9KIoc1EoJplaJ21nWl4A",
+      "firstName": "Jimmy",
+      "lastName": "Zambrano",
+      "position": "--",
+      "publicIdentifier": "jimmy-zambrano-b12193416",
+      "linkedinUrl": "https://www.linkedin.com/in/jimmy-zambrano-b12193416"
+    },
+    {
+      "id": "ACoAAGmtrlAB3tgmJE3kS_oguoNIXpUoR-Fgv18",
+      "firstName": "gary",
+      "lastName": "Cortez",
+      "position": "--",
+      "publicIdentifier": "gary-cortez-a9492b415",
+      "linkedinUrl": "https://www.linkedin.com/in/gary-cortez-a9492b415"
+    },
+    {
+      "id": "ACoAAE-gauIBxlkboJKoYFy_vAi8IWGtABkRl-Y",
+      "firstName": "FREDDY",
+      "lastName": "DAVID BARBOZA TREJO",
+      "position": "--",
+      "publicIdentifier": "freddy-david-barboza-trejo-aaa489313",
+      "linkedinUrl": "https://www.linkedin.com/in/freddy-david-barboza-trejo-aaa489313"
+    },
+    {
+      "id": "ACoAAFL8vccB4ItdcsZR5zT30u3cwJa-0a0wXYw",
+      "firstName": "jeremias",
+      "lastName": "briones ortiz",
+      "position": "--",
+      "publicIdentifier": "jeremias-briones-ortiz-59b33a32a",
+      "linkedinUrl": "https://www.linkedin.com/in/jeremias-briones-ortiz-59b33a32a"
+    }
+  ],
+  "interests": [
+    {
+      "interestName": "Top Voices",
+      "elements": [
+        {
+          "title": "Ryan Reynolds",
+          "subtitle": "Part-Time Actor, Business Owner",
+          "link": "https://www.linkedin.com/in/vancityreynolds",
+          "caption": "3,693,105 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C5603AQGOBfXsKX8U5Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636498355197?e=1784160000&v=beta&t=43zLqNVngMboLAGE5wa2exsLxvoHeB9bd7wbpwI8CEU"
+          }
+        },
+        {
+          "title": "Zach Wilson",
+          "subtitle": "Founder of DataExpert.io | On a mission to upskill a million knowledge workers in AI before 2030",
+          "link": "https://www.linkedin.com/in/eczachly",
+          "caption": "525,426 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQEuZqG0QwcvTA/profile-displayphoto-crop_800_800/B56Z2nOnhtGoAM-/0/1776627121516?e=1784160000&v=beta&t=ecfSvLaznp29TsQRSjBeXfbdjqNhmsgWmm15VKSg-RU"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Companies",
+      "elements": [
+        {
+          "title": "J.P. Morgan",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1067/",
+          "caption": "5,989,507 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQEVXhQs3mC56Q/company-logo_400_400/company-logo_400_400/0/1630646116001/jpmorgan_logo?e=1784160000&v=beta&t=2wBX4C43gbkoPPSQ82gyAx_IB2NuTWob8UfnfEpDmow"
+          }
+        },
+        {
+          "title": "JPMorganChase",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1068/",
+          "caption": "7,417,902 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1784160000&v=beta&t=Y4StGsLKyaRcwMRF0tHpRgHGilTE4-3UaEay8JwRj7s"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Groups",
+      "elements": [
+        {
+          "title": "General Assembly Global Alumni",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/4642661",
+          "caption": "18,228 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E07AQHbUw2I7neekg/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1635433366429?e=1783242000&v=beta&t=E8Sp9ciVq395Whb27rh8FcDK7zChlVXGCm9aeh51JA0"
+          }
+        },
+        {
+          "title": "zerotomastery.io",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/12121940",
+          "caption": "155,705 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C5607AQHKUvNKXqQy6w/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1631002840410?e=1783242000&v=beta&t=U--qsNTPo457cC_fWxZ1C0CLxte_XDp2kXVnINB91rs"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Newsletters",
+      "elements": [
+        {
+          "title": "The AI Agent Report",
+          "subtitle": "Weekly insights on AI agents, autonomous systems, and enterprise news",
+          "link": "https://www.linkedin.com/newsletters/7453422023831314433",
+          "caption": "Published weekly",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E12AQHL52-ZHIXZZg/series-logo_image-shrink_300_300/B4EZ2_fz22KYAQ-/0/1777034281462?e=1784160000&v=beta&t=1RYT7Puv4JcLJ70jPutlb-mBK8euP9j7Po3RAwgj0Jo"
+          }
+        },
+        {
+          "title": "AI Ecommerce Newsletter",
+          "subtitle": "AI, insights, and trends for ecommerce teams. From the humans behind Hypotenuse AI.",
+          "link": "https://www.linkedin.com/newsletters/7358794586019827712",
+          "caption": "Published biweekly",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D5612AQH4TvSk3RZxIw/series-logo_image-shrink_300_300/B56Zh.wp__HcAQ-/0/1754473341587?e=1784160000&v=beta&t=yu0Rjk1YBiRsXQ0miLFOSGhg27CSrjcfls8UTsGMaNs"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Schools",
+      "elements": [
+        {
+          "title": "NYU Stern School of Business",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/3157/",
+          "caption": "232,778 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_400_400/company-logo_400_400/0/1631317988803?e=1784160000&v=beta&t=TswGbbbDNuhYYZlXOYCTzEevH9gz76ey6i-k6LLDUJs"
+          }
+        },
+        {
+          "title": "Anderson Junior College",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/30980099/",
+          "caption": "3,232 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQHT_A6rZKkTWA/company-logo_400_400/company-logo_400_400/0/1630625123313?e=1784160000&v=beta&t=teMQXKgEkmtmJpdLD5TrXxr5x9lMijP2MQgZpL5KlVc"
+          }
+        }
+      ]
+    }
+  ],
+  "originalQuery": {
+    "url": "https://www.linkedin.com/in/darrylwongqz/"
+  }
+}]

@@ -1,0 +1,1539 @@
+[{
+  "id": "ACoAAByUxjsBWl9fMFdcUIX5lMLvvWCYmdLkDHQ",
+  "publicIdentifier": "hamid-ali-03075156742",
+  "linkedinUrl": "https://www.linkedin.com/in/hamid-ali-03075156742",
+  "firstName": "Hamid",
+  "lastName": "Ali",
+  "emails": [],
+  "headline": "🥈 Senior AI | ML Engineer | Open Source Contributor (NVIDIA, Keras and more) | Expertise in CV, NLP, and RL",
+  "websites": [
+    "https://github.com/hamidriasat"
+  ],
+  "openToWork": false,
+  "hiring": false,
+  "premium": false,
+  "influencer": false,
+  "memorialized": false,
+  "creator": false,
+  "location": {
+    "linkedinText": "Punjab, Pakistan",
+    "countryCode": "PK",
+    "parsed": {
+      "text": "Punjab, Pakistan",
+      "countryCode": "PK",
+      "regionCode": null,
+      "country": "Pakistan",
+      "countryFull": "Pakistan",
+      "state": "Punjab"
+    }
+  },
+  "objectUrn": "479512123",
+  "registeredAt": "2016-02-14T17:45:31.853Z",
+  "topSkills": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning",
+    "Computer Vision",
+    "Natural Language Processing (NLP)",
+    "Python (Programming Language)"
+  ],
+  "connectionsCount": 8492,
+  "followerCount": 8460,
+  "verified": true,
+  "about": "In 2018, I started my Master's in Data Science with the belief that AI will revolutionize the way humans live and work and data is at the core of it, and here we are where we have started seeing the impact of AI on our lives.\n\nI am glad to be a part of this change where we teach machines to see, understand, and respond intelligently. Over the past five years, I’ve worked on building NLP and Computer Vision solutions that solve real-world problems, from creating smarter chatbots to developing high-performance segmentation models. Every project has been an opportunity to learn, innovate, and contribute to the growth of AI.\n\nOn the NLP side, I have worked with LangChain, LLM agents, and Retrieval-Augmented Generation (RAG). My expertise spans fine-tuning classification and generation models, and I’ve also developed streaming speech-to-text and text-to-speech solutions for real-time processing. On the Computer Vision side, I have worked on object detection and tracking systems, alongside implementing advanced segmentation techniques like deep image matting and salient object detection. Deployment is another area of strength, where I’ve leveraged tools like TensorRT, NVIDIA Triton Server, and Docker to create scalable and efficient AI applications.\n\nAlso proud to contribute to the open-source community. I have worked on projects for KerasCV, Keras.io, and NVIDIA, adding advanced models and making research papers more accessible. Sharing knowledge is a big part of what drives me, and it's rewarding to see others benefit from these contributions.\n\nThat’s it, Last I want to say I am always ready to learn, help, and guide others. AI is a field of endless possibilities, and I am thrilled to play a role in shaping its future.",
+  "currentPosition": [
+    {
+      "position": "Senior AI Engineer",
+      "location": null,
+      "employmentType": "Contract",
+      "workplaceType": "Remote",
+      "companyName": "Arbisoft",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/arbisoft/",
+      "companyId": "1202765",
+      "duration": "1 yr 4 mos",
+      "description": "Client: SummitK12\nAI-Powered Automated Grading & Evaluation Platform\n- Built an AI system to automatically grade student answers, handling ~150K+ evaluations daily.\n- The AI SDK takes questions, student answers, media, and rubrics as input, and returns scores and feedback based on educator-defined rubrics.\n- Designed the system to support millions of students and evaluations, handling high request volumes with low latency.\n- Used AWS (Lambda, Bedrock) with LiteLLM to handle models, retries, and failures.\n- Added logging and monitoring to track issues and debug problems.\n- Tested system performance under heavy load and improved response times.\n- Focused on keeping the system stable and reliable for real classroom use.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Gen AI Applications",
+        "Python (Programming Language)",
+        "Amazon Bedrock",
+        "AWS Lambda",
+        "Large Language Models (LLM)",
+        "Python",
+        "Groq"
+      ],
+      "startDate": {
+        "month": "Mar",
+        "year": 2025,
+        "text": "Mar 2025"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHXOiR03J4paw/company-logo_400_400/B4DZ7WpxrNI0AU-/0/1781717736373/arbisoft_logo?e=1784160000&v=beta&t=SaqjzUzce13zNG_rHOX4JmhRp7sHVAyA7M3k62WWwIQ",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHXOiR03J4paw/company-logo_400_400/B4DZ7WpxrNI0AU-/0/1781717736373/arbisoft_logo?e=1784160000&v=beta&t=SaqjzUzce13zNG_rHOX4JmhRp7sHVAyA7M3k62WWwIQ",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHXOiR03J4paw/company-logo_200_200/B4DZ7WpxrNI0AE-/0/1781717736372/arbisoft_logo?e=1784160000&v=beta&t=368a9iRrVPEN3F07YIMQadbtvgf6Yta_3pWLBZbwz7c",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHXOiR03J4paw/company-logo_100_100/B4DZ7WpxrNI0AI-/0/1781717736372/arbisoft_logo?e=1784160000&v=beta&t=KJBQC0ur6BiT2v6pwD39cpePrR0qJJT54B0FvM8ibv8",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "arbisoft"
+    }
+  ],
+  "profileTopEducation": [
+    {
+      "schoolName": "National University of Computer and Emerging Sciences",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/15096487/",
+      "schoolId": "15096487",
+      "degree": "Master of Science - MS",
+      "fieldOfStudy": "Data Science",
+      "period": "2018 - 2020",
+      "startDate": {
+        "year": 2018,
+        "text": "2018"
+      },
+      "endDate": {
+        "year": 2020,
+        "text": "2020"
+      },
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_400_400/B4DZbEm8GEHsAY-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=fk9GSsCMmn-Plr3TWCCUYlRmwF-ABfyJwDtAMMunl-w",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_400_400/B4DZbEm8GEHsAY-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=fk9GSsCMmn-Plr3TWCCUYlRmwF-ABfyJwDtAMMunl-w",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_200_200/B4DZbEm8GEHsAI-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=M6WY0o9vViusaqPPK6v_COvc-vefzhFcD0owUIi51Kw",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_100_100/B4DZbEm8GEHsAQ-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=QOuNMte8tKP6qR-mazbW3o39fr2ALsVhUh6bqIIaMXQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "profileActions": [],
+  "profilePicture": {
+    "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_800_800-alternative/profile-displayphoto-shrink_800_800-alternative/0/1528631024416?e=1784160000&v=beta&t=HzEnccwUyoTcd7gDwyaeD9lmC3eduDJHEtBKRKlxWZg",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_800_800-alternative/profile-displayphoto-shrink_800_800-alternative/0/1528631024416?e=1784160000&v=beta&t=HzEnccwUyoTcd7gDwyaeD9lmC3eduDJHEtBKRKlxWZg",
+        "width": 250,
+        "height": 250
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_400_400-alternative/profile-displayphoto-shrink_400_400-alternative/0/1528631024357?e=1784160000&v=beta&t=ZbjYIyZIN3vzwra3jjvNHl8NVoBKICIUM4ruBN6v6og",
+        "width": 250,
+        "height": 250
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1528631024234?e=1784160000&v=beta&t=4u0ZYRFGyRWMz9QgiBrME1CLPucYG_9dKRiqMuwO2q0",
+        "width": 250,
+        "height": 250
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1528631024329?e=1784160000&v=beta&t=pu-FOhLfoDmeSv0ACGnoGJ9RTNMd4rM9YTHLuzSOH-E",
+        "width": 250,
+        "height": 250
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_200_200-alternative/profile-displayphoto-shrink_200_200-alternative/0/1528631024301?e=1784160000&v=beta&t=51weMGDkn_u4yGTNrrHgn6qzM7rU0R9ePJhAwQbCdf4",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1528631024181?e=1784160000&v=beta&t=o3xVHxEk7Kn_7GgDcRSymO-mBFdKJKhk7FZa9FnV_Sg",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1528631024306?e=1784160000&v=beta&t=yUeAwKE0KRy7mpsZQhOJ4_6t1pB85kbV3W7eTTH0Tag",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_100_100-alternative/profile-displayphoto-shrink_100_100-alternative/0/1528631024255?e=1784160000&v=beta&t=84kG_1Y6Kk9Mf1mNef37lmdA01HNtwTuaK7lumGUr4w",
+        "width": 100,
+        "height": 100
+      }
+    ]
+  },
+  "coverPicture": {
+    "url": "https://media.licdn.com/dms/image/v2/C4D16AQElDFvdMFHPNQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1654406052703?e=1784160000&v=beta&t=pcJLKEz7OnAQnh98Ol5aN8S4p7Dcu23YTKoe1OJc1dI",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C4D16AQElDFvdMFHPNQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1654406052703?e=1784160000&v=beta&t=pcJLKEz7OnAQnh98Ol5aN8S4p7Dcu23YTKoe1OJc1dI",
+        "width": 1050,
+        "height": 262
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C4D16AQElDFvdMFHPNQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1654406052703?e=1784160000&v=beta&t=wtvxkfPFXa4d4fDcRZXLVMCyVk6tMqvRlk32KV-QxkM",
+        "width": 800,
+        "height": 199
+      }
+    ]
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/C5103AQHV9lBdr-1NCA/profile-displayphoto-shrink_800_800-alternative/profile-displayphoto-shrink_800_800-alternative/0/1528631024416?e=1784160000&v=beta&t=HzEnccwUyoTcd7gDwyaeD9lmC3eduDJHEtBKRKlxWZg",
+  "profileLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "primaryLocale": {
+    "country": "US",
+    "language": "en"
+  },
+  "multiLocaleHeadline": [
+    {
+      "headline": "🥈 Senior AI | ML Engineer | Open Source Contributor (NVIDIA, Keras and more) | Expertise in CV, NLP, and RL",
+      "locale": "en_US"
+    }
+  ],
+  "services": null,
+  "experience": [
+    {
+      "position": "Senior AI Engineer",
+      "location": null,
+      "employmentType": "Contract",
+      "workplaceType": "Remote",
+      "companyName": "Arbisoft",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/arbisoft/",
+      "companyId": "1202765",
+      "duration": "1 yr 4 mos",
+      "description": "Client: SummitK12\nAI-Powered Automated Grading & Evaluation Platform\n- Built an AI system to automatically grade student answers, handling ~150K+ evaluations daily.\n- The AI SDK takes questions, student answers, media, and rubrics as input, and returns scores and feedback based on educator-defined rubrics.\n- Designed the system to support millions of students and evaluations, handling high request volumes with low latency.\n- Used AWS (Lambda, Bedrock) with LiteLLM to handle models, retries, and failures.\n- Added logging and monitoring to track issues and debug problems.\n- Tested system performance under heavy load and improved response times.\n- Focused on keeping the system stable and reliable for real classroom use.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Gen AI Applications",
+        "Python (Programming Language)",
+        "Amazon Bedrock",
+        "AWS Lambda",
+        "Large Language Models (LLM)",
+        "Python",
+        "Groq"
+      ],
+      "startDate": {
+        "month": "Mar",
+        "year": 2025,
+        "text": "Mar 2025"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHXOiR03J4paw/company-logo_400_400/B4DZ7WpxrNI0AU-/0/1781717736373/arbisoft_logo?e=1784160000&v=beta&t=SaqjzUzce13zNG_rHOX4JmhRp7sHVAyA7M3k62WWwIQ",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHXOiR03J4paw/company-logo_400_400/B4DZ7WpxrNI0AU-/0/1781717736373/arbisoft_logo?e=1784160000&v=beta&t=SaqjzUzce13zNG_rHOX4JmhRp7sHVAyA7M3k62WWwIQ",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHXOiR03J4paw/company-logo_200_200/B4DZ7WpxrNI0AE-/0/1781717736372/arbisoft_logo?e=1784160000&v=beta&t=368a9iRrVPEN3F07YIMQadbtvgf6Yta_3pWLBZbwz7c",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHXOiR03J4paw/company-logo_100_100/B4DZ7WpxrNI0AI-/0/1781717736372/arbisoft_logo?e=1784160000&v=beta&t=KJBQC0ur6BiT2v6pwD39cpePrR0qJJT54B0FvM8ibv8",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "arbisoft"
+    },
+    {
+      "position": "Artificial Intelligence Engineer",
+      "location": "United States",
+      "employmentType": "Full-time",
+      "workplaceType": "Remote",
+      "companyName": "Constant Click",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/constant-click/",
+      "companyId": "1589029",
+      "duration": "2 yrs",
+      "description": "• Developed a ChatBot using RASA, LangChain Agents, OpenAI GPT API, and Retrieval-Augmented Generation (RAG), automating 30% of customer queries and assisting support agents with 30% more pre-selected responses, reducing workload and improving SMS support efficiency.\n• Developed a Blood Test Recommendation System leveraging query optimization with multiple queries in RAG to analyze user inputs (symptoms, goals) and retrieve relevant tests, streamlining search processes to boost sales.\n• Created a Reddit bot using PRAW Python and LLM prompt engineering, boosting our brand’s presence on the platform.\n• Organized textual data, including the use and finetuning of transformers models for text classification and generation. Implemented streaming speech-to-text (STT) and text-to-speech (TTS) solutions, enabling real-time data processing. Additionally, applied embedding techniques for text retrieval and clustering, collaborating with vector databases.\n• Analyzed data to understand sales trends, optimize Google Ads campaigns, and keywords for better campaign performance.",
+      "skills": [
+        "Python (Programming Language)",
+        "ChatGPT",
+        "Data Science",
+        "Natural Language Processing (NLP)",
+        "Software Development"
+      ],
+      "startDate": {
+        "month": "Mar",
+        "year": 2023,
+        "text": "Mar 2023"
+      },
+      "endDate": {
+        "month": "Feb",
+        "year": 2025,
+        "text": "Feb 2025"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQGG5ivNtsJpSg/company-logo_400_400/company-logo_400_400/0/1631318374072?e=1784160000&v=beta&t=1bjOtioqULbmazFk9wDSTJJjzkjMWgDza_LYQOiat_I",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGG5ivNtsJpSg/company-logo_400_400/company-logo_400_400/0/1631318374072?e=1784160000&v=beta&t=1bjOtioqULbmazFk9wDSTJJjzkjMWgDza_LYQOiat_I",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGG5ivNtsJpSg/company-logo_200_200/company-logo_200_200/0/1631318374072?e=1784160000&v=beta&t=JqhUi6-QyGEWC5V2sfAdoMEwlhkK4Fm6otu57j6z1gg",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGG5ivNtsJpSg/company-logo_100_100/company-logo_100_100/0/1631318374072?e=1784160000&v=beta&t=nUvziT0QfMyS_3jjjnBAgbDyITRmWOMKNiONoWEfF3w",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "constant-click"
+    },
+    {
+      "position": " AI Engineer | Open Source Contributor ",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": "Remote",
+      "companyName": "Self-employed",
+      "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Self-employed",
+      "duration": "3 mos",
+      "description": "Contributed UNet3+ implementation with complete training and inference pipeline, along with below mentioned four features, to NVIDIA repository.\n- NVIDIA DALI\n- Multi GPU Training\n- Accelerated Linear Algebra(XLA)\n- Automatic Mixed Precision(AMP)\n\nContribution Link: https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow2/Segmentation/Contrib/UNet3P",
+      "skills": [
+        "Deep Learning",
+        "Python (Programming Language)",
+        "NVIDIA Data Loading Library (DALI)",
+        "Computer Vision",
+        "Git",
+        "Software Development",
+        "Keras"
+      ],
+      "startDate": {
+        "month": "Jan",
+        "year": 2023,
+        "text": "Jan 2023"
+      },
+      "endDate": {
+        "month": "Mar",
+        "year": 2023,
+        "text": "Mar 2023"
+      }
+    },
+    {
+      "position": "Artificial Intelligence Engineer",
+      "location": "Islāmābād, Pakistan",
+      "employmentType": "Full-time",
+      "workplaceType": "On-site",
+      "companyName": "Innovative Solutions",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/innovative-solutions-pk/",
+      "companyId": "28820582",
+      "duration": "10 mos",
+      "description": "Worked on an NLP project called News Revealer: A platform for news generation in which users can summarise, paraphrase, and generate articles. \nDeployed transformers based models using Flask, Docker, NGINX, TensorRT, and NVIDIA Triton Server on DGX machines. Resulted in 1.5x to 2.2x improvement in throughput.\nFinetuned transformer model for unsupervised text style transfer.",
+      "skills": [
+        "Deep Learning",
+        "TensorRT",
+        "Python (Programming Language)",
+        "NVIDIA Triton Inference Server",
+        "Natural Language Processing (NLP)",
+        "Docker",
+        "DevOps",
+        "Software Development"
+      ],
+      "startDate": {
+        "month": "Jun",
+        "year": 2022,
+        "text": "Jun 2022"
+      },
+      "endDate": {
+        "month": "Mar",
+        "year": 2023,
+        "text": "Mar 2023"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEqa_zri4YzWg/company-logo_400_400/company-logo_400_400/0/1630460261511/innovative_solutions_pk_logo?e=1784160000&v=beta&t=BKiPZt5vxbORD6t0JvpLDt4ig_BrxvTF4dbjvE4z3WQ",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEqa_zri4YzWg/company-logo_400_400/company-logo_400_400/0/1630460261511/innovative_solutions_pk_logo?e=1784160000&v=beta&t=BKiPZt5vxbORD6t0JvpLDt4ig_BrxvTF4dbjvE4z3WQ",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEqa_zri4YzWg/company-logo_200_200/company-logo_200_200/0/1630460261511/innovative_solutions_pk_logo?e=1784160000&v=beta&t=zyHO0L7QLEEOy6EFmPjKso0rHWOpZd_jaTSEA48yb7A",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEqa_zri4YzWg/company-logo_100_100/company-logo_100_100/0/1630460261511/innovative_solutions_pk_logo?e=1784160000&v=beta&t=E2NN2qDuwORSfm-yVOn1OgY-8stnHQXMh_48O29uUro",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "innovative-solutions-pk"
+    },
+    {
+      "position": "Machine Learning Engineer",
+      "location": "Islāmābād, Pakistan",
+      "employmentType": "Contract",
+      "workplaceType": null,
+      "companyName": "iOPTIME Pvt Ltd",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/ioptime/",
+      "companyId": "13275098",
+      "duration": "1 yr 7 mos",
+      "description": "Worked on two Computer Vision and one Data Science project.\n\nNails Try On: A segmentation based task in which using a state of the art real time custom segmentation model I was able to achieve 13% improvement in accuracy and around 20% improvement in terms of speed.\n\nBeauty: An image to image translation task in which by changing input flow I was able to relatively reduce 30% overfitting in existing cGAN and Pix2Pix GAN model.\n\nLuccro: A decision support engine for financial trading(Forex) that uses AI to identify low-risk, high-reward opportunities for traders. Generated trading indicators, and worked on model training and deployment of Technical and Strength time series data.",
+      "skills": [
+        "Deep Learning",
+        "Python (Programming Language)",
+        "TensorFlow",
+        "Computer Vision",
+        "Machine Learning",
+        "Time Series Analysis",
+        "Software Development",
+        "Generative Adversarial Networks (GANs)",
+        "Research and Development (R&D)",
+        "Image Segmentation"
+      ],
+      "startDate": {
+        "month": "Nov",
+        "year": 2020,
+        "text": "Nov 2020"
+      },
+      "endDate": {
+        "month": "May",
+        "year": 2022,
+        "text": "May 2022"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQEM1gAzUrfRAQ/company-logo_400_400/company-logo_400_400/0/1630647518249/ioptime_logo?e=1784160000&v=beta&t=lX4Pyb5xOEHvWO0Tm49w5Z432oMfArUitMCu32BZ8gw",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEM1gAzUrfRAQ/company-logo_400_400/company-logo_400_400/0/1630647518249/ioptime_logo?e=1784160000&v=beta&t=lX4Pyb5xOEHvWO0Tm49w5Z432oMfArUitMCu32BZ8gw",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEM1gAzUrfRAQ/company-logo_200_200/company-logo_200_200/0/1630647518249/ioptime_logo?e=1784160000&v=beta&t=2ONlMIKcab4f_n3TTPrxJsCyglwpW8l1SXFPSP7G3z8",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEM1gAzUrfRAQ/company-logo_100_100/company-logo_100_100/0/1630647518249/ioptime_logo?e=1784160000&v=beta&t=7rQ0XpQ0w1-7NO75z52EJ93z_H84E6Kj-gKt5HDG_ZA",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "ioptime"
+    },
+    {
+      "position": "Android Developer",
+      "location": "Islamabad, Pakistan",
+      "employmentType": "Contract",
+      "workplaceType": null,
+      "companyName": "Trust for Democratic Education and Accountability",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/2772651/",
+      "companyId": "2772651",
+      "duration": "1 yr 2 mos",
+      "description": "Developed three android applications in Java.\n\nParliamentary Proceedings: Application designed to observe the proceedings of the Senate, National Assembly, and 13 selected Standing Committees under project Parliament Watch and Reforms Project (PWRP).\n\nFAFEN Observation: A Survey Application that collected the data of the 2018 General Elections held in Pakistan under Citizens' Voice Project (CVP).\n\nPooling Station Survey: An android application was developed for Election Commission of Pakistan to collect data on potential pooling stations.",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Android"
+      ],
+      "startDate": {
+        "month": "Jun",
+        "year": 2018,
+        "text": "Jun 2018"
+      },
+      "endDate": {
+        "month": "Jul",
+        "year": 2019,
+        "text": "Jul 2019"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQGKv8LvUE107Q/company-logo_400_400/company-logo_400_400/0/1631311918799?e=1784160000&v=beta&t=vmmXWcVlKzukqNTzG15cwixdsuv0A0iZmJldj7_Zews",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGKv8LvUE107Q/company-logo_400_400/company-logo_400_400/0/1631311918799?e=1784160000&v=beta&t=vmmXWcVlKzukqNTzG15cwixdsuv0A0iZmJldj7_Zews",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGKv8LvUE107Q/company-logo_200_200/company-logo_200_200/0/1631311918799?e=1784160000&v=beta&t=N1x1XI5Cj2IcozE3Ivx0ev-RutzTC2lwEGI1fKrA6W4",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGKv8LvUE107Q/company-logo_100_100/company-logo_100_100/0/1631311918799?e=1784160000&v=beta&t=y8GzN2WI3d2gDCp0Y1ISOOj6kmNx2G_aFGN2PH0DbE0",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "National University of Computer and Emerging Sciences",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/15096487/",
+      "schoolId": "15096487",
+      "degree": "Master of Science - MS",
+      "fieldOfStudy": "Data Science",
+      "skills": [
+        "Software Development"
+      ],
+      "description": "Silver Medalist",
+      "insights": "Grade: 3.78",
+      "startDate": {
+        "year": 2018,
+        "text": "2018"
+      },
+      "endDate": {
+        "year": 2020,
+        "text": "2020"
+      },
+      "period": "2018 - 2020",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_400_400/B4DZbEm8GEHsAY-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=fk9GSsCMmn-Plr3TWCCUYlRmwF-ABfyJwDtAMMunl-w",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_400_400/B4DZbEm8GEHsAY-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=fk9GSsCMmn-Plr3TWCCUYlRmwF-ABfyJwDtAMMunl-w",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_200_200/B4DZbEm8GEHsAI-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=M6WY0o9vViusaqPPK6v_COvc-vefzhFcD0owUIi51Kw",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_100_100/B4DZbEm8GEHsAQ-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=QOuNMte8tKP6qR-mazbW3o39fr2ALsVhUh6bqIIaMXQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "COMSATS University Islamabad",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/13654847/",
+      "schoolId": "13654847",
+      "degree": "Bachelor's degree",
+      "fieldOfStudy": "Computer Software Engineering",
+      "skills": [
+        "Software Development"
+      ],
+      "startDate": {
+        "year": 2014,
+        "text": "2014"
+      },
+      "endDate": {
+        "year": 2018,
+        "text": "2018"
+      },
+      "period": "2014 - 2018",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C510BAQEaocAMS5PVuw/company-logo_400_400/company-logo_400_400/0/1631438106544/comsats_university_logo?e=1784160000&v=beta&t=ELlasq8W14iOH9cbqRG0Xw7WfcRDqbT4L22WxXSBSgw",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQEaocAMS5PVuw/company-logo_400_400/company-logo_400_400/0/1631438106544/comsats_university_logo?e=1784160000&v=beta&t=ELlasq8W14iOH9cbqRG0Xw7WfcRDqbT4L22WxXSBSgw",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQEaocAMS5PVuw/company-logo_200_200/company-logo_200_200/0/1631438106544/comsats_university_logo?e=1784160000&v=beta&t=A1RkiYxk47vPX2UWfPl8Gnguy6fMi43NlI6FmXNEkTc",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQEaocAMS5PVuw/company-logo_100_100/company-logo_100_100/0/1631438106544/comsats_university_logo?e=1784160000&v=beta&t=85HFHbeKSoe57dZbcwkZgXRb_ZztnsQIpio8GpRlqXM",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Advanced Retrieval for AI with Chroma",
+      "issuedAt": "Issued Jan 2025",
+      "link": "https://learn.deeplearning.ai/accomplishments/dc982cbe-4d09-4844-b6b2-5f08d09d5c43?usp=sharing",
+      "issuedBy": "DeepLearning.AI",
+      "issuedByLink": "https://www.linkedin.com/company/18246783/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1784160000&v=beta&t=RZhBliOoj-yhE16ZZ2krGvhrjs4J8FD6Y4GZ1L5J4ac",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1784160000&v=beta&t=RZhBliOoj-yhE16ZZ2krGvhrjs4J8FD6Y4GZ1L5J4ac",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1784160000&v=beta&t=BsNRq76VOME3Aqa5MQA34gKCLAUeZ36h1gFfciohe4Q",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1784160000&v=beta&t=gPjjVpcnLzKgBH1rABGkT0vAmafsBe08BVOUPnTs0lQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI Agents in LangGraph",
+      "issuedAt": "Issued Jul 2025",
+      "link": "https://learn.deeplearning.ai/accomplishments/6b838fda-c1e8-4252-86cb-8a8661316ff1?usp=sharing",
+      "issuedBy": "DeepLearning.AI",
+      "issuedByLink": "https://www.linkedin.com/company/18246783/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1784160000&v=beta&t=RZhBliOoj-yhE16ZZ2krGvhrjs4J8FD6Y4GZ1L5J4ac",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_400_400/company-logo_400_400/0/1630672537710/deeplearningai_logo?e=1784160000&v=beta&t=RZhBliOoj-yhE16ZZ2krGvhrjs4J8FD6Y4GZ1L5J4ac",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_200_200/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1784160000&v=beta&t=BsNRq76VOME3Aqa5MQA34gKCLAUeZ36h1gFfciohe4Q",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1784160000&v=beta&t=gPjjVpcnLzKgBH1rABGkT0vAmafsBe08BVOUPnTs0lQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Deep Learning Specialization",
+      "issuedAt": "Issued Nov 2020",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/PDQELHA8A64T",
+      "issuedBy": "Coursera",
+      "issuedByLink": "https://www.linkedin.com/company/2453129/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1VIEw5Sb3b9x8bOIQ1oL_NmT0k-0nm5cKlGd4XBcqdk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1HDeoQ4CyKUiWcnbc_hFQPp3YM3QUdRNxIzs0rPXqjk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sequence Models",
+      "issuedAt": "Issued Nov 2020",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/47M3E7T3KHRZ",
+      "issuedBy": "Coursera",
+      "issuedByLink": "https://www.linkedin.com/company/2453129/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1VIEw5Sb3b9x8bOIQ1oL_NmT0k-0nm5cKlGd4XBcqdk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1HDeoQ4CyKUiWcnbc_hFQPp3YM3QUdRNxIzs0rPXqjk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Convolutional Neural Networks",
+      "issuedAt": "Issued Oct 2020",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/RC2CRJ2BY52A",
+      "issuedBy": "Coursera",
+      "issuedByLink": "https://www.linkedin.com/company/2453129/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1VIEw5Sb3b9x8bOIQ1oL_NmT0k-0nm5cKlGd4XBcqdk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1HDeoQ4CyKUiWcnbc_hFQPp3YM3QUdRNxIzs0rPXqjk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Structuring Machine Learning Projects",
+      "issuedAt": "Issued Sep 2020",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/ACL9HEWL783D",
+      "issuedBy": "Coursera",
+      "issuedByLink": "https://www.linkedin.com/company/2453129/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1VIEw5Sb3b9x8bOIQ1oL_NmT0k-0nm5cKlGd4XBcqdk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1HDeoQ4CyKUiWcnbc_hFQPp3YM3QUdRNxIzs0rPXqjk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+      "issuedAt": "Issued Sep 2020",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/VSJURUFSDMMU",
+      "issuedBy": "Coursera",
+      "issuedByLink": "https://www.linkedin.com/company/2453129/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1VIEw5Sb3b9x8bOIQ1oL_NmT0k-0nm5cKlGd4XBcqdk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1HDeoQ4CyKUiWcnbc_hFQPp3YM3QUdRNxIzs0rPXqjk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Neural Networks and Deep Learning",
+      "issuedAt": "Issued Sep 2020",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/8767GRWQV4GV",
+      "issuedBy": "Coursera",
+      "issuedByLink": "https://www.linkedin.com/company/2453129/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=UCMnsfsE_lGXcYjoYuQgQCTPZp_Wc8-A4w7IzBZWzLk",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1VIEw5Sb3b9x8bOIQ1oL_NmT0k-0nm5cKlGd4XBcqdk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1784160000&v=beta&t=1HDeoQ4CyKUiWcnbc_hFQPp3YM3QUdRNxIzs0rPXqjk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Microsoft Office Specialist Word 2013",
+      "issuedAt": "Issued Dec 2017",
+      "link": "https://www.youracclaim.com/badges/cc93ff0b-e15e-4e60-a1c3-adc1b76c2c49/linked_in_profile",
+      "issuedBy": "Microsoft",
+      "issuedByLink": "https://www.linkedin.com/company/1035/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=Fe2aHcwOt6Dno2R0vE49maqLyDXjkIcc1QcDgza9vrA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=Fe2aHcwOt6Dno2R0vE49maqLyDXjkIcc1QcDgza9vrA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=rG2Qqv0g8T06UOx378C_U85CaPM0felDfNz1g9AcY7Y",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=U1UWN6m6_N_zm_LLCpUJSR6z3N6zCqYy2DHLoC9J3mo",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Microsoft Office Specialist PowerPoint 2013",
+      "issuedAt": "Issued Dec 2017",
+      "link": "https://www.youracclaim.com/badges/604e9aa3-4375-4cac-bb78-b78a43ac3e29/linked_in_profile",
+      "issuedBy": "Microsoft",
+      "issuedByLink": "https://www.linkedin.com/company/1035/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=Fe2aHcwOt6Dno2R0vE49maqLyDXjkIcc1QcDgza9vrA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=Fe2aHcwOt6Dno2R0vE49maqLyDXjkIcc1QcDgza9vrA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=rG2Qqv0g8T06UOx378C_U85CaPM0felDfNz1g9AcY7Y",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=U1UWN6m6_N_zm_LLCpUJSR6z3N6zCqYy2DHLoC9J3mo",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "Microsoft Office Specialist Excel 2013",
+      "issuedAt": "Issued Dec 2017",
+      "link": "https://www.youracclaim.com/badges/5bb0deaa-49a4-49e2-bbd3-09e7330cdc0f/public_url",
+      "issuedBy": "Microsoft",
+      "issuedByLink": "https://www.linkedin.com/company/1035/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=Fe2aHcwOt6Dno2R0vE49maqLyDXjkIcc1QcDgza9vrA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=Fe2aHcwOt6Dno2R0vE49maqLyDXjkIcc1QcDgza9vrA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=rG2Qqv0g8T06UOx378C_U85CaPM0felDfNz1g9AcY7Y",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=1784160000&v=beta&t=U1UWN6m6_N_zm_LLCpUJSR6z3N6zCqYy2DHLoC9J3mo",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "Highly accurate boundaries segmentation using BASNet",
+      "duration": "Jun 2023 - Jul 2023",
+      "startDate": {
+        "month": "Jun",
+        "year": 2023,
+        "text": "Jun 2023"
+      },
+      "endDate": {
+        "month": "Jul",
+        "year": 2023,
+        "text": "Jul 2023"
+      },
+      "associatedWith": "Associated with Self-employed",
+      "associatedWithLink": null,
+      "description": "Contributed state-of-the-art BASNet model for salient and camouflaged object segmentation in Keras examples repository."
+    },
+    {
+      "title": "Object Counter",
+      "duration": "Oct 2021 - Nov 2021",
+      "startDate": {
+        "month": "Oct",
+        "year": 2021,
+        "text": "Oct 2021"
+      },
+      "endDate": {
+        "month": "Nov",
+        "year": 2021,
+        "text": "Nov 2021"
+      },
+      "associatedWith": null,
+      "associatedWithLink": null,
+      "description": "The goal was to count objects passing over the conveyer belt using edge devices with at least 10 FPS. Quantized Tiny Yolo-v4 was used for detection followed by OpenCV provided MOSSE tracker for counting purposes. Overall, we achieved good accuracy with the required speed.",
+      "link": "https://www.youtube.com/watch?v=GfOc-lrD6nI"
+    },
+    {
+      "title": "Incident Severity Scoring",
+      "duration": "Feb 2020 - Mar 2020",
+      "startDate": {
+        "month": "Feb",
+        "year": 2020,
+        "text": "Feb 2020"
+      },
+      "endDate": {
+        "month": "Mar",
+        "year": 2020,
+        "text": "Mar 2020"
+      },
+      "associatedWith": null,
+      "associatedWithLink": null,
+      "description": "The goal was to estimate incident severity from given articles. It was open ended problem so different approaches were tested like Rule based classification, training Logistic Regression and SVM, fine tuning BERT and XLNET. After performing upsampling and summarizing articles with BERT extractive summarizer, fine-tuned XLNET model was selected because of best results. This project was implemented in PyTorch with pre-trained “xlnet-base-cased” model provided by Hugging Face library."
+    }
+  ],
+  "volunteering": [],
+  "receivedRecommendations": [],
+  "skills": [
+    {
+      "name": "Large Language Models (LLM)",
+      "positions": [
+        "Senior AI Engineer at Arbisoft"
+      ]
+    },
+    {
+      "name": "Fine Tuning",
+      "positions": [
+        "Advanced Retrieval for AI with Chroma"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "positions": [
+        "5 experiences across Constant Click and 4 other companies",
+        "2 educational experiences at National University of Computer and Emerging Sciences and 1 other school"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Natural Language Processing (NLP)",
+      "positions": [
+        "2 experiences across Constant Click and 1 other company"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "DevOps",
+      "positions": [
+        "Artificial Intelligence Engineer at Innovative Solutions"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Time Series Analysis",
+      "positions": [
+        "Machine Learning Engineer at iOPTIME Pvt Ltd"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Image Segmentation",
+      "positions": [
+        "Machine Learning Engineer at iOPTIME Pvt Ltd"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Generative Adversarial Networks (GANs)",
+      "positions": [
+        "Machine Learning Engineer at iOPTIME Pvt Ltd"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Research and Development (R&D)",
+      "positions": [
+        "Machine Learning Engineer at iOPTIME Pvt Ltd"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Computer Vision",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Reinforcement Learning",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Deep Learning",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Machine Learning",
+      "positions": [
+        "Machine Learning Engineer at iOPTIME Pvt Ltd"
+      ],
+      "assessments": "Passed LinkedIn Skill Assessment",
+      "endorsements": "4 endorsements"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "positions": [
+        "Senior AI Engineer at Arbisoft"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Image Processing",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Data Science",
+      "positions": [
+        "Artificial Intelligence Engineer at Constant Click"
+      ],
+      "endorsements": "4 endorsements"
+    },
+    {
+      "name": "Big Data Analytics",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Amazon Bedrock",
+      "positions": [
+        "Senior AI Engineer at Arbisoft"
+      ]
+    },
+    {
+      "name": "AWS Lambda",
+      "positions": [
+        "Senior AI Engineer at Arbisoft"
+      ]
+    },
+    {
+      "name": "Python",
+      "positions": [
+        "Senior AI Engineer at Arbisoft"
+      ]
+    },
+    {
+      "name": "Groq",
+      "positions": [
+        "Senior AI Engineer at Arbisoft"
+      ]
+    },
+    {
+      "name": "Embeddings",
+      "positions": [
+        "Advanced Retrieval for AI with Chroma"
+      ]
+    },
+    {
+      "name": "Gen AI Applications",
+      "positions": [
+        "Senior AI Engineer at Arbisoft",
+        "Advanced Retrieval for AI with Chroma"
+      ]
+    },
+    {
+      "name": "Retrieval-Augmented Generation (RAG)",
+      "positions": [
+        "Advanced Retrieval for AI with Chroma"
+      ]
+    },
+    {
+      "name": "Search & Retrieval",
+      "positions": [
+        "Advanced Retrieval for AI with Chroma"
+      ]
+    },
+    {
+      "name": "AI Agents",
+      "positions": [
+        "AI Agents in LangGraph"
+      ]
+    },
+    {
+      "name": "LangGraph",
+      "positions": [
+        "AI Agents in LangGraph"
+      ]
+    },
+    {
+      "name": "LangChain",
+      "positions": [
+        "AI Agents in LangGraph"
+      ]
+    },
+    {
+      "name": "Generative AI",
+      "positions": [
+        "AI Agents in LangGraph"
+      ]
+    },
+    {
+      "name": "Keras",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "NVIDIA Data Loading Library (DALI)",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "ChatGPT",
+      "positions": [
+        "Artificial Intelligence Engineer at Constant Click"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "TensorRT",
+      "positions": [
+        "Artificial Intelligence Engineer at Innovative Solutions"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "OpenAI",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Docker",
+      "positions": [
+        "Artificial Intelligence Engineer at Innovative Solutions"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Java",
+      "positions": [
+        "Android Developer at Trust for Democratic Education and Accountability"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Android",
+      "positions": [
+        "Android Developer at Trust for Democratic Education and Accountability"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "TensorFlow",
+      "positions": [
+        "Machine Learning Engineer at iOPTIME Pvt Ltd"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Python (Programming Language)",
+      "positions": [
+        "5 experiences across Arbisoft and 4 other companies"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Sql",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Microsoft Excel",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "NVIDIA Triton Inference Server",
+      "positions": [
+        "Artificial Intelligence Engineer at Innovative Solutions"
+      ],
+      "endorsements": "1 endorsement"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Reducing Entropy Overestimation in Soft Actor Critic Using Dual Policy Network",
+      "publishedAt": "Jun 7, 2021",
+      "description": "Recently proposed Reinforcement learning algorithm Soft Actor Critic (SAC) maximizes entropy along with expected discounted rewards to encourage exploration. Entropy is maximized to discourage agents from creating high peak probabilities for some action. In this research, we found that entropy is only needed where high peaks are developed for some action. Adding entropy in every state causes unstable and slow policy learning. To overcome this, we proposed to use dual policy SAC in which both policies tries to maximize entropy to encourage exploration but chooses action against minimum entropy which resulted in stable and fast learning.",
+      "link": "https://www.hindawi.com/journals/wcmc/2021/9920591/"
+    }
+  ],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [
+    {
+      "title": "Silver Medalist",
+      "issuedBy": "Issued by FAST NUCES. Islamabad",
+      "issuedAt": "Nov 2021",
+      "description": "Received Silver Medal in MS Data Science program.",
+      "associatedWith": "National University of Computer and Emerging Sciences",
+      "associatedWithLink": "https://www.linkedin.com/company/15096487/"
+    }
+  ],
+  "languages": [],
+  "organizations": [],
+  "causes": [],
+  "featured": {
+    "images": [],
+    "link": null,
+    "title": null,
+    "subtitle": null,
+    "slides": [
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7277214217873555456?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7277214217873555456%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEXXupkvu87jQ/feedshare-image-high-res/B4DZP3bxMKHYA0-/0/1735023072681?e=1784160000&v=beta&t=HzE5kKI9k2-h8C8Xe0sDaR0u6J2yay-hmFV3pQd4jso"
+        }
+      },
+      {
+        "title": "GitHub - NVIDIA/DeepLearningExamples: State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+        "subtitle": "GitHub",
+        "description": null,
+        "url": "https://www.linkedin.com/in/hamid-ali-03075156742/overlay/1635534634017/single-media-viewer?type=LINK&profileId=ACoAAByUxjsBWl9fMFdcUIX5lMLvvWCYmdLkDHQ",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQGbTUFHxHcrGg/articleshare-shrink_1280_800/B56Z6uC5miIQAg-/0/1781036457516?e=1783242000&v=beta&t=e2YtqaDvlJGw9sXd8p8iVcZy-j-zs87sw8fuaLx3F4s"
+        }
+      },
+      {
+        "title": "Keras documentation: Highly accurate boundaries segmentation using BASNet",
+        "subtitle": "keras.io",
+        "description": null,
+        "url": "https://www.linkedin.com/in/hamid-ali-03075156742/overlay/1635534627900/single-media-viewer?type=LINK&profileId=ACoAAByUxjsBWl9fMFdcUIX5lMLvvWCYmdLkDHQ",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGGTcEhULSWeQ/articleshare-shrink_800/articleshare-shrink_800/0/1712165005922?e=1783242000&v=beta&t=xYM2jRSFHlausTvmoYNkgfkTtqwtHQ4t9PcDR0Cmb4o"
+        }
+      },
+      {
+        "title": "hamidriasat - Github",
+        "subtitle": "GitHub",
+        "description": null,
+        "url": "https://www.linkedin.com/in/hamid-ali-03075156742/overlay/1635534629539/single-media-viewer?type=LINK&profileId=ACoAAByUxjsBWl9fMFdcUIX5lMLvvWCYmdLkDHQ",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E2DAQFR6TTA3gKLDg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1690575974470?e=1783242000&v=beta&t=RKXZugoBzcEvVF_xyZ7ebvS_61ldIlfcmCwtn45N4Qk"
+        }
+      }
+    ]
+  },
+  "composeOptionType": null,
+  "moreProfiles": [
+    {
+      "id": "ACoAACLuan8BBBZdTTHSm0fYhQQ1HZ4xi8x9xZU",
+      "firstName": "Taha",
+      "lastName": "Muzammil",
+      "position": "Machine Learning Engineer @ Hyly.AI | Master’s degree in Computer Science",
+      "publicIdentifier": "tm100",
+      "linkedinUrl": "https://www.linkedin.com/in/tm100"
+    },
+    {
+      "id": "ACoAAB91_jgBX5kHrf17BEqYEZAhS-gQJ-FwMk4",
+      "firstName": "Usama",
+      "lastName": "Khalid",
+      "position": "Sr. ML Engineer @Arbisoft",
+      "publicIdentifier": "usamakhalid20",
+      "linkedinUrl": "https://www.linkedin.com/in/usamakhalid20"
+    },
+    {
+      "id": "ACoAAB-oaw4BCcCXiCe1hFQ3IdlMzA4yRoCa1hs",
+      "firstName": "Haseeb",
+      "lastName": "Jan",
+      "position": "GenAI LLM, Machine Learning Engineer @ Ex Turing | 7 years experience | 10K+ @Linkedin | End-to-End AI powered solution developer",
+      "publicIdentifier": "haseeb-jan-692a5b129",
+      "linkedinUrl": "https://www.linkedin.com/in/haseeb-jan-692a5b129"
+    },
+    {
+      "id": "ACoAACJVidsBD3raq70_xOqQ8jxeaOWjD-dpefo",
+      "firstName": "Muhammad",
+      "lastName": "Ahmed",
+      "position": "AI Engineer @ Pioneer Corporation | Kaggle Competitions Master (Highest Rank: 51st in the World)",
+      "publicIdentifier": "muhammad4hmed",
+      "linkedinUrl": "https://www.linkedin.com/in/muhammad4hmed"
+    },
+    {
+      "id": "ACoAACqnH6ABkC2ORufaGJ2ODUvQwQSf5WO59MY",
+      "firstName": "Talal",
+      "lastName": "Ahmed",
+      "position": "Senior AI Engineer | RAG · LLMs · Computer Vision · Backend | Building AI Systems That Scale",
+      "publicIdentifier": "talal-ahmed-a5479917b",
+      "linkedinUrl": "https://www.linkedin.com/in/talal-ahmed-a5479917b"
+    },
+    {
+      "id": "ACoAACyCutcBe_fhV2WS0tHX25FdjypmC4-C0bQ",
+      "firstName": "Muhammad",
+      "lastName": "Usman",
+      "position": "AI Engineer | Gen AI Engineer | Agentic AI | Machine Learning Engineer | NLP | Computer Vision | RAG | N8n | Data Scientist | Data Analyst | Data Engineering | Airflow | MLOps | Python | Django | Flask | FastApi | Scrapy",
+      "publicIdentifier": "muhammad-usman-81b10b18a",
+      "linkedinUrl": "https://www.linkedin.com/in/muhammad-usman-81b10b18a"
+    },
+    {
+      "id": "ACoAADFkTZ8BpS4kzUI0imDnOOoO_HkF2u5xzGE",
+      "firstName": "Ahsan",
+      "lastName": "Goheer",
+      "position": "AI Lead & Senior Data Scientist | GenAI Architect | Building Production-Grade AI Systems",
+      "publicIdentifier": "ahsangoheer",
+      "linkedinUrl": "https://www.linkedin.com/in/ahsangoheer"
+    },
+    {
+      "id": "ACoAADLtdysBCuiM1ZzS0JRE8sB79WBD8aw3VqU",
+      "firstName": "Amur",
+      "lastName": "Pal",
+      "position": "ML Engineer @ Arbisoft",
+      "publicIdentifier": "amur-pal",
+      "linkedinUrl": "https://www.linkedin.com/in/amur-pal"
+    },
+    {
+      "id": "ACoAACvrL-cBtbdKAqvossknCMItdqUjDAUsTSw",
+      "firstName": "Faizan",
+      "lastName": "Ahmad",
+      "position": "Senior AI Engineer @ droppGroup | Machine Learning Engineer | Python | LLM | MCP | Agents",
+      "publicIdentifier": "faizan-ahmad-347920186",
+      "linkedinUrl": "https://www.linkedin.com/in/faizan-ahmad-347920186"
+    },
+    {
+      "id": "ACoAAD_rQyYBd6pbUslhBZ5XoYG_u_pgDAoD-7w",
+      "firstName": "Adil",
+      "lastName": "Faizan",
+      "position": "Senior Artificial Intelligence/Machine Learning Engineer | Generative AI | NLP | LLM | Computer Vision | Data Engineering | Design Patterns",
+      "publicIdentifier": "adil-faizan",
+      "linkedinUrl": "https://www.linkedin.com/in/adil-faizan"
+    },
+    {
+      "id": "ACoAAGFr3P8BQEV8V32YNoLEZ-ccemxOWY4jYps",
+      "firstName": "Sana",
+      "lastName": "Ullah",
+      "position": "BS FinTech Student at FAST NUCES | Dean’s Honor List | Financial Analysis | Excel | C++",
+      "publicIdentifier": "sana-ullah-4a7463397",
+      "linkedinUrl": "https://www.linkedin.com/in/sana-ullah-4a7463397"
+    },
+    {
+      "id": "ACoAAGSWwu4BHmY3dyau0uXeZnS3ObZFC2CTWsI",
+      "firstName": "Seemi",
+      "lastName": "Naz",
+      "position": "Senior Generative AI Engineer | LLM, RAG & AI Agent Systems | LangChain, LangGraph, OpenAI, Python, FastAPI | 5+ Yrs Building Production-Grade Agentic AI & Multi-Agent Workflows",
+      "publicIdentifier": "seemi-naz-57a2113b1",
+      "linkedinUrl": "https://www.linkedin.com/in/seemi-naz-57a2113b1"
+    },
+    {
+      "id": "ACoAAGCihw0BPAfDx-MKCZ4g85yW1hkjCaiM2qE",
+      "firstName": "Aitizaz",
+      "lastName": "Haider",
+      "position": "Electrical Engineering Professional | Proven experience in Hydropower, Control Systems, & Plant Maintenance | PLC & SCADA|",
+      "publicIdentifier": "aitizaz-haider-691b5b392",
+      "linkedinUrl": "https://www.linkedin.com/in/aitizaz-haider-691b5b392"
+    },
+    {
+      "id": "ACoAAGKWwXcBtdF7pIbnNUv2XxLF0TtpF7dzGvo",
+      "firstName": "Imran",
+      "lastName": "Younas",
+      "position": "Java | JavaScript | Spring boot | MERN stack",
+      "publicIdentifier": "eng-imran-younas",
+      "linkedinUrl": "https://www.linkedin.com/in/eng-imran-younas"
+    },
+    {
+      "id": "ACoAAGVufBsBGdeStO49xEcFPviqHJ8m3xny0Ls",
+      "firstName": "MUHAMMAD",
+      "lastName": "AHMAD",
+      "position": "Student at University of Agriculture, Faisalabad",
+      "publicIdentifier": "muhammad-ahmad-b8baaa3b5",
+      "linkedinUrl": "https://www.linkedin.com/in/muhammad-ahmad-b8baaa3b5"
+    },
+    {
+      "id": "ACoAAGSD38sBvvZG_cH0NxMZmuUib3oPAnO4e_Q",
+      "firstName": "Usman",
+      "lastName": "Haider",
+      "position": "Student at National University of Computer and Emerging Sciences",
+      "publicIdentifier": "usman-haider-1a39153b0",
+      "linkedinUrl": "https://www.linkedin.com/in/usman-haider-1a39153b0"
+    },
+    {
+      "id": "ACoAAGLnAOIBRF28YjVdRU-yBdh7GlESf_E4tLg",
+      "firstName": "Asma",
+      "lastName": "M.",
+      "position": "CS @ FAST-NUCES",
+      "publicIdentifier": "asma-m-7968463a3",
+      "linkedinUrl": "https://www.linkedin.com/in/asma-m-7968463a3"
+    },
+    {
+      "id": "ACoAAGMVzugBOl14fgXQwPCgVNBPLvYaU51RMQ8",
+      "firstName": "Muhammad",
+      "lastName": "Fahad Javed",
+      "position": "Computer Science Student @ FAST NUCES ’29 | C++ Programmer & Front-End Developer | Aspiring Software Engineer",
+      "publicIdentifier": "muhammad-fahad-javed",
+      "linkedinUrl": "https://www.linkedin.com/in/muhammad-fahad-javed"
+    },
+    {
+      "id": "ACoAAGJlU00BbgdI6s1Sy8phWUkWbQqFtzsGUt8",
+      "firstName": "Shahmeer",
+      "lastName": "Kashif",
+      "position": "Student at National University of Computer and Emerging Sciences",
+      "publicIdentifier": "shahmeer-kashif-5a5a283a0",
+      "linkedinUrl": "https://www.linkedin.com/in/shahmeer-kashif-5a5a283a0"
+    },
+    {
+      "id": "ACoAAGSz5sMBwTRdYTh-JZyaogbMyUNH_5t9aaU",
+      "firstName": "Muhammad",
+      "lastName": "Tayyab",
+      "position": "SE Student | Python Developer | Full-Stack Developer | Interested In Ai",
+      "publicIdentifier": "muhammad-tayyab-76b9923b1",
+      "linkedinUrl": "https://www.linkedin.com/in/muhammad-tayyab-76b9923b1"
+    }
+  ],
+  "interests": [
+    {
+      "interestName": "Top Voices",
+      "elements": [
+        {
+          "title": "Carly Taylor",
+          "subtitle": "I build AI systems and teach people how to do the same | VP @ Crunchyroll | ex-Databricks Field CTO | ML engineer, 2 patents | 185k on LinkedIn",
+          "link": "https://www.linkedin.com/in/carly-taylor-data",
+          "caption": "187,251 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQGUOSlN4fyuIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727286290861?e=1784160000&v=beta&t=ZA52yG19Zv0iIlDRjVf4xtmoVhLbCRp2ez6X0WMBD3c"
+          }
+        },
+        {
+          "title": "Andy Jassy",
+          "subtitle": "President and CEO at Amazon",
+          "link": "https://www.linkedin.com/in/andy-jassy-8b1615",
+          "caption": "1,056,097 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C5603AQGSl0b1ZCh2sQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1631724420241?e=1784160000&v=beta&t=xZ6c5i47VV2XiGOeehMyT5azRfoI7pw-fW16ecv_GXg"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Companies",
+      "elements": [
+        {
+          "title": "IBM",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1009/",
+          "caption": "19,641,566 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ"
+          }
+        },
+        {
+          "title": "Oracle",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1028/",
+          "caption": "11,424,172 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1784160000&v=beta&t=Pl8NTUlyHPaa6eB4Z92u60BdQR4YLonkXsSEJSRtj_0"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Groups",
+      "elements": [
+        {
+          "title": "IBM Pakistan",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/2913506",
+          "caption": "2,701 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C5607AQE7LEVzbDd8xg/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1631401591223?e=1783242000&v=beta&t=pv-RmTbOwh9hCdGRnAD5RrVG86tV3XOtbvoqbbiAjjg"
+          }
+        },
+        {
+          "title": "Enterprise AI, Generative AI, Agents, LLMs and Related Topics",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/35222",
+          "caption": "649,645 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D5607AQGYpNL0ztYwOg/group-logo_image-shrink_400x400/B56ZxdZOsSJsAU-/0/1771093421079?e=1783242000&v=beta&t=HAcRK_blosiyaP_C6Dvy4eQb_gapwjavZ42nJiL2yKU"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Newsletters",
+      "elements": [
+        {
+          "title": "AlphaSignal",
+          "subtitle": "Read by 300,000+ developers, we help you stay up to date with the latest news, research, and code in AI.",
+          "link": "https://www.linkedin.com/newsletters/7077778910851055616",
+          "caption": "Published daily",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D5612AQFZTb2iIPNIwg/series-logo_image-shrink_300_300/B56Zy2NM0XG4AQ-/0/1772583439907?e=1784160000&v=beta&t=konOPDGqlwFn_SCOoWTtnlonN7rk-_5hjL0HHhHtYqU"
+          }
+        },
+        {
+          "title": "Huawei News & Views",
+          "subtitle": "Learn how digital technology is reshaping our world and get a glimpse of the future",
+          "link": "https://www.linkedin.com/newsletters/7077173862949392384",
+          "caption": "Published monthly",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D5612AQFg4PVRjIoEbQ/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1702889567275?e=1784160000&v=beta&t=Umjjh2PxBRvV2xIJxYQzXsVRwtGJz54feirHlcXqMVo"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Schools",
+      "elements": [
+        {
+          "title": "National University of Computer and Emerging Sciences",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/15096487/",
+          "caption": "108,995 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhCkUcTCTUsA/company-logo_400_400/B4DZbEm8GEHsAY-/0/1747055264905/fastnu_logo?e=1784160000&v=beta&t=fk9GSsCMmn-Plr3TWCCUYlRmwF-ABfyJwDtAMMunl-w"
+          }
+        },
+        {
+          "title": "NED University of Engineering and Technology",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/262183/",
+          "caption": "127,214 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGJu57vOOASjw/company-logo_400_400/company-logo_400_400/0/1631344363431?e=1784160000&v=beta&t=Jm77-5u48fY9T1KfH387jEhEjX09N-k92A0yX0YzuOM"
+          }
+        }
+      ]
+    }
+  ],
+  "originalQuery": {
+    "url": "https://www.linkedin.com/in/hamid-ali-03075156742/"
+  }
+}]

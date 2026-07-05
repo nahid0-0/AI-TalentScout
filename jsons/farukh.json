@@ -1,0 +1,965 @@
+[{
+  "id": "ACoAABXX53MB02eyNCtA69rzIfRYTonAYUMfzDk",
+  "publicIdentifier": "fakhrulsojib",
+  "linkedinUrl": "https://www.linkedin.com/in/fakhrulsojib",
+  "firstName": "Md Fakhrul",
+  "lastName": "I.",
+  "emails": [],
+  "headline": "Software Engineer II | Java, Spring, React, Agentic AI | Competitive Programmer",
+  "openToWork": false,
+  "hiring": false,
+  "premium": false,
+  "influencer": false,
+  "memorialized": false,
+  "creator": true,
+  "location": {
+    "linkedinText": "Bangladesh",
+    "countryCode": "BD",
+    "parsed": {
+      "text": "Bangladesh",
+      "countryCode": "BD",
+      "regionCode": null,
+      "country": "Bangladesh",
+      "countryFull": "Bangladesh"
+    }
+  },
+  "objectUrn": "366471027",
+  "registeredAt": "2014-08-29T05:34:36.725Z",
+  "topSkills": [
+    "C++",
+    "Java",
+    "Spring",
+    "Problem Solving"
+  ],
+  "connectionsCount": 700,
+  "followerCount": 1186,
+  "verified": true,
+  "about": "Software Engineer (3+ years) | Codeforces Candidate Master (Top 2.56%).\n\n    - Tech: Java (Spring Boot), Oracle, Kafka, Distributed Systems.\n    - AI: Agentic AI, LangGraph, and RAG Systems.\n    - Performance: CodeChef 6-Star (Top 0.2%) | ICPC Regional Rank 21st.\n    - Foundation: B.Sc. in Mathematics.\n\nI prefer a solid plan over unnecessary code. Absolute honesty, no nonsense—just results.",
+  "currentPosition": [
+    {
+      "position": "Software Engineer II",
+      "location": "Dhaka, Bangladesh",
+      "employmentType": "Full-time",
+      "workplaceType": "Hybrid",
+      "companyName": "Therap (BD) Ltd.",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/therapbd/",
+      "companyId": "78450511",
+      "duration": "3 mos",
+      "description": "Creating AI powered intelligent systems to automate development, quality assurance and other SaaS operational activities.",
+      "skills": [
+        "Software Solution Architecture",
+        "Agentic AI Development",
+        "Spring Boot",
+        "Problem Solving"
+      ],
+      "experienceGroupId": "3b871d2cfe971d1e20e17280e5346b0c7b6994bc",
+      "startDate": {
+        "month": "Apr",
+        "year": 2026,
+        "text": "Apr 2026"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_400_400/company-logo_400_400/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=m9_zklmgmkoeNE17eA8CcqoRQXoK_eLt4ozUx0VPMMY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_400_400/company-logo_400_400/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=m9_zklmgmkoeNE17eA8CcqoRQXoK_eLt4ozUx0VPMMY",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_200_200/company-logo_200_200/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=wYN1pIr2E6QHR6m4lZC50sFZizHdli02q1tvbglcRI0",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_100_100/company-logo_100_100/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=q06F3sPSmmXSnNbOQCQdo4eXSY8RzIu4EM84vM-mtqs",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "therapbd"
+    }
+  ],
+  "profileTopEducation": [
+    {
+      "schoolName": "Shahjalal University of Science and Technology",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/578193/",
+      "schoolId": "578193",
+      "degree": "Bachelor of Science - BS",
+      "fieldOfStudy": "Mathematics",
+      "period": "Feb 2018 - Feb 2023",
+      "startDate": {
+        "month": "Feb",
+        "year": 2018,
+        "text": "Feb 2018"
+      },
+      "endDate": {
+        "month": "Feb",
+        "year": 2023,
+        "text": "Feb 2023"
+      },
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_400_400/company-logo_400_400/0/1631303139775?e=1784160000&v=beta&t=9vnh86Us9F2wWdqC-RSEso2hCvT6mELkBMnbKcWqoZI",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_400_400/company-logo_400_400/0/1631303139775?e=1784160000&v=beta&t=9vnh86Us9F2wWdqC-RSEso2hCvT6mELkBMnbKcWqoZI",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_200_200/company-logo_200_200/0/1631303139775?e=1784160000&v=beta&t=vgu7ZzPL7WVuI8-js7GflIbx-v6mIeWTTZCIV-dUg78",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_100_100/company-logo_100_100/0/1631303139775?e=1784160000&v=beta&t=0hlPANwJQ8QLRad_PVwFqKF9rUEBsnsto4F6ONOfMfE",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "profileActions": [],
+  "profilePicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D5603AQECSP8mX8fXLA/profile-displayphoto-shrink_800_800/B56ZScbnalHsAc-/0/1737791274248?e=1784160000&v=beta&t=_8NeqhwJ2p2gdAqxvlL91P9b-BAeJ6HpXAU5CD2Kpk8",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQECSP8mX8fXLA/profile-displayphoto-shrink_800_800/B56ZScbnalHsAc-/0/1737791274248?e=1784160000&v=beta&t=_8NeqhwJ2p2gdAqxvlL91P9b-BAeJ6HpXAU5CD2Kpk8",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQECSP8mX8fXLA/profile-displayphoto-shrink_400_400/B56ZScbnalHsAg-/0/1737791274248?e=1784160000&v=beta&t=V8RHKqL_gmhh7ZkKTktlax_6WdcZxXtkVZnmOsK5Smo",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQECSP8mX8fXLA/profile-displayphoto-shrink_200_200/B56ZScbnalHsAY-/0/1737791274184?e=1784160000&v=beta&t=JKQhVpKA06Qg-Nf_NzINt6w8cF-oSsOpsOrXGNv-6ZM",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQECSP8mX8fXLA/profile-displayphoto-shrink_100_100/B56ZScbnalHsAU-/0/1737791274248?e=1784160000&v=beta&t=mJA4yrqvpqSddxMmdTlqGzSF3mzWjo80rt8G8SClw-w",
+        "width": 100,
+        "height": 100
+      }
+    ]
+  },
+  "coverPicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D4E16AQGEf20ZcMAZzg/profile-displaybackgroundimage-shrink_350_1400/B4EZ0bLkBEJcAY-/0/1774277515609?e=1784160000&v=beta&t=C-fmGuScPxosko36RCIFMjYyLC_aVInBYx-ZiOVr7T0",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E16AQGEf20ZcMAZzg/profile-displaybackgroundimage-shrink_350_1400/B4EZ0bLkBEJcAY-/0/1774277515609?e=1784160000&v=beta&t=C-fmGuScPxosko36RCIFMjYyLC_aVInBYx-ZiOVr7T0",
+        "width": 1400,
+        "height": 350
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E16AQGEf20ZcMAZzg/profile-displaybackgroundimage-shrink_200_800/B4EZ0bLkBEJcAU-/0/1774277515609?e=1784160000&v=beta&t=q2a5FZZ9xL-Jiez6JqPbMhwXqr7VLb6o2EhKcx73fbA",
+        "width": 800,
+        "height": 200
+      }
+    ]
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/D5603AQECSP8mX8fXLA/profile-displayphoto-shrink_800_800/B56ZScbnalHsAc-/0/1737791274248?e=1784160000&v=beta&t=_8NeqhwJ2p2gdAqxvlL91P9b-BAeJ6HpXAU5CD2Kpk8",
+  "profileLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "primaryLocale": {
+    "country": "US",
+    "language": "en"
+  },
+  "multiLocaleHeadline": [
+    {
+      "headline": "Software Engineer II | Java, Spring, React, Agentic AI | Competitive Programmer",
+      "locale": "en_US"
+    }
+  ],
+  "services": null,
+  "experience": [
+    {
+      "position": "Software Engineer II",
+      "location": "Dhaka, Bangladesh",
+      "employmentType": "Full-time",
+      "workplaceType": "Hybrid",
+      "companyName": "Therap (BD) Ltd.",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/therapbd/",
+      "companyId": "78450511",
+      "duration": "3 mos",
+      "description": "Creating AI powered intelligent systems to automate development, quality assurance and other SaaS operational activities.",
+      "skills": [
+        "Software Solution Architecture",
+        "Agentic AI Development",
+        "Spring Boot",
+        "Problem Solving"
+      ],
+      "experienceGroupId": "3b871d2cfe971d1e20e17280e5346b0c7b6994bc",
+      "startDate": {
+        "month": "Apr",
+        "year": 2026,
+        "text": "Apr 2026"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_400_400/company-logo_400_400/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=m9_zklmgmkoeNE17eA8CcqoRQXoK_eLt4ozUx0VPMMY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_400_400/company-logo_400_400/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=m9_zklmgmkoeNE17eA8CcqoRQXoK_eLt4ozUx0VPMMY",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_200_200/company-logo_200_200/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=wYN1pIr2E6QHR6m4lZC50sFZizHdli02q1tvbglcRI0",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_100_100/company-logo_100_100/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=q06F3sPSmmXSnNbOQCQdo4eXSY8RzIu4EM84vM-mtqs",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "therapbd"
+    },
+    {
+      "position": "Software Engineer",
+      "location": "Dhaka, Bangladesh",
+      "employmentType": "Full-time",
+      "workplaceType": "Hybrid",
+      "companyName": "Therap (BD) Ltd.",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/therapbd/",
+      "companyId": "78450511",
+      "duration": "2 yrs",
+      "description": "Distributed Systems: Spearheaded the migration of a legacy batch monolith into a distributed master-worker system; achieved zero unplanned downtime over 3+ months.\n\nScalable Development: Engineered a fault-tolerant, asynchronous SFTP system (Spring Boot, JS) that scaled to 320K+ monthly invoices, eliminating 110+ hours of manual workload.\n\nSecurity & Compliance: Secured a supply chain handling PHI for 1M+ individuals; reached 100% audit compliance via custom patches and critical library upgrades.\n\nMentorship: Trained and mentored Associate Software Engineers on system architecture and clean code practices.",
+      "skills": [
+        "Spring Batch",
+        "Spring",
+        "JavaScript",
+        "Hibernate",
+        "Java",
+        "Playwright",
+        "Spring Boot",
+        "Spring Framework",
+        "Docker",
+        "Git",
+        "Oracle Database"
+      ],
+      "experienceGroupId": "3b871d2cfe971d1e20e17280e5346b0c7b6994bc",
+      "startDate": {
+        "month": "Apr",
+        "year": 2024,
+        "text": "Apr 2024"
+      },
+      "endDate": {
+        "month": "Mar",
+        "year": 2026,
+        "text": "Mar 2026"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_400_400/company-logo_400_400/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=m9_zklmgmkoeNE17eA8CcqoRQXoK_eLt4ozUx0VPMMY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_400_400/company-logo_400_400/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=m9_zklmgmkoeNE17eA8CcqoRQXoK_eLt4ozUx0VPMMY",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_200_200/company-logo_200_200/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=wYN1pIr2E6QHR6m4lZC50sFZizHdli02q1tvbglcRI0",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_100_100/company-logo_100_100/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=q06F3sPSmmXSnNbOQCQdo4eXSY8RzIu4EM84vM-mtqs",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "therapbd"
+    },
+    {
+      "position": "Associate Software Engineer",
+      "location": "Dhaka, Bangladesh",
+      "employmentType": "Full-time",
+      "workplaceType": "Hybrid",
+      "companyName": "Therap (BD) Ltd.",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/therapbd/",
+      "companyId": "78450511",
+      "duration": "1 yr 1 mo",
+      "description": "Production Integration: Rapidly integrated into a large-scale SaaS codebase, contributing production-ready features in Java, Spring, and SQL within the first 90 days.\n\nFeature Development: Built a multi-threaded job management system using concurrent queues, eliminating manual resets and saving ~20 engineering hours/month.\n\nInfrastructure Monitoring: Co-authored a service monitoring system to monitor internal tools usage pattern.",
+      "skills": [
+        "Gradle",
+        "Spring",
+        "Hibernate",
+        "Java",
+        "PostgreSQL",
+        "Spring Framework",
+        "Object-Oriented Programming (OOP)",
+        "Git",
+        "Oracle Database"
+      ],
+      "experienceGroupId": "3b871d2cfe971d1e20e17280e5346b0c7b6994bc",
+      "startDate": {
+        "month": "Mar",
+        "year": 2023,
+        "text": "Mar 2023"
+      },
+      "endDate": {
+        "month": "Mar",
+        "year": 2024,
+        "text": "Mar 2024"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_400_400/company-logo_400_400/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=m9_zklmgmkoeNE17eA8CcqoRQXoK_eLt4ozUx0VPMMY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_400_400/company-logo_400_400/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=m9_zklmgmkoeNE17eA8CcqoRQXoK_eLt4ozUx0VPMMY",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_200_200/company-logo_200_200/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=wYN1pIr2E6QHR6m4lZC50sFZizHdli02q1tvbglcRI0",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFVhJXjAzGTbQ/company-logo_100_100/company-logo_100_100/0/1678098262547/therapbd_logo?e=1784160000&v=beta&t=q06F3sPSmmXSnNbOQCQdo4eXSY8RzIu4EM84vM-mtqs",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "therapbd"
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "Shahjalal University of Science and Technology",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/578193/",
+      "schoolId": "578193",
+      "degree": "Bachelor of Science - BS",
+      "fieldOfStudy": "Mathematics",
+      "skills": [
+        "Mathematics"
+      ],
+      "insights": "Activities and societies: Programming Club, Football team",
+      "startDate": {
+        "month": "Feb",
+        "year": 2018,
+        "text": "Feb 2018"
+      },
+      "endDate": {
+        "month": "Feb",
+        "year": 2023,
+        "text": "Feb 2023"
+      },
+      "period": "Feb 2018 - Feb 2023",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_400_400/company-logo_400_400/0/1631303139775?e=1784160000&v=beta&t=9vnh86Us9F2wWdqC-RSEso2hCvT6mELkBMnbKcWqoZI",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_400_400/company-logo_400_400/0/1631303139775?e=1784160000&v=beta&t=9vnh86Us9F2wWdqC-RSEso2hCvT6mELkBMnbKcWqoZI",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_200_200/company-logo_200_200/0/1631303139775?e=1784160000&v=beta&t=vgu7ZzPL7WVuI8-js7GflIbx-v6mIeWTTZCIV-dUg78",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_100_100/company-logo_100_100/0/1631303139775?e=1784160000&v=beta&t=0hlPANwJQ8QLRad_PVwFqKF9rUEBsnsto4F6ONOfMfE",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "Birshreshtha Noor Mohammad Public College BNMPC",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/19210306/",
+      "schoolId": "19210306",
+      "degree": "HSC",
+      "fieldOfStudy": null,
+      "skills": [],
+      "startDate": {
+        "year": 2015,
+        "text": "2015"
+      },
+      "endDate": {
+        "year": 2017,
+        "text": "2017"
+      },
+      "period": "2015 - 2017",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQFSTpYHHWtQcQ/company-logo_400_400/company-logo_400_400/0/1630629338411?e=1784160000&v=beta&t=HHLgAKVwoP5QI-9x2Z0_RnlSKiWRQ7NdOsQFuuUy5a8",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFSTpYHHWtQcQ/company-logo_400_400/company-logo_400_400/0/1630629338411?e=1784160000&v=beta&t=HHLgAKVwoP5QI-9x2Z0_RnlSKiWRQ7NdOsQFuuUy5a8",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFSTpYHHWtQcQ/company-logo_200_200/company-logo_200_200/0/1630629338411?e=1784160000&v=beta&t=VBn52m0c29zMB7HlRtQUhknF4A_eL7NhypwkANQeAv0",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFSTpYHHWtQcQ/company-logo_100_100/company-logo_100_100/0/1630629338411?e=1784160000&v=beta&t=IheZMH2ngAj4nT5wp81gk-HaqtXCfXQJWKpTgNz04kk",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "Ataturk Government Model High School",
+      "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Ataturk+Government+Model+High+School",
+      "schoolId": null,
+      "degree": "SSC",
+      "fieldOfStudy": null,
+      "skills": [],
+      "startDate": {
+        "year": 2013,
+        "text": "2013"
+      },
+      "endDate": {
+        "year": 2015,
+        "text": "2015"
+      },
+      "period": "2013 - 2015",
+      "schoolLogo": null
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AI Agents Fundamentals",
+      "issuedAt": "Issued Sep 2025",
+      "link": "https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/fakhrulsojib/2025-09-28.png",
+      "issuedBy": "Hugging Face",
+      "issuedByLink": "https://www.linkedin.com/company/11193683/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFzIxlpQ0lAdA/company-logo_400_400/company-logo_400_400/0/1630556211624/huggingface_logo?e=1784160000&v=beta&t=d6EiBejX8T5PUfWB33xaZgUXlWbzaWuboQMApuxU1ts",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFzIxlpQ0lAdA/company-logo_400_400/company-logo_400_400/0/1630556211624/huggingface_logo?e=1784160000&v=beta&t=d6EiBejX8T5PUfWB33xaZgUXlWbzaWuboQMApuxU1ts",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFzIxlpQ0lAdA/company-logo_200_200/company-logo_200_200/0/1630556211624/huggingface_logo?e=1784160000&v=beta&t=6tSp-h0XbZbxXkmWutPY_9HNiuq70gGv8MZNaAoyoDE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFzIxlpQ0lAdA/company-logo_100_100/company-logo_100_100/0/1630556211624/huggingface_logo?e=1784160000&v=beta&t=KvmId_4WoZklS6HciSY54XCVk017v4dwD-uu6XFt-OA",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "title": "ICPC Profile",
+      "link": "https://icpc.global/ICPCID/9R87WAXQCMQY",
+      "issuedBy": "ICPC - International Collegiate Programming Contest",
+      "issuedByLink": "https://www.linkedin.com/company/857208/",
+      "issuedByLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEOyJMsfGI1sA/company-logo_400_400/B4EZlTqN_1IoAY-/0/1758045200780/icpc_international_collegiate_programming_contest_logo?e=1784160000&v=beta&t=S8VKkSi7jvWKtFlo3zpFPxoH0pCXhLfkoIT01tocViI",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEOyJMsfGI1sA/company-logo_400_400/B4EZlTqN_1IoAY-/0/1758045200780/icpc_international_collegiate_programming_contest_logo?e=1784160000&v=beta&t=S8VKkSi7jvWKtFlo3zpFPxoH0pCXhLfkoIT01tocViI",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEOyJMsfGI1sA/company-logo_200_200/B4EZlTqN_1IoAI-/0/1758045200780/icpc_international_collegiate_programming_contest_logo?e=1784160000&v=beta&t=8T08SqyvWifwHK_BWd1K8zQU_o0MXWxzmS5atXmRAM4",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEOyJMsfGI1sA/company-logo_100_100/B4EZlTqN_1IoAQ-/0/1758045200780/icpc_international_collegiate_programming_contest_logo?e=1784160000&v=beta&t=SI0gg6d_labjLVo11tfm5rEZ-xrgXSf7mzdzlJZGjfg",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "projects": [],
+  "volunteering": [
+    {
+      "role": "General Secretary",
+      "organizationName": "Euclid Programming Club",
+      "duration": "Aug 2018 - Jun 2023 · 4 yrs 11 mos",
+      "startDate": {
+        "month": "Aug",
+        "year": 2018,
+        "text": "Aug 2018"
+      },
+      "endDate": {
+        "month": "Jun",
+        "year": 2023,
+        "text": "Jun 2023"
+      }
+    }
+  ],
+  "receivedRecommendations": [],
+  "skills": [
+    {
+      "name": "Problem Solving",
+      "positions": [
+        "Software Engineer II at Therap (BD) Ltd."
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Docker ",
+      "positions": [
+        "Software Engineer at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "positions": [
+        "2 experiences at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Oracle Database",
+      "positions": [
+        "2 experiences at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "positions": [
+        "Software Engineer at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Spring",
+      "positions": [
+        "2 experiences at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "positions": [
+        "Associate Software Engineer at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Spring MVC"
+    },
+    {
+      "name": "Java",
+      "positions": [
+        "2 experiences at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Hibernate",
+      "positions": [
+        "2 experiences at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Spring Framework",
+      "positions": [
+        "2 experiences at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "C++",
+      "positions": [
+        "ICPC Profile"
+      ],
+      "assessments": "Passed LinkedIn Skill Assessment"
+    },
+    {
+      "name": "C (Programming Language)",
+      "assessments": "Passed LinkedIn Skill Assessment",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Python (Programming Language)",
+      "assessments": "Passed LinkedIn Skill Assessment"
+    },
+    {
+      "name": "Git",
+      "positions": [
+        "2 experiences at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Android",
+      "assessments": "Passed LinkedIn Skill Assessment"
+    },
+    {
+      "name": "HTML",
+      "assessments": "Passed LinkedIn Skill Assessment"
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "name": "Adobe Illustrator"
+    },
+    {
+      "name": "Microsoft Excel"
+    },
+    {
+      "name": "Microsoft Office"
+    },
+    {
+      "name": "Agentic AI Development",
+      "positions": [
+        "Software Engineer II at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Software Solution Architecture",
+      "positions": [
+        "Software Engineer II at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Playwright",
+      "positions": [
+        "Software Engineer at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Spring Batch",
+      "positions": [
+        "Software Engineer at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Gradle",
+      "positions": [
+        "Associate Software Engineer at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Algorithms",
+      "positions": [
+        "ICPC Profile"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Data Structures",
+      "positions": [
+        "ICPC Profile"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "positions": [
+        "Associate Software Engineer at Therap (BD) Ltd."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "positions": [
+        "Shahjalal University of Science and Technology"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Computational Mathematics",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "endorsements": "1 endorsement"
+    }
+  ],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [],
+  "languages": [
+    {
+      "name": "Bangla",
+      "proficiency": "Native or bilingual proficiency"
+    },
+    {
+      "name": "English",
+      "proficiency": "Professional working proficiency"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "Elementary proficiency"
+    }
+  ],
+  "organizations": [],
+  "causes": [],
+  "featured": {
+    "images": [],
+    "link": null,
+    "title": null,
+    "subtitle": null,
+    "slides": [
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7010918143913062400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7010918143913062400%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/C5622AQGlEuSumX6bMQ/feedshare-image-high-res/feedshare-image-high-res/0/1671533141125?e=1784160000&v=beta&t=J6AzG7aB0Y3bWGC7P48i6-FOdZXoZiAU_LMKaVnRHUs"
+        }
+      },
+      {
+        "title": "fakhrulsojib - Codeforces",
+        "subtitle": "Codeforces",
+        "description": null,
+        "url": "https://www.linkedin.com/in/fakhrulsojib/overlay/1635510144285/single-media-viewer?type=LINK&profileId=ACoAABXX53MB02eyNCtA69rzIfRYTonAYUMfzDk",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHKeNErctjr-g/articleshare-shrink_800/articleshare-shrink_800/0/1758807281616?e=1783242000&v=beta&t=3-Tu4KeL4SO-eMXssiRVlBYZfCMtPBuk89mSTJHTxG0"
+        }
+      }
+    ]
+  },
+  "composeOptionType": "UPSELL",
+  "moreProfiles": [
+    {
+      "id": "ACoAADC49LMB01x6qqUWLmAifPRiReVXZdGAE4Y",
+      "firstName": "Mehzabin Sadat",
+      "lastName": "Aothoi",
+      "position": "Software Engineer at Therap (BD) Ltd.",
+      "publicIdentifier": "mehzabin",
+      "linkedinUrl": "https://www.linkedin.com/in/mehzabin"
+    },
+    {
+      "id": "ACoAACACSHsBA8HwEiwSetpDTQR_joxF1ZeOhOU",
+      "firstName": "Joy",
+      "lastName": "Sarker",
+      "position": "Software Engineer L2 @TherapBD | Java | Spring MVC | Competitive Programmer",
+      "publicIdentifier": "joysarker39",
+      "linkedinUrl": "https://www.linkedin.com/in/joysarker39"
+    },
+    {
+      "id": "ACoAADQdozwBUy2o1Tc314vERP_0B0l3Y8Z3hqk",
+      "firstName": "Ahmed",
+      "lastName": "Iftekher",
+      "position": "Software Engineer at Therap (BD) Ltd | Java | Hibernate | Spring",
+      "publicIdentifier": "ahmed-iftekher",
+      "linkedinUrl": "https://www.linkedin.com/in/ahmed-iftekher"
+    },
+    {
+      "id": "ACoAACdeVVMBDX37jVmdcHxWFYPxwRbYwnkPxOs",
+      "firstName": "Md. Ashiqur Rahman",
+      "lastName": "Naeem",
+      "position": "Software Engineer | Flutter | Android Native (Compose + XML) | AI-Driven Development | Can Build Any Software You Imagine | Specialist @Codeforces | 3* @CodeChef",
+      "publicIdentifier": "7ij",
+      "linkedinUrl": "https://www.linkedin.com/in/7ij"
+    },
+    {
+      "id": "ACoAAC8-VwEBTON79jc9AhBsSSlnWnvJ0XAY2y4",
+      "firstName": "Al Mohammad",
+      "lastName": "Aladin",
+      "position": "Senior Software Engineer at Therap (BD) Ltd.",
+      "publicIdentifier": "al-mohammad-aladin",
+      "linkedinUrl": "https://www.linkedin.com/in/al-mohammad-aladin"
+    },
+    {
+      "id": "ACoAACXJ93wBCQvUYFA4-bsTItCz720bwjKOWDQ",
+      "firstName": "Shamah",
+      "lastName": "Zoha",
+      "position": "Senior SWE II @ Therap (BD) Ltd. | Java EE, Spring Framework & Hibernate Developer | Java Enthusiast",
+      "publicIdentifier": "smzoha",
+      "linkedinUrl": "https://www.linkedin.com/in/smzoha"
+    },
+    {
+      "id": "ACoAACo1cBEBdNJ6e9sDhZRx_2iC1ku5X1_9qyc",
+      "firstName": "Shahriar",
+      "lastName": "Al Mohaiminul",
+      "position": "Software Engineer at Therap (BD) Ltd.",
+      "publicIdentifier": "shahriar-al-mohaiminul-2951a6179",
+      "linkedinUrl": "https://www.linkedin.com/in/shahriar-al-mohaiminul-2951a6179"
+    },
+    {
+      "id": "ACoAACq1CMQBI-pu_wABy6f451yoU7KS_b3dmQ4",
+      "firstName": "Suvash",
+      "lastName": "Kumar",
+      "position": "Associate SWE @ TherapBD | Java Full-Stack | Spring & Spring Boot  | Deep Learning Enthusiast | Python | PHP",
+      "publicIdentifier": "suvashkumarsumon",
+      "linkedinUrl": "https://www.linkedin.com/in/suvashkumarsumon"
+    },
+    {
+      "id": "ACoAADKDrccBbCW0RFeeaFT6KUZ6NZemclXFHTE",
+      "firstName": "Md. Tanzim",
+      "lastName": "Azad",
+      "position": "Software Engineer at Therap (BD) Ltd. | BUET CSE Graduate",
+      "publicIdentifier": "md-tanzim-azad-a879a51b7",
+      "linkedinUrl": "https://www.linkedin.com/in/md-tanzim-azad-a879a51b7"
+    },
+    {
+      "id": "ACoAADEcN9gBrejiNtssWL5dHqDPnx3daqkw4KM",
+      "firstName": "Mohammad Faiyaz",
+      "lastName": "Khan",
+      "position": "Software Engineer | Java, Spring, Oracle | Scaled B2B Systems | Technical Mentor",
+      "publicIdentifier": "mohammad-faiyaz-khan",
+      "linkedinUrl": "https://www.linkedin.com/in/mohammad-faiyaz-khan"
+    },
+    {
+      "id": "ACoAAF2HLlcBGy6nn35jqYSsFHyB4r5LAglER7Y",
+      "firstName": "Hasin",
+      "lastName": "Abrer",
+      "position": "Frontend Developer | React & JavaScript | Building responsive, User-centric Web applications",
+      "publicIdentifier": "hasinabrer",
+      "linkedinUrl": "https://www.linkedin.com/in/hasinabrer"
+    },
+    {
+      "id": "ACoAAGE5Un8Bsg1B1PsWn3EsrVdd71lr7dO7r_M",
+      "firstName": "Tuhin",
+      "lastName": "Ahmed",
+      "position": "Data Entry Specialist | Excel & Google Sheets Expert | Accurate, Fast & Reliable Virtual Assistant.",
+      "publicIdentifier": "tuhin-ahmed-713326396",
+      "linkedinUrl": "https://www.linkedin.com/in/tuhin-ahmed-713326396"
+    },
+    {
+      "id": "ACoAAE-VdVEB4_azGKC-Brd3-9l-GZOphKJ8D64",
+      "firstName": "Tanmoy",
+      "lastName": "Hasan Shapath",
+      "position": "AI Content Developer | Animation & Content Creation Expert (Flipaclip) | AI enthusiastic | Physics Student |",
+      "publicIdentifier": "tanmoy-hasan-shapath-3291a2313",
+      "linkedinUrl": "https://www.linkedin.com/in/tanmoy-hasan-shapath-3291a2313"
+    },
+    {
+      "id": "ACoAAEYrFbMBVWE85n5gLbvI5D9yq7MiBRL5q0A",
+      "firstName": "Sayemur",
+      "lastName": "Rahman",
+      "position": "Data Analyst | Advance Excel | Power BI | SPSS • Tableau • STATA • R Visualization • Python (NumPy, Pandas, Matplotlib) • MySQL • PostgreSQL •Machine Learning",
+      "publicIdentifier": "sayemurrahman",
+      "linkedinUrl": "https://www.linkedin.com/in/sayemurrahman"
+    },
+    {
+      "id": "ACoAAFVNLuUB2Cz8zG_DK6Oi2JxaVGZkSK0azfM",
+      "firstName": "G.H.Mohiuddin",
+      "lastName": "Ahmad Munna",
+      "position": "Anthropology Postgraduate Student || Web Designer || Research Assistant || WordPress Developer || CMS Expert || Elementor Expert",
+      "publicIdentifier": "anthrowebs-mohiuddinmunna",
+      "linkedinUrl": "https://www.linkedin.com/in/anthrowebs-mohiuddinmunna"
+    },
+    {
+      "id": "ACoAAGUfo9UBH_jNI-enCNscdrVGOwZrumz3t-A",
+      "firstName": "Safayet",
+      "lastName": "Ullah",
+      "position": "SUST IPE | Leadership & Management with AI | BYLC Graduate | Production,Supply Chain & Quality Control Enthusiast |Inventory Optimization | Process Improvement",
+      "publicIdentifier": "safayet-ullah-8712183b4",
+      "linkedinUrl": "https://www.linkedin.com/in/safayet-ullah-8712183b4"
+    },
+    {
+      "id": "ACoAAE9qP40BUp-ILIDz1RbcnaxMlfOj7N0PvL4",
+      "firstName": "Tahmida",
+      "lastName": "Fathema Chowdhury Nivita",
+      "position": "Marketing Major Undergrad Student at SUST | Content Creator and Influencer | Public Speaker | Co-founder at Capital Mitra",
+      "publicIdentifier": "tahmida-fathema-chowdhury-nivita",
+      "linkedinUrl": "https://www.linkedin.com/in/tahmida-fathema-chowdhury-nivita"
+    },
+    {
+      "id": "ACoAAF630nwBR1FxJqKkrk9Og9PSpo7N3FpZ30M",
+      "firstName": "Abu",
+      "lastName": "Kawsar Md Golam Sarwar",
+      "position": "Competitive Programmer | ICPC World Finalist’25 |  Machine Learning Engineer",
+      "publicIdentifier": "sarwar82",
+      "linkedinUrl": "https://www.linkedin.com/in/sarwar82"
+    },
+    {
+      "id": "ACoAAF9zua0BxyBpLu2LQvEPnjY5b7JhE-hcnOk",
+      "firstName": "Rabeya",
+      "lastName": "Mony",
+      "position": "BSN (SUST) Registered Nurse (BNMC)",
+      "publicIdentifier": "rabeya-mony-61138b388",
+      "linkedinUrl": "https://www.linkedin.com/in/rabeya-mony-61138b388"
+    },
+    {
+      "id": "ACoAAF23bzcBvuvY0MswGwQi5l9IjXzZSiSmS9Q",
+      "firstName": "Mohsin",
+      "lastName": "Ibn Aftab",
+      "position": "Full Stack Developer | Django | FastAPI | React | Python | JavaScript | PostgreSQL | Problem Solving",
+      "publicIdentifier": "mohsinibnaftab",
+      "linkedinUrl": "https://www.linkedin.com/in/mohsinibnaftab"
+    }
+  ],
+  "interests": [
+    {
+      "interestName": "Companies",
+      "elements": [
+        {
+          "title": "Oracle",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1028/",
+          "caption": "11,424,172 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1784160000&v=beta&t=Pl8NTUlyHPaa6eB4Z92u60BdQR4YLonkXsSEJSRtj_0"
+          }
+        },
+        {
+          "title": "EPAM Systems",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/4972/",
+          "caption": "2,916,625 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGd7yeYsBtfzw/company-logo_400_400/B4DZuc0QBQH4AY-/0/1767862501956/epam_systems_logo?e=1784160000&v=beta&t=m3O7kgYgDJqKpsx-uKaaXK22qyQNf1wFo7YImep2KhI"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Groups",
+      "elements": [
+        {
+          "title": "ICPC - The International Collegiate Programming Contest",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/1872736",
+          "caption": "36,301 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E07AQEBowwMFbj3EA/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1631007862836?e=1783242000&v=beta&t=kv1LRDXq7Wlsu0S1vSeUdrjhjXIcG5CiCXCcd032oak"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Schools",
+      "elements": [
+        {
+          "title": "Birshreshtha Noor Mohammad Public College BNMPC",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/19210306/",
+          "caption": "6,333 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFSTpYHHWtQcQ/company-logo_400_400/company-logo_400_400/0/1630629338411?e=1784160000&v=beta&t=HHLgAKVwoP5QI-9x2Z0_RnlSKiWRQ7NdOsQFuuUy5a8"
+          }
+        },
+        {
+          "title": "Shahjalal University of Science and Technology",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/578193/",
+          "caption": "25,356 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEYZ1NWMjF37w/company-logo_400_400/company-logo_400_400/0/1631303139775?e=1784160000&v=beta&t=9vnh86Us9F2wWdqC-RSEso2hCvT6mELkBMnbKcWqoZI"
+          }
+        }
+      ]
+    }
+  ],
+  "originalQuery": {
+    "url": "https://www.linkedin.com/in/fakhrulsojib/"
+  }
+}]

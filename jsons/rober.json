@@ -1,0 +1,864 @@
+[{
+  "id": "ACoAAA0XlZIB4Ky-BT08w_GXnFsklyDmNpe2gik",
+  "publicIdentifier": "robert-stanforth-b2a68761",
+  "linkedinUrl": "https://www.linkedin.com/in/robert-stanforth-b2a68761",
+  "firstName": "Robert",
+  "lastName": "Stanforth",
+  "emails": [],
+  "headline": "AI Research Engineer",
+  "openToWork": false,
+  "hiring": false,
+  "premium": false,
+  "influencer": false,
+  "memorialized": false,
+  "creator": false,
+  "location": {
+    "linkedinText": "London, England, United Kingdom",
+    "countryCode": "GB",
+    "parsed": {
+      "text": "London, United Kingdom",
+      "countryCode": "GB",
+      "regionCode": null,
+      "country": "UK",
+      "countryFull": "United Kingdom",
+      "state": "England",
+      "city": "London"
+    }
+  },
+  "objectUrn": "219649426",
+  "registeredAt": "2012-12-06T18:44:14.086Z",
+  "topSkills": [],
+  "connectionsCount": 192,
+  "followerCount": 191,
+  "verified": true,
+  "about": "Talented software developer and mathematician, thriving on complex abstract technical problems.\n\n20 years’ experience in software development: principally Java; also C++ and Python.\n\nPhD in Machine Learning and Data Mining.\n\nTrack record of implementing dramatic performance enhancements, ranging from ten-fold to thousand-fold improvement.\n\nExperienced line manager and development team leader.\n\nAdept at technical presentation, with a flair for making complex topics accessible, for example:\n•\tLexical/Syntactical analysis\n•\tObject-oriented programming without classes\n•\tSolving “Countdown” Numbers Games using dynamic programming\n•\tThe Japanese language\n\nProject Euler development team member; previously UK’s top competitor.\n\nCreated a compiler for a Java-like language, incorporating polymorphism, local variable capture, genericity, and type covariance.\n\nCreated a 3D graphics engine for rendering non-convex symmetric polyhedra.",
+  "currentPosition": [
+    {
+      "position": "Research Engineer",
+      "location": "London Area, United Kingdom",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "DeepMind",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/googledeepmind/",
+      "companyId": "1594050",
+      "duration": "9 yrs 2 mos",
+      "description": null,
+      "skills": null,
+      "startDate": {
+        "month": "May",
+        "year": 2017,
+        "text": "May 2017"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_400_400/company-logo_400_400/0/1692960425188/googledeepmind_logo?e=1784160000&v=beta&t=x7wZkcrnWOjHw901oxR2DLN5rLNyHF_dIlS54mhJED4",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_400_400/company-logo_400_400/0/1692960425188/googledeepmind_logo?e=1784160000&v=beta&t=x7wZkcrnWOjHw901oxR2DLN5rLNyHF_dIlS54mhJED4",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1784160000&v=beta&t=SPjPfRXKFA6HSGmcb361jin2KVEIHn2KEkwFP6dfuK4",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_100_100/company-logo_100_100/0/1692960425188/googledeepmind_logo?e=1784160000&v=beta&t=A8U4jZOTilq0GSDRKwcd0i9FZVMNM4ZAYwJP4GixcGU",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "googledeepmind"
+    }
+  ],
+  "profileTopEducation": [
+    {
+      "schoolName": "University of Cambridge",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/4522/",
+      "schoolId": "4522",
+      "degree": "B.A. Hons",
+      "fieldOfStudy": "Mathematics",
+      "period": "1994 - 1997",
+      "startDate": {
+        "year": 1994,
+        "text": "1994"
+      },
+      "endDate": {
+        "year": 1997,
+        "text": "1997"
+      },
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_400_400/B4EZXIJKuOHgAY-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=iYW4iabnnq1ihZkcehLcfnUfKe3e3t_ZgkGX1I5Ffrc",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_400_400/B4EZXIJKuOHgAY-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=iYW4iabnnq1ihZkcehLcfnUfKe3e3t_ZgkGX1I5Ffrc",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_200_200/B4EZXIJKuOHgAI-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=nxgpmwpe4ijtfr6voioxYmRI3np9SJaqXp9xJGlxPTw",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_100_100/B4EZXIJKuOHgAQ-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=2PM__zhT6YhCkNA5vhemxF-EjLf-up4fBQIniSmGBzc",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "profileActions": [],
+  "profilePicture": {
+    "url": "https://media.licdn.com/dms/image/v2/C5603AQEqQfhfvsfDKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517578893811?e=1784160000&v=beta&t=QelIwLW_KvPmw7BX_bGoZnWhea79i17Wq1wbyRCZyJY",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEqQfhfvsfDKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517578893811?e=1784160000&v=beta&t=QelIwLW_KvPmw7BX_bGoZnWhea79i17Wq1wbyRCZyJY",
+        "width": 220,
+        "height": 220
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEqQfhfvsfDKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517578893809?e=1784160000&v=beta&t=NMgnJkWWLZz8iBq3wW3p-llb_cjtKDJ-YDnC10t5Vcw",
+        "width": 220,
+        "height": 220
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEqQfhfvsfDKw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517578893822?e=1784160000&v=beta&t=S81eujE1KN2sVIqOyhUzaGcohVs8UVJX1tNOg_28N_0",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/C5603AQEqQfhfvsfDKw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517578893808?e=1784160000&v=beta&t=ere1fiHg-aDy2nj-y7Gdrn0Tb0M3sxJrMR8U01K-msI",
+        "width": 100,
+        "height": 100
+      }
+    ]
+  },
+  "coverPicture": null,
+  "photo": "https://media.licdn.com/dms/image/v2/C5603AQEqQfhfvsfDKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517578893811?e=1784160000&v=beta&t=QelIwLW_KvPmw7BX_bGoZnWhea79i17Wq1wbyRCZyJY",
+  "profileLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "primaryLocale": {
+    "country": "US",
+    "language": "en"
+  },
+  "multiLocaleHeadline": [
+    {
+      "headline": "AI Research Engineer",
+      "locale": "en_US"
+    }
+  ],
+  "services": null,
+  "experience": [
+    {
+      "position": "Research Engineer",
+      "location": "London Area, United Kingdom",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "DeepMind",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/googledeepmind/",
+      "companyId": "1594050",
+      "duration": "9 yrs 2 mos",
+      "description": null,
+      "skills": null,
+      "startDate": {
+        "month": "May",
+        "year": 2017,
+        "text": "May 2017"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_400_400/company-logo_400_400/0/1692960425188/googledeepmind_logo?e=1784160000&v=beta&t=x7wZkcrnWOjHw901oxR2DLN5rLNyHF_dIlS54mhJED4",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_400_400/company-logo_400_400/0/1692960425188/googledeepmind_logo?e=1784160000&v=beta&t=x7wZkcrnWOjHw901oxR2DLN5rLNyHF_dIlS54mhJED4",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1784160000&v=beta&t=SPjPfRXKFA6HSGmcb361jin2KVEIHn2KEkwFP6dfuK4",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_100_100/company-logo_100_100/0/1692960425188/googledeepmind_logo?e=1784160000&v=beta&t=A8U4jZOTilq0GSDRKwcd0i9FZVMNM4ZAYwJP4GixcGU",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "googledeepmind"
+    },
+    {
+      "position": "Principal Technologist & Lead Developer",
+      "location": "Guildford",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "IDBS",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/idbs/",
+      "companyId": "11969",
+      "duration": "9 yrs 11 mos",
+      "description": "Java development team leader for a market-leading scientific data management application in the pharmaceutical/biotechnology sector.\n\n•\tLine manager and team leader with responsibility for six developers\n•\tSearch architecture, including ETL processes for updating ontology-driven search indices\n•\tGrowing unit test coverage in legacy areas of code, as a pragmatic means of acquiring knowledge about those areas and improving their quality\n•\tThe “go to” developer on internationalisation, including thorny problems in time zones and text encodings\n•\tDetailed knowledge of advanced language features, in particular generics in Java and C#\n\n",
+      "skills": null,
+      "experienceGroupId": "52f259435e8c0aed46ceb44e63a16c1562630c75",
+      "startDate": {
+        "month": "Jun",
+        "year": 2007,
+        "text": "Jun 2007"
+      },
+      "endDate": {
+        "month": "Apr",
+        "year": 2017,
+        "text": "Apr 2017"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_400_400/company-logo_400_400/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=CaBsgqetcZcCrLpXyF8sJqX3ukqT-X4L6yM26ipjRss",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_400_400/company-logo_400_400/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=CaBsgqetcZcCrLpXyF8sJqX3ukqT-X4L6yM26ipjRss",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_200_200/company-logo_200_200/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=ctMcf0wShlVAHC3s1csfibr0v04AOJcqFVlcHkaQVGg",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_100_100/company-logo_100_100/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=wuKqlEaDaiSKF8KVm9HXl79LsMu2aOdsmLXA6GU50Nc",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "idbs"
+    },
+    {
+      "position": "Senior Developer & Mathematician",
+      "location": "Greater Guildford Area, United Kingdom",
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "IDBS",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/idbs/",
+      "companyId": "11969",
+      "duration": "2 yrs 8 mos",
+      "description": "Researched and implemented data mining and machine learning methods for Quantitative Structure Activity Relationships (QSARs):\n•\tMultivariate Linear Regression\n•\tPrincipal Components Analysis\n•\tPartial Least Squares\n•\tK-Means Clustering\n•\tSupport Vector Machines\n•\tRandom Decision Forests\n\nThe research-based nature of this role led to several publications and conference attendances, a patent, and ultimately to a PhD.",
+      "skills": null,
+      "experienceGroupId": "52f259435e8c0aed46ceb44e63a16c1562630c75",
+      "startDate": {
+        "month": "Oct",
+        "year": 2004,
+        "text": "Oct 2004"
+      },
+      "endDate": {
+        "month": "May",
+        "year": 2007,
+        "text": "May 2007"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_400_400/company-logo_400_400/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=CaBsgqetcZcCrLpXyF8sJqX3ukqT-X4L6yM26ipjRss",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_400_400/company-logo_400_400/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=CaBsgqetcZcCrLpXyF8sJqX3ukqT-X4L6yM26ipjRss",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_200_200/company-logo_200_200/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=ctMcf0wShlVAHC3s1csfibr0v04AOJcqFVlcHkaQVGg",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_100_100/company-logo_100_100/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=wuKqlEaDaiSKF8KVm9HXl79LsMu2aOdsmLXA6GU50Nc",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "idbs"
+    },
+    {
+      "position": "Senior Analyst Programmer",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Tessella",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/tessella/",
+      "companyId": "24994",
+      "duration": "5 yrs",
+      "description": null,
+      "skills": null,
+      "startDate": {
+        "month": "Oct",
+        "year": 1999,
+        "text": "Oct 1999"
+      },
+      "endDate": {
+        "month": "Sep",
+        "year": 2004,
+        "text": "Sep 2004"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdJIUEBMy1Jw/company-logo_400_400/company-logo_400_400/0/1630648421581/tessella_logo?e=1784160000&v=beta&t=KHr5Yh1wSFe5F0MWiJLkw-4km6rMMsQsaWBiCNuv-dU",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdJIUEBMy1Jw/company-logo_400_400/company-logo_400_400/0/1630648421581/tessella_logo?e=1784160000&v=beta&t=KHr5Yh1wSFe5F0MWiJLkw-4km6rMMsQsaWBiCNuv-dU",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdJIUEBMy1Jw/company-logo_200_200/company-logo_200_200/0/1630648421581/tessella_logo?e=1784160000&v=beta&t=fWkoszFKgHszYDKIeFzlBVNEi7IF81FW6OWbllirxeo",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFdJIUEBMy1Jw/company-logo_100_100/company-logo_100_100/0/1630648421581/tessella_logo?e=1784160000&v=beta&t=Y74PAbeqUMDcdES2kAzo-VT2tH9o3KDsVlnzYWqWiMw",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "tessella"
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "University of Cambridge",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/4522/",
+      "schoolId": "4522",
+      "degree": "B.A. Hons",
+      "fieldOfStudy": "Mathematics",
+      "skills": [],
+      "insights": "Grade: 1st class\nActivities and societies: Rowing (cox)",
+      "startDate": {
+        "year": 1994,
+        "text": "1994"
+      },
+      "endDate": {
+        "year": 1997,
+        "text": "1997"
+      },
+      "period": "1994 - 1997",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_400_400/B4EZXIJKuOHgAY-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=iYW4iabnnq1ihZkcehLcfnUfKe3e3t_ZgkGX1I5Ffrc",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_400_400/B4EZXIJKuOHgAY-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=iYW4iabnnq1ihZkcehLcfnUfKe3e3t_ZgkGX1I5Ffrc",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_200_200/B4EZXIJKuOHgAI-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=nxgpmwpe4ijtfr6voioxYmRI3np9SJaqXp9xJGlxPTw",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_100_100/B4EZXIJKuOHgAQ-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=2PM__zhT6YhCkNA5vhemxF-EjLf-up4fBQIniSmGBzc",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "University of Cambridge",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/4522/",
+      "schoolId": "4522",
+      "degree": "M. Math.",
+      "fieldOfStudy": "Mathematics",
+      "skills": [],
+      "insights": "Activities and societies: Rowing (cox)",
+      "startDate": {
+        "year": 1997,
+        "text": "1997"
+      },
+      "endDate": {
+        "year": 1998,
+        "text": "1998"
+      },
+      "period": "1997 - 1998",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_400_400/B4EZXIJKuOHgAY-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=iYW4iabnnq1ihZkcehLcfnUfKe3e3t_ZgkGX1I5Ffrc",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_400_400/B4EZXIJKuOHgAY-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=iYW4iabnnq1ihZkcehLcfnUfKe3e3t_ZgkGX1I5Ffrc",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_200_200/B4EZXIJKuOHgAI-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=nxgpmwpe4ijtfr6voioxYmRI3np9SJaqXp9xJGlxPTw",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_100_100/B4EZXIJKuOHgAQ-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=2PM__zhT6YhCkNA5vhemxF-EjLf-up4fBQIniSmGBzc",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "University of Cambridge",
+      "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=University+of+Cambridge",
+      "schoolId": null,
+      "degree": "Dip.Comp.Sci.",
+      "fieldOfStudy": "Computer Science",
+      "skills": [],
+      "insights": "Grade: Distinction (1st place)\nActivities and societies: Rowing (cox)",
+      "startDate": {
+        "year": 1998,
+        "text": "1998"
+      },
+      "endDate": {
+        "year": 1999,
+        "text": "1999"
+      },
+      "period": "1998 - 1999",
+      "schoolLogo": null
+    },
+    {
+      "schoolName": "Birkbeck, University of London",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/29719/",
+      "schoolId": "29719",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "fieldOfStudy": "Computer Science",
+      "skills": [],
+      "description": "Thesis: \"Extending K-Means clustering for analysis of quantitative structure activity relationships (QSAR)\"\nSupervisor: Boris Mirkin",
+      "startDate": {
+        "year": 2005,
+        "text": "2005"
+      },
+      "endDate": {
+        "year": 2008,
+        "text": "2008"
+      },
+      "period": "2005 - 2008",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQGaJOJAlGOfLg/company-logo_400_400/company-logo_400_400/0/1630568172190/birkbeck_university_of_london_logo?e=1784160000&v=beta&t=uJnoswU_5llui8j-W9FfweoC69BjTJXzYnYVrJ40-y8",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGaJOJAlGOfLg/company-logo_400_400/company-logo_400_400/0/1630568172190/birkbeck_university_of_london_logo?e=1784160000&v=beta&t=uJnoswU_5llui8j-W9FfweoC69BjTJXzYnYVrJ40-y8",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGaJOJAlGOfLg/company-logo_200_200/company-logo_200_200/0/1630568172190/birkbeck_university_of_london_logo?e=1784160000&v=beta&t=BHUapB-RV89ZtK5ZlvgVooIM8o_CxIcLEi1R5QPpkHQ",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGaJOJAlGOfLg/company-logo_100_100/company-logo_100_100/0/1630568172190/birkbeck_university_of_london_logo?e=1784160000&v=beta&t=hcc2hUhzX1TDbR0wPN4qum0TOVVC-D6Je3CfmqddFr0",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "volunteering": [
+    {
+      "role": "Governor (vice-chair)",
+      "organizationName": "Ewhurst Infant School",
+      "duration": "Jul 2009 - Jan 2018 · 8 yrs 7 mos",
+      "startDate": {
+        "month": "Jul",
+        "year": 2009,
+        "text": "Jul 2009"
+      },
+      "endDate": {
+        "month": "Jan",
+        "year": 2018,
+        "text": "Jan 2018"
+      }
+    },
+    {
+      "role": "Maths Tutor",
+      "organizationName": "Volunteer",
+      "duration": "Mar 2015 - May 2017 · 2 yrs 3 mos",
+      "startDate": {
+        "month": "Mar",
+        "year": 2015,
+        "text": "Mar 2015"
+      },
+      "endDate": {
+        "month": "May",
+        "year": 2017,
+        "text": "May 2017"
+      }
+    }
+  ],
+  "receivedRecommendations": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "positions": [
+        "Endorsed by 8 colleagues at IDBS"
+      ],
+      "endorsements": "11 endorsements"
+    },
+    {
+      "name": "Mathematics",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Machine Learning",
+      "assessments": "Passed LinkedIn Skill Assessment"
+    },
+    {
+      "name": "Data Mining"
+    },
+    {
+      "name": "Object Oriented Design",
+      "endorsements": "4 endorsements"
+    },
+    {
+      "name": "Test Driven Development",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Agile Methodologies",
+      "endorsements": "5 endorsements"
+    },
+    {
+      "name": "Software Project Management",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Software Engineering",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Software Design",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Mathematical Modeling"
+    },
+    {
+      "name": "Statistical Data Analysis"
+    },
+    {
+      "name": "Abstract Algebra"
+    },
+    {
+      "name": "Compiler Construction"
+    },
+    {
+      "name": "Data Structures"
+    },
+    {
+      "name": "Java",
+      "assessments": "Passed LinkedIn Skill Assessment",
+      "endorsements": "6 endorsements"
+    },
+    {
+      "name": "C#",
+      "endorsements": "5 endorsements"
+    },
+    {
+      "name": "JUnit",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "XML",
+      "endorsements": "9 endorsements"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Scala"
+    },
+    {
+      "name": "Eclipse",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "SQL",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Python (Programming Language)",
+      "assessments": "Passed LinkedIn Skill Assessment"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Variance in Generic Types in Java and C#",
+      "publishedAt": "ACCU conference · Apr 28, 2012",
+      "description": "90 minute presentation delivered at ACCU2012",
+      "link": "http://accu.org/content/conf2012/TypeVariance.pdf"
+    },
+    {
+      "title": "Hybrid K-Means: Combining regression-wise and centroid-based criteria for QSAR",
+      "publishedAt": "P. Brito, P. Bertrand, G. Cucumel, F. de Carvalho (Eds.) Selected Contributions in Data Analysis and Classification, Springer, 225-233 · Jan 1, 2007",
+      "description": null,
+      "link": "http://www.dcs.bbk.ac.uk/~mirkin/papers/RWS.pdf"
+    }
+  ],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Native or bilingual proficiency"
+    },
+    {
+      "name": "French",
+      "proficiency": "Elementary proficiency"
+    },
+    {
+      "name": "Swedish",
+      "proficiency": "Limited working proficiency"
+    }
+  ],
+  "organizations": [],
+  "causes": [
+    "Education",
+    "Science and Technology"
+  ],
+  "featured": null,
+  "composeOptionType": "UPSELL",
+  "moreProfiles": [
+    {
+      "id": "ACoAACI-_zcBi0_mlcaASV5q6ziFhPq5ILS5baY",
+      "firstName": "Tom",
+      "lastName": "Andersson",
+      "position": "Senior Research Engineer at Google DeepMind in NYC",
+      "publicIdentifier": "tom-andersson",
+      "linkedinUrl": "https://www.linkedin.com/in/tom-andersson"
+    },
+    {
+      "id": "ACoAAABMWYMBbjQ17enwnERWezyRouIIpngGPE4",
+      "firstName": "Steve",
+      "lastName": "Thompson",
+      "position": "Foundational IT hire at DeepMind and Shazam. Built both IT functions from scratch through periods of rapid growth. Available for senior IT leadership roles and interim engagements with organisations at a similar stage.",
+      "publicIdentifier": "stetho",
+      "linkedinUrl": "https://www.linkedin.com/in/stetho"
+    },
+    {
+      "id": "ACoAAAW8-4UBaiRgiPZiQE1j58Py8lrro2tSYo8",
+      "firstName": "Mahyar",
+      "lastName": "Bordbar",
+      "position": "Senior Program Manager at Google DeepMind",
+      "publicIdentifier": "mbordbar",
+      "linkedinUrl": "https://www.linkedin.com/in/mbordbar"
+    },
+    {
+      "id": "ACoAAAFKUQwBWnPeHDQoWtF6yYTxDJGBeu8oKoY",
+      "firstName": "Conor",
+      "lastName": "Griffin",
+      "position": "AI Policy Research at DeepMind",
+      "publicIdentifier": "conor-griffin-6902bb7",
+      "linkedinUrl": "https://www.linkedin.com/in/conor-griffin-6902bb7"
+    },
+    {
+      "id": "ACoAAANHUM4Ba-7gLW9R4il3U9t3O_2BkbkSDvU",
+      "firstName": "Andrej",
+      "lastName": "Karpathy",
+      "position": "(Former) Director of AI at Tesla, OpenAI, PhD @ Stanford.\nI don't use or check my LinkedIn, I only have an account for searching/hiring. \nPlease use my X/email to contact.",
+      "publicIdentifier": "andrej-karpathy-9a650716",
+      "linkedinUrl": "https://www.linkedin.com/in/andrej-karpathy-9a650716"
+    },
+    {
+      "id": "ACoAAAqFVFsBXsPU3_3qa7Uc_sidDjML8phL6-c",
+      "firstName": "Donna",
+      "lastName": "Osterman",
+      "position": "Scientist I at Waters Corporation",
+      "publicIdentifier": "donna-osterman-0231434b",
+      "linkedinUrl": "https://www.linkedin.com/in/donna-osterman-0231434b"
+    },
+    {
+      "id": "ACoAAAL4N2YBS5PJYNVb9YOcAUyotN-dcN7_-mY",
+      "firstName": "Doreen",
+      "lastName": "S.",
+      "position": "Vice President, SSI Products. LLC",
+      "publicIdentifier": "doreen-s-ab282714",
+      "linkedinUrl": "https://www.linkedin.com/in/doreen-s-ab282714"
+    },
+    {
+      "id": "ACoAACGDmhMB39xR5lsJ2v6hUznY-g5wNzrC-e0",
+      "firstName": "Johannes",
+      "lastName": "Welbl",
+      "position": "Student at UCL",
+      "publicIdentifier": "johannes-welbl-417379138",
+      "linkedinUrl": "https://www.linkedin.com/in/johannes-welbl-417379138"
+    },
+    {
+      "id": "ACoAAAblCQsB9cMyyr2uFxE7LDADVE_xewGA13U",
+      "firstName": "Goretti",
+      "lastName": "Correa",
+      "position": "Language facilitator",
+      "publicIdentifier": "goretti-correa-7238a432",
+      "linkedinUrl": "https://www.linkedin.com/in/goretti-correa-7238a432"
+    },
+    {
+      "id": "ACoAAAGw5C8BnIvy_IbQS3eK8Kr5dTcjD6u6r2E",
+      "firstName": "Jerry",
+      "lastName": "Davis",
+      "position": "Senior Nuclear Training Instructor & Instructional Designer | INPO-Certified | ADDIE | SAT | LMS Administration | 25+ Years | Remote",
+      "publicIdentifier": "jerrydavis76",
+      "linkedinUrl": "https://www.linkedin.com/in/jerrydavis76"
+    },
+    {
+      "id": "ACoAAGbkDcQBvoYRfMBWW_87T29Grk7OK5586yI",
+      "firstName": "Siddhika",
+      "lastName": "Kurele",
+      "position": "Bsc Business Management at King’s College London ",
+      "publicIdentifier": "siddhika-kurele-b18136402",
+      "linkedinUrl": "https://www.linkedin.com/in/siddhika-kurele-b18136402"
+    },
+    {
+      "id": "ACoAAGYJiCQBszRQDRRRIdJa1SGhd2GpmCmyjOU",
+      "firstName": "kwynsi",
+      "lastName": "munson",
+      "position": "-Founder & CEO at KwynTech | Full-Stack Al Infrastructure | Built-In Governance, Self-Healing, and Real-Time Collaboration",
+      "publicIdentifier": "kwynsi-munson-34438b3b9",
+      "linkedinUrl": "https://www.linkedin.com/in/kwynsi-munson-34438b3b9"
+    },
+    {
+      "id": "ACoAAGewa_cBtwbFML86CcljFp7FR8TKFxB_VHE",
+      "firstName": "Kristjan",
+      "lastName": "Kalm",
+      "position": "Head of Data Science at Artefact, London, UK",
+      "publicIdentifier": "kristjan-kalm-933715406",
+      "linkedinUrl": "https://www.linkedin.com/in/kristjan-kalm-933715406"
+    },
+    {
+      "id": "ACoAAGkPqccBQkl2Gs4GBqFeXZWLFajEKUP15KE",
+      "firstName": "Youssef",
+      "lastName": "Osama",
+      "position": "Sales Specialist | Saudi Speaker🇸🇦 | Professional Saudi Voice Over",
+      "publicIdentifier": "youssef-osama-b1b376412",
+      "linkedinUrl": "https://www.linkedin.com/in/youssef-osama-b1b376412"
+    },
+    {
+      "id": "ACoAAGW4AYUBkWhfDI5ILZrlbcEpq9dX2WpdyKE",
+      "firstName": "Arcchana",
+      "lastName": "Kulkarni",
+      "position": "Managing Director, Human Resources | Account Management | Recruitment | Talent Planning | Employee Onboarding | Diversity & Inclusion | ✉ careers@appnovant.com",
+      "publicIdentifier": "arcchanakulkarni",
+      "linkedinUrl": "https://www.linkedin.com/in/arcchanakulkarni"
+    },
+    {
+      "id": "ACoAAGfWFzIBnzgWuK-NOjw9P1iSRekiJ8ny_Sg",
+      "firstName": "Nova",
+      "lastName": "Consulting Group",
+      "position": "Chief Executive Officer at NCG UAE",
+      "publicIdentifier": "nova-consulting-group-496506407",
+      "linkedinUrl": "https://www.linkedin.com/in/nova-consulting-group-496506407"
+    },
+    {
+      "id": "ACoAAGb32OMB6bIbqWfV2uHc78r0pSoBoRFsPGA",
+      "firstName": "Ahmad",
+      "lastName": "Salahuddin",
+      "position": "Human Resources Director @ Mission Consultant Engineering Co. | HR Projects Management, Planning",
+      "publicIdentifier": "ahmad-salahuddin-743661402",
+      "linkedinUrl": "https://www.linkedin.com/in/ahmad-salahuddin-743661402"
+    },
+    {
+      "id": "ACoAAGX3srYB7X2YyKPg8HY7B9CpS2ivZzxL8AQ",
+      "firstName": "Joaquin",
+      "lastName": "Iribas",
+      "position": "Estudiante en ORT Argentina",
+      "publicIdentifier": "joaquin-iribas-b06b063b8",
+      "linkedinUrl": "https://www.linkedin.com/in/joaquin-iribas-b06b063b8"
+    },
+    {
+      "id": "ACoAAGg1CZkBIf3aAl_rCciApoqJxT1uSX4FvVE",
+      "firstName": "Sarah",
+      "lastName": "Safaa",
+      "position": "C-Suite English Mentor",
+      "publicIdentifier": "sarah-safaa-421607409",
+      "linkedinUrl": "https://www.linkedin.com/in/sarah-safaa-421607409"
+    },
+    {
+      "id": "ACoAAGf58gYBebJjtrx806n-LoyBWOHdMRD3j-4",
+      "firstName": "Rodney",
+      "lastName": "Ramsden",
+      "position": "Lawyer & Notary | Offshore Trusts | Corporate | Oil & Gas | Digital Assets | FinTech | Cambridge Univ Visiting Scholar | Admitted UK, Ontario, Ireland, N. Ireland, Guyana, BVI, Barbados, St. Vincent, Grenada, Trinidad",
+      "publicIdentifier": "rodney-ramsden-28625a408",
+      "linkedinUrl": "https://www.linkedin.com/in/rodney-ramsden-28625a408"
+    }
+  ],
+  "interests": [
+    {
+      "interestName": "Companies",
+      "elements": [
+        {
+          "title": "University of Cambridge",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/4522/",
+          "caption": "1,339,285 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_400_400/B4EZXIJKuOHgAY-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=iYW4iabnnq1ihZkcehLcfnUfKe3e3t_ZgkGX1I5Ffrc"
+          }
+        },
+        {
+          "title": "IDBS",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/11969/",
+          "caption": "15,464 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_400_400/company-logo_400_400/0/1656935972749/idbs_logo?e=1784160000&v=beta&t=CaBsgqetcZcCrLpXyF8sJqX3ukqT-X4L6yM26ipjRss"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Groups",
+      "elements": [
+        {
+          "title": "Emmanuel Boat Club",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/8427185",
+          "caption": "22 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C5607AQEBDGEPeav4hw/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1631440456832?e=1783242000&v=beta&t=BJp_F2k7Nze5KG4gbuKdUxekC56LgAYvkiQXhll5kkc"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Schools",
+      "elements": [
+        {
+          "title": "Birkbeck, University of London",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/29719/",
+          "caption": "95,426 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGaJOJAlGOfLg/company-logo_400_400/company-logo_400_400/0/1630568172190/birkbeck_university_of_london_logo?e=1784160000&v=beta&t=uJnoswU_5llui8j-W9FfweoC69BjTJXzYnYVrJ40-y8"
+          }
+        },
+        {
+          "title": "University of Cambridge",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/4522/",
+          "caption": "1,339,285 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHnnnIo0U9EsA/company-logo_400_400/B4EZXIJKuOHgAY-/0/1742819601734/university_of_cambridge_logo?e=1784160000&v=beta&t=iYW4iabnnq1ihZkcehLcfnUfKe3e3t_ZgkGX1I5Ffrc"
+          }
+        }
+      ]
+    }
+  ],
+  "originalQuery": {
+    "url": "https://www.linkedin.com/in/robert-stanforth-b2a68761/"
+  }
+}]

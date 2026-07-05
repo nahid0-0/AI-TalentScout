@@ -1,0 +1,1904 @@
+[{
+  "id": "ACoAAAGXfeABZZsHYLPYGlkS7eoFikrNAYkiEHg",
+  "publicIdentifier": "addyosmani",
+  "linkedinUrl": "https://www.linkedin.com/in/addyosmani",
+  "firstName": "Addy",
+  "lastName": "Osmani",
+  "emails": [],
+  "headline": "AI Engineering & DevRel Leader, Recently: Director, Google Cloud AI. Best-selling Author. Speaker. AI, DX, UX. I want to see you win.",
+  "websites": [
+    "https://addyosmani.com"
+  ],
+  "openToWork": false,
+  "hiring": false,
+  "premium": true,
+  "influencer": false,
+  "memorialized": false,
+  "creator": true,
+  "location": {
+    "linkedinText": "San Francisco Bay Area",
+    "countryCode": "US",
+    "parsed": {
+      "text": "San Francisco, CA, United States",
+      "countryCode": "US",
+      "regionCode": null,
+      "country": "United States",
+      "countryFull": "United States of America",
+      "state": "California",
+      "city": "San Francisco"
+    }
+  },
+  "objectUrn": "26705376",
+  "registeredAt": "2008-06-24T06:38:47.000Z",
+  "topSkills": [
+    "Leadership",
+    "Strategic Planning",
+    "Management",
+    "Communication",
+    "Productivity Improvement"
+  ],
+  "connectionsCount": 7168,
+  "followerCount": 281468,
+  "verified": true,
+  "about": "Addy Osmani is an Irish Software Engineer and leader who was most recently a director at Google Cloud AI, focused on helping developers and businesses succeed with Gemini, Agent Platform, and the Agent Development Kit (ADK). After nearly 14 years at Google leading developer experiences in Chrome, he bridged Google DeepMind, engineering, product, and developer relations teams. A developer for 25+ years, he is passionate about AI-assisted engineering and developer tools. Follow for motivation, productivity and engineering.",
+  "currentPosition": [
+    {
+      "position": "Author",
+      "location": null,
+      "employmentType": "Seasonal",
+      "workplaceType": null,
+      "companyName": "O'Reilly",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/oreilly/",
+      "companyId": "8459",
+      "duration": "16 yrs 2 mos",
+      "description": "Author of multiple #1 best-sellers including “Leading Effective Engineering Teams” and “JavaScript Design Patterns”",
+      "skills": null,
+      "startDate": {
+        "month": "May",
+        "year": 2010,
+        "text": "May 2010"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGyP8jTBHmlYg/company-logo_400_400/B4EZ6OKJvQJgAU-/0/1780501486889/oreilly_logo?e=1784160000&v=beta&t=TuECxfqhqG4vEMq1SCcCDn2676Evpq_wh1x3a25x3l0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGyP8jTBHmlYg/company-logo_400_400/B4EZ6OKJvQJgAU-/0/1780501486889/oreilly_logo?e=1784160000&v=beta&t=TuECxfqhqG4vEMq1SCcCDn2676Evpq_wh1x3a25x3l0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGyP8jTBHmlYg/company-logo_200_200/B4EZ6OKJvQJgAE-/0/1780501486889/oreilly_logo?e=1784160000&v=beta&t=h_G5G7DMmB4GKXikr34uD_u1AkfXkFApOWtyICI5KaU",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGyP8jTBHmlYg/company-logo_100_100/B4EZ6OKJvQJgAI-/0/1780501486889/oreilly_logo?e=1784160000&v=beta&t=n0a9l89Qa8qgce7XKWKMBejPfnTR8_u7OYqY6sjpIO0",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "oreilly"
+    }
+  ],
+  "profileTopEducation": [
+    {
+      "schoolName": "University of Warwick",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/7609/",
+      "schoolId": "7609",
+      "degree": "Masters",
+      "fieldOfStudy": "Computer Science by Research",
+      "period": "2007 - 2009",
+      "startDate": {
+        "year": 2007,
+        "text": "2007"
+      },
+      "endDate": {
+        "year": 2009,
+        "text": "2009"
+      },
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_400_400/B4EZeDcOnXGcAY-/0/1750256905393/uniofwarwick_logo?e=1784160000&v=beta&t=93hYNlJgmbKzA9UsgBdtm29MM8T6quElKGuQgBnqF7A",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_400_400/B4EZeDcOnXGcAY-/0/1750256905393/uniofwarwick_logo?e=1784160000&v=beta&t=93hYNlJgmbKzA9UsgBdtm29MM8T6quElKGuQgBnqF7A",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_200_200/B4EZeDcOnXGcAI-/0/1750256905393/uniofwarwick_logo?e=1784160000&v=beta&t=Ry0N3Y552oI_lqlTa9HbY3UexMIMYa0pXKDitkVG34w",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_100_100/B4EZeDcOnXGcAQ-/0/1750256905393/uniofwarwick_logo?e=1784160000&v=beta&t=u5hxpbv98gkm2l5_e0WVGKJ5qdNf0QMVci-MEDprE0E",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "profileActions": [],
+  "profilePicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D5603AQEqWa3hr1VY3A/profile-displayphoto-crop_800_800/B56Zxltx.dHEAI-/0/1771233029684?e=1784160000&v=beta&t=e1GZisF3Gz6uVqrOZBb8cFFZm6op9DUpnmb8ocr4-h0",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQEqWa3hr1VY3A/profile-displayphoto-crop_800_800/B56Zxltx.dHEAI-/0/1771233029684?e=1784160000&v=beta&t=e1GZisF3Gz6uVqrOZBb8cFFZm6op9DUpnmb8ocr4-h0",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQEqWa3hr1VY3A/profile-displayphoto-scale_400_400/B56Zxltx.dHEAg-/0/1771233029792?e=1784160000&v=beta&t=e4Pc-0ANAwHmPMDrjTGRLmx_Pb9w2tu8w8soEwGgG1Q",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQEqWa3hr1VY3A/profile-displayphoto-scale_200_200/B56Zxltx.dHEAY-/0/1771233029792?e=1784160000&v=beta&t=yviHvr1sZW7HFUvN6rletre-js44Rhg4SrQQOQLOtCo",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQEqWa3hr1VY3A/profile-displayphoto-scale_100_100/B56Zxltx.dHEAc-/0/1771233029792?e=1784160000&v=beta&t=6Q38vRifO4j9i1j_YqmzPbKY_B0P6TfPJi45UzgkJpg",
+        "width": 100,
+        "height": 100
+      }
+    ]
+  },
+  "coverPicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D5616AQFOJoReiYV5Ew/profile-displaybackgroundimage-shrink_350_1400/B56Z7hJUI6H4AU-/0/1781893776287?e=1784160000&v=beta&t=t6pbx8JUY6MRNFpiUV5yQ0x8tNQfXmsdURgxLW8msSY",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5616AQFOJoReiYV5Ew/profile-displaybackgroundimage-shrink_350_1400/B56Z7hJUI6H4AU-/0/1781893776287?e=1784160000&v=beta&t=t6pbx8JUY6MRNFpiUV5yQ0x8tNQfXmsdURgxLW8msSY",
+        "width": 1400,
+        "height": 350
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D5616AQFOJoReiYV5Ew/profile-displaybackgroundimage-shrink_200_800/B56Z7hJUI6H4AQ-/0/1781893776287?e=1784160000&v=beta&t=vxJs7C28WCIQKqMqblJvC_hekVFLkJgriKh8VW5YRmg",
+        "width": 800,
+        "height": 200
+      }
+    ]
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/D5603AQEqWa3hr1VY3A/profile-displayphoto-crop_800_800/B56Zxltx.dHEAI-/0/1771233029684?e=1784160000&v=beta&t=e1GZisF3Gz6uVqrOZBb8cFFZm6op9DUpnmb8ocr4-h0",
+  "profileLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "primaryLocale": {
+    "country": "US",
+    "language": "en"
+  },
+  "multiLocaleHeadline": [
+    {
+      "headline": "AI Engineering & DevRel Leader, Recently: Director, Google Cloud AI. Best-selling Author. Speaker. AI, DX, UX. I want to see you win.",
+      "locale": "en_US"
+    }
+  ],
+  "services": null,
+  "experience": [
+    {
+      "position": "Author",
+      "location": null,
+      "employmentType": "Seasonal",
+      "workplaceType": null,
+      "companyName": "O'Reilly",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/oreilly/",
+      "companyId": "8459",
+      "duration": "16 yrs 2 mos",
+      "description": "Author of multiple #1 best-sellers including “Leading Effective Engineering Teams” and “JavaScript Design Patterns”",
+      "skills": null,
+      "startDate": {
+        "month": "May",
+        "year": 2010,
+        "text": "May 2010"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGyP8jTBHmlYg/company-logo_400_400/B4EZ6OKJvQJgAU-/0/1780501486889/oreilly_logo?e=1784160000&v=beta&t=TuECxfqhqG4vEMq1SCcCDn2676Evpq_wh1x3a25x3l0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGyP8jTBHmlYg/company-logo_400_400/B4EZ6OKJvQJgAU-/0/1780501486889/oreilly_logo?e=1784160000&v=beta&t=TuECxfqhqG4vEMq1SCcCDn2676Evpq_wh1x3a25x3l0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGyP8jTBHmlYg/company-logo_200_200/B4EZ6OKJvQJgAE-/0/1780501486889/oreilly_logo?e=1784160000&v=beta&t=h_G5G7DMmB4GKXikr34uD_u1AkfXkFApOWtyICI5KaU",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGyP8jTBHmlYg/company-logo_100_100/B4EZ6OKJvQJgAI-/0/1780501486889/oreilly_logo?e=1784160000&v=beta&t=n0a9l89Qa8qgce7XKWKMBejPfnTR8_u7OYqY6sjpIO0",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "oreilly"
+    },
+    {
+      "position": "Owner and Author",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "AddyOsmani.com",
+      "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=AddyOsmani%2Ecom",
+      "duration": "21 yrs 6 mos",
+      "description": "Between my Medium channel and personal site, the canonical technical articles I author have been viewed more than 17M times in the last few years. I focus on taking complex topics related to Web Performance or the Web Platform and try to distill them down to the core piece of insight that might help others.",
+      "skills": null,
+      "startDate": {
+        "month": "Jan",
+        "year": 2005,
+        "text": "Jan 2005"
+      },
+      "endDate": {
+        "text": "Present"
+      }
+    },
+    {
+      "position": "Director, Google Cloud AI",
+      "location": "Sunnyvale, CA",
+      "employmentType": "Full-time",
+      "workplaceType": "On-site",
+      "companyName": "Google",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+      "companyId": "1441",
+      "duration": "7 mos",
+      "description": "Gemini! Achieved Cloud AI's annual growth goal in <6 months. My team focused on empowering developers and businesses to succeed with Google's AI platform. This includes AI models like Gemini, Agent Platform (ADK, Agent Studio etc) to name a few.",
+      "skills": [
+        "AI Agents",
+        "Product Management",
+        "Technology Evangelism",
+        "Cloud Infrastructure",
+        "AI Models"
+      ],
+      "experienceGroupId": "95df5d150e00c17dd86a8fb6c0bdc5c8289e1b0a",
+      "startDate": {
+        "month": "Dec",
+        "year": 2025,
+        "text": "Dec 2025"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1784160000&v=beta&t=sP_NUDMOdjcfYxJmp0gPzfl9X_qfvdZjiNlZj1aZWeE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1784160000&v=beta&t=PHu9lS7-YucyrKEjpH_gKW4go8LRAwnnIxiXijdQZQ4",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "google"
+    },
+    {
+      "position": "Head of Google Chrome Developer Experience",
+      "location": "Mountain View, California, United States",
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "Google",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+      "companyId": "1441",
+      "duration": "3 yrs 7 mos",
+      "description": "Leading Chrome's global engineering teams focused on activating the best of quality web applications through developers at scale. Our teams work on reducing the friction to test, debug and optimize web applications in the developer's preferred web technology and tooling stack. Portfolio includes products reaching 40M developers serving a Chrome audience of 3B+ users.\n\nMy AI specific projects have included: Contributing to Gemini model improvements for coding, Gemini (AI Assistance) in Chrome DevTools across 5 different product launches and Gemini rollouts across multiple developer surfaces in Google Labs.",
+      "skills": [
+        "Scalability",
+        "Machine Learning",
+        "Artificial Intelligence (AI)",
+        "Product Development",
+        "Team Management",
+        "Technical Architecture",
+        "Performance Improvement",
+        "Large Language Models (LLM)",
+        "Mentoring",
+        "Creative Problem Solving",
+        "Organizational Leadership",
+        "Executive Leadership",
+        "Product Delivery",
+        "B2C",
+        "Product Strategy",
+        "Leadership",
+        "Presentations",
+        "Design Review",
+        "Coaching",
+        "Modernization",
+        "Problem Solving",
+        "Chatbots",
+        "Computer Science",
+        "Chrome Developer Tools",
+        "Team Leadership",
+        "Communication",
+        "Product Vision",
+        "Technical Solution Design",
+        "Developer Tools",
+        "Analytical Skills",
+        "Computer Engineering",
+        "Strategy",
+        "Technical Design",
+        "Optimization",
+        "Cross-functional Team Leadership",
+        "Strategic Planning",
+        "Complexity Management",
+        "Application Frameworks",
+        "Strategy Alignment",
+        "Team Development",
+        "IT Strategy",
+        "Business-to-Business (B2B)",
+        "Engineering Management"
+      ],
+      "experienceGroupId": "95df5d150e00c17dd86a8fb6c0bdc5c8289e1b0a",
+      "startDate": {
+        "month": "Jun",
+        "year": 2022,
+        "text": "Jun 2022"
+      },
+      "endDate": {
+        "month": "Dec",
+        "year": 2025,
+        "text": "Dec 2025"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1784160000&v=beta&t=sP_NUDMOdjcfYxJmp0gPzfl9X_qfvdZjiNlZj1aZWeE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1784160000&v=beta&t=PHu9lS7-YucyrKEjpH_gKW4go8LRAwnnIxiXijdQZQ4",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "google"
+    },
+    {
+      "position": "Head of Chrome Developer Insights",
+      "location": null,
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "Google",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+      "companyId": "1441",
+      "duration": "6 yrs 4 mos",
+      "description": "Engineering manager leading organisations working on making Chrome & the web fast. My work involves leading some of our projects to help how quickly Chrome loads pages, shaping APIs, and defining best practices to help large sites deliver great user experiences.",
+      "skills": [
+        "Scalability",
+        "Machine Learning",
+        "Artificial Intelligence (AI)",
+        "Product Development",
+        "Team Management",
+        "Technical Architecture",
+        "Large Language Models (LLM)",
+        "Application Architecture",
+        "Mentoring",
+        "Creative Problem Solving",
+        "Organizational Leadership",
+        "Executive Leadership",
+        "Product Delivery",
+        "B2C",
+        "Product Strategy",
+        "Presentations",
+        "Design Review",
+        "Coaching",
+        "Modernization",
+        "Problem Solving",
+        "Computer Science",
+        "Team Leadership",
+        "Communication",
+        "Product Vision",
+        "Technical Solution Design",
+        "Analytical Skills",
+        "Computer Engineering",
+        "Strategy",
+        "Technical Design",
+        "Optimization",
+        "Cross-functional Team Leadership",
+        "Strategic Planning",
+        "Strategy Alignment",
+        "Team Development",
+        "IT Strategy",
+        "Business-to-Business (B2B)",
+        "Engineering Management"
+      ],
+      "experienceGroupId": "95df5d150e00c17dd86a8fb6c0bdc5c8289e1b0a",
+      "startDate": {
+        "month": "Sep",
+        "year": 2016,
+        "text": "Sep 2016"
+      },
+      "endDate": {
+        "month": "Dec",
+        "year": 2022,
+        "text": "Dec 2022"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1784160000&v=beta&t=sP_NUDMOdjcfYxJmp0gPzfl9X_qfvdZjiNlZj1aZWeE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1784160000&v=beta&t=PHu9lS7-YucyrKEjpH_gKW4go8LRAwnnIxiXijdQZQ4",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "google"
+    },
+    {
+      "position": "Head of Web Developer Ecosystem",
+      "location": "London, United Kingdom",
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "Google",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+      "companyId": "1441",
+      "duration": "4 yrs 7 mos",
+      "description": "Technical Lead and manager for a team in Chrome focused on improving speed and user-experience on the web. Our teams focus on a combination of standards, tooling and library projects for reducing the friction for building success on the web.",
+      "skills": [
+        "Scalability",
+        "Product Development",
+        "Team Management",
+        "Technical Architecture",
+        "Application Architecture",
+        "Mentoring",
+        "Creative Problem Solving",
+        "Organizational Leadership",
+        "Product Delivery",
+        "B2C",
+        "Product Strategy",
+        "Presentations",
+        "Design Review",
+        "Coaching",
+        "Modernization",
+        "Problem Solving",
+        "Computer Science",
+        "Team Leadership",
+        "Communication",
+        "Product Vision",
+        "Technical Solution Design",
+        "Analytical Skills",
+        "Computer Engineering",
+        "Strategy",
+        "Technical Design",
+        "Optimization",
+        "Cross-functional Team Leadership",
+        "Strategic Planning",
+        "Strategy Alignment",
+        "Team Development",
+        "IT Strategy",
+        "Business-to-Business (B2B)",
+        "Engineering Management"
+      ],
+      "experienceGroupId": "95df5d150e00c17dd86a8fb6c0bdc5c8289e1b0a",
+      "startDate": {
+        "month": "Mar",
+        "year": 2012,
+        "text": "Mar 2012"
+      },
+      "endDate": {
+        "month": "Sep",
+        "year": 2016,
+        "text": "Sep 2016"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1784160000&v=beta&t=sP_NUDMOdjcfYxJmp0gPzfl9X_qfvdZjiNlZj1aZWeE",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1784160000&v=beta&t=PHu9lS7-YucyrKEjpH_gKW4go8LRAwnnIxiXijdQZQ4",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "google"
+    },
+    {
+      "position": "jQuery team (Bug Triage Team, API Docs Team, Core)",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "jQuery Project",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/jquery-project/",
+      "companyId": "586977",
+      "duration": "2 yrs 7 mos",
+      "description": null,
+      "skills": [
+        "Problem Solving",
+        "Computer Science",
+        "Product Vision",
+        "Technical Solution Design",
+        "Analytical Skills",
+        "Technical Design",
+        "Optimization",
+        "Strategy Alignment",
+        "Team Development"
+      ],
+      "startDate": {
+        "month": "Aug",
+        "year": 2010,
+        "text": "Aug 2010"
+      },
+      "endDate": {
+        "month": "Feb",
+        "year": 2013,
+        "text": "Feb 2013"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFQ7n6XOOr7_A/company-logo_400_400/company-logo_400_400/0/1631336751658?e=1784160000&v=beta&t=OOmUa0Y7WNx1HvbeRDdnjdm3_z3kBa291HngAx0IXf4",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFQ7n6XOOr7_A/company-logo_400_400/company-logo_400_400/0/1631336751658?e=1784160000&v=beta&t=OOmUa0Y7WNx1HvbeRDdnjdm3_z3kBa291HngAx0IXf4",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFQ7n6XOOr7_A/company-logo_200_200/company-logo_200_200/0/1631336751658?e=1784160000&v=beta&t=z2BXPEdMV3LVqbr4YJTqnf_IPSNOrrC8H0ASdkXZPLg",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFQ7n6XOOr7_A/company-logo_100_100/company-logo_100_100/0/1631336751658?e=1784160000&v=beta&t=4_G2Cz0qy7Ju-sVeg36jp388lkr6ycFdiRr8M7-HGM8",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "jquery-project"
+    },
+    {
+      "position": "Senior Software Engineer (JavaScript)",
+      "location": null,
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "AOL",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/aol/",
+      "companyId": "1258",
+      "duration": "1 yr 6 mos",
+      "description": null,
+      "skills": [
+        "Ruby on Rails",
+        "Product Development",
+        "Technical Architecture",
+        "Backbone.js",
+        "Application Architecture",
+        "Mentoring",
+        "PHP",
+        "Creative Problem Solving",
+        "JavaScript",
+        "Product Delivery",
+        "B2C",
+        "Product Strategy",
+        "Presentations",
+        "Design Review",
+        "Modernization",
+        "Problem Solving",
+        "Computer Science",
+        "SQL",
+        "Team Leadership",
+        "Communication",
+        "Product Vision",
+        "Technical Solution Design",
+        "Analytical Skills",
+        "Computer Engineering",
+        "Technical Design",
+        "Optimization",
+        "Strategy Alignment",
+        "Team Development",
+        "IT Strategy"
+      ],
+      "startDate": {
+        "month": "Jan",
+        "year": 2011,
+        "text": "Jan 2011"
+      },
+      "endDate": {
+        "month": "Jun",
+        "year": 2012,
+        "text": "Jun 2012"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEqTCpF3SroCQ/company-logo_400_400/B4EZb9QKaEGcAY-/0/1748005595205/aol_logo?e=1784160000&v=beta&t=iFY6Yko95mKsBnNWz4Xe9PEN9FcoY8Jj_lkIvU0FOhQ",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEqTCpF3SroCQ/company-logo_400_400/B4EZb9QKaEGcAY-/0/1748005595205/aol_logo?e=1784160000&v=beta&t=iFY6Yko95mKsBnNWz4Xe9PEN9FcoY8Jj_lkIvU0FOhQ",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEqTCpF3SroCQ/company-logo_200_200/B4EZb9QKaEGcAI-/0/1748005595205/aol_logo?e=1784160000&v=beta&t=TrJClYcw7LOfJRYHxZDSbPuPlUxFTDj3DlIQD9Vmmas",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEqTCpF3SroCQ/company-logo_100_100/B4EZb9QKaEGcAQ-/0/1748005595205/aol_logo?e=1784160000&v=beta&t=JVx90-Q_FDBG4wPOzQYHx3WFKqDVAZOHuDnmB9OZRcU",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "companyUniversalName": "aol"
+    },
+    {
+      "position": "Senior Software Engineer (Web Development, JavaScript)",
+      "location": null,
+      "employmentType": "Full-time",
+      "workplaceType": null,
+      "companyName": "Shortsale Engineering",
+      "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Shortsale+Engineering",
+      "duration": "2 yrs 1 mo",
+      "description": null,
+      "skills": [
+        "Ruby on Rails",
+        "Backbone.js",
+        "Application Architecture",
+        "Mentoring",
+        "PHP",
+        "Creative Problem Solving",
+        "JavaScript",
+        "Product Delivery",
+        "Product Strategy",
+        "Leadership",
+        "Problem Solving",
+        "Management",
+        "Computer Science",
+        "Team Leadership",
+        "Product Vision",
+        "Technical Solution Design",
+        "Analytical Skills",
+        "Computer Engineering",
+        "Technical Design",
+        "Optimization",
+        "Strategy Alignment",
+        "IT Strategy",
+        "Engineering Management",
+        "AngularJS"
+      ],
+      "startDate": {
+        "month": "Mar",
+        "year": 2009,
+        "text": "Mar 2009"
+      },
+      "endDate": {
+        "month": "Mar",
+        "year": 2011,
+        "text": "Mar 2011"
+      }
+    },
+    {
+      "position": "Senior Web Developer (JavaScript)",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Empora Group GmbH",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/745421/",
+      "companyId": "745421",
+      "duration": "1 yr 2 mos",
+      "description": "Senior Web Developer, primarily responsible for the development of web applications using JavaScript, ActionScript/Flash for widgets and PHP + SSR frameworks for the backend.",
+      "skills": [
+        "Technical Architecture",
+        "Application Architecture",
+        "PHP",
+        "Creative Problem Solving",
+        "JavaScript",
+        "Modernization",
+        "Problem Solving",
+        "Computer Science",
+        "Team Leadership",
+        "Product Vision",
+        "Technical Solution Design",
+        "Analytical Skills",
+        "Technical Design",
+        "Optimization"
+      ],
+      "startDate": {
+        "month": "Mar",
+        "year": 2008,
+        "text": "Mar 2008"
+      },
+      "endDate": {
+        "month": "Apr",
+        "year": 2009,
+        "text": "Apr 2009"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQHIxaH4TX3CgQ/company-logo_400_400/company-logo_400_400/0/1631337132237?e=1784160000&v=beta&t=4F7Z8TOmJiP2E2TVO4NuLrZDbauWsBbDKgm6fxRXLX0",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHIxaH4TX3CgQ/company-logo_400_400/company-logo_400_400/0/1631337132237?e=1784160000&v=beta&t=4F7Z8TOmJiP2E2TVO4NuLrZDbauWsBbDKgm6fxRXLX0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHIxaH4TX3CgQ/company-logo_200_200/company-logo_200_200/0/1631337132237?e=1784160000&v=beta&t=koi5LdwFk5tVr_7UJACBpWEiZHtOEFACxJc5ISLHbnk",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHIxaH4TX3CgQ/company-logo_100_100/company-logo_100_100/0/1631337132237?e=1784160000&v=beta&t=e4Xa31YTBfy8UGaZHRkWf0M09ajN7M9RFGz5ITQdlxs",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "position": "Senior Software Engineer",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Consultancy and in-house lead roles",
+      "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Consultancy+and+in-house+lead+roles",
+      "duration": "7 yrs 2 mos",
+      "description": "This section will detail my previous experience once I get some more free time to update. Covers consultancy across large-scale developers projects requiring JavaScript, PHP, .NET and other front and back-end technologies. For complete details, please request a copy of my resume.",
+      "skills": [
+        "Team Management",
+        "Application Architecture",
+        "Executive Leadership",
+        "Modernization",
+        "Problem Solving",
+        "Computer Science",
+        "Team Leadership",
+        "Technical Solution Design",
+        "Strategy",
+        "Optimization",
+        "Engineering Management"
+      ],
+      "startDate": {
+        "month": "Jan",
+        "year": 2001,
+        "text": "Jan 2001"
+      },
+      "endDate": {
+        "month": "Feb",
+        "year": 2008,
+        "text": "Feb 2008"
+      }
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "University of Warwick",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/7609/",
+      "schoolId": "7609",
+      "degree": "Masters",
+      "fieldOfStudy": "Computer Science by Research",
+      "skills": [],
+      "description": "Awarded for the Thesis: Wavelet-based Geodesic Active Regions - An Intelligent Image Segmentation Algorithm",
+      "insights": "Activities and societies: Computer Science Society",
+      "startDate": {
+        "year": 2007,
+        "text": "2007"
+      },
+      "endDate": {
+        "year": 2009,
+        "text": "2009"
+      },
+      "period": "2007 - 2009",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_400_400/B4EZeDcOnXGcAY-/0/1750256905393/uniofwarwick_logo?e=1784160000&v=beta&t=93hYNlJgmbKzA9UsgBdtm29MM8T6quElKGuQgBnqF7A",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_400_400/B4EZeDcOnXGcAY-/0/1750256905393/uniofwarwick_logo?e=1784160000&v=beta&t=93hYNlJgmbKzA9UsgBdtm29MM8T6quElKGuQgBnqF7A",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_200_200/B4EZeDcOnXGcAI-/0/1750256905393/uniofwarwick_logo?e=1784160000&v=beta&t=Ry0N3Y552oI_lqlTa9HbY3UexMIMYa0pXKDitkVG34w",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHlmXj5yG0yOA/company-logo_100_100/B4EZeDcOnXGcAQ-/0/1750256905393/uniofwarwick_logo?e=1784160000&v=beta&t=u5hxpbv98gkm2l5_e0WVGKJ5qdNf0QMVci-MEDprE0E",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "University of Oxford",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/4477/",
+      "schoolId": "4477",
+      "degree": "Continued Education",
+      "fieldOfStudy": "Design for Security",
+      "skills": [],
+      "startDate": {
+        "year": 2005,
+        "text": "2005"
+      },
+      "endDate": {
+        "year": 2005,
+        "text": "2005"
+      },
+      "period": "2005 - 2005",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1784160000&v=beta&t=RE6lY5AOdwQOuIvxgwLejSCn-MFGmPl9G0CEn1-dhxM",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1784160000&v=beta&t=RE6lY5AOdwQOuIvxgwLejSCn-MFGmPl9G0CEn1-dhxM",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_200_200/company-logo_200_200/0/1709206435851/oxforduni_logo?e=1784160000&v=beta&t=6pD0k5zGJ6KGDGjtZDEk4E2wTDh2EBFof7iOfCxmBfY",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_100_100/company-logo_100_100/0/1709206435851/oxforduni_logo?e=1784160000&v=beta&t=ixQTdgsjD6vs7MYBFt6iShs06z-1-_SwOVJUg32Su20",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "University of Oxford",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/4477/",
+      "schoolId": "4477",
+      "degree": "Continued Education",
+      "fieldOfStudy": "Platform and Application Security",
+      "skills": [],
+      "startDate": {
+        "year": 2005,
+        "text": "2005"
+      },
+      "endDate": {
+        "year": 2005,
+        "text": "2005"
+      },
+      "period": "2005 - 2005",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1784160000&v=beta&t=RE6lY5AOdwQOuIvxgwLejSCn-MFGmPl9G0CEn1-dhxM",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1784160000&v=beta&t=RE6lY5AOdwQOuIvxgwLejSCn-MFGmPl9G0CEn1-dhxM",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_200_200/company-logo_200_200/0/1709206435851/oxforduni_logo?e=1784160000&v=beta&t=6pD0k5zGJ6KGDGjtZDEk4E2wTDh2EBFof7iOfCxmBfY",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_100_100/company-logo_100_100/0/1709206435851/oxforduni_logo?e=1784160000&v=beta&t=ixQTdgsjD6vs7MYBFt6iShs06z-1-_SwOVJUg32Su20",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "The University of Sheffield",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/8421/",
+      "schoolId": "8421",
+      "degree": "Software Engineering / Computer Systems Engineering",
+      "fieldOfStudy": null,
+      "skills": [],
+      "insights": "Activities and societies: President of the Computer Science Society, Rep for the Faculty Board (Dep of Computer Science), Rep for the Faculty Board (Dep of. Engineering), Rep on the Student-Staff Liason Board, Rep for the Student's Union (Computer Science). Department liason to Microsoft UK Partner program.",
+      "startDate": {
+        "year": 2002,
+        "text": "2002"
+      },
+      "endDate": {
+        "year": 2005,
+        "text": "2005"
+      },
+      "period": "2002 - 2005",
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEORSKOZDnu4A/company-logo_400_400/company-logo_400_400/0/1667299950450/university_of_sheffield_logo?e=1784160000&v=beta&t=lkwafs3L49BYC-277FJ3dsjusfUPldGc4F3kIFvLbSw",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEORSKOZDnu4A/company-logo_400_400/company-logo_400_400/0/1667299950450/university_of_sheffield_logo?e=1784160000&v=beta&t=lkwafs3L49BYC-277FJ3dsjusfUPldGc4F3kIFvLbSw",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEORSKOZDnu4A/company-logo_200_200/company-logo_200_200/0/1667299950450/university_of_sheffield_logo?e=1784160000&v=beta&t=eIF0QtRXtMCx2jREKkzZr07CHsuFoGn8wgrmeq-hF54",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEORSKOZDnu4A/company-logo_100_100/company-logo_100_100/0/1667299950450/university_of_sheffield_logo?e=1784160000&v=beta&t=MLErFd8vVTtERVDlG1WPQ8HMODZ0vZSzZsahsEk47dA",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "Sheffield Hallam University",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/14013/",
+      "schoolId": "14013",
+      "degree": "BSc",
+      "fieldOfStudy": "Applied Computing & Software Engineering",
+      "skills": [],
+      "startDate": null,
+      "endDate": {},
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFZNIao4vU6Bw/company-logo_400_400/company-logo_400_400/0/1631312183748?e=1784160000&v=beta&t=znAqTohOYyhb4Y7IQjuo6x7porP9k7WEMtl8tOXKLrs",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFZNIao4vU6Bw/company-logo_400_400/company-logo_400_400/0/1631312183748?e=1784160000&v=beta&t=znAqTohOYyhb4Y7IQjuo6x7porP9k7WEMtl8tOXKLrs",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFZNIao4vU6Bw/company-logo_200_200/company-logo_200_200/0/1631312183748?e=1784160000&v=beta&t=7_AkmbD5Ty07Zdyv2sjT0h8IX6uqrqWr1RLJdXMq_sA",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFZNIao4vU6Bw/company-logo_100_100/company-logo_100_100/0/1631312183748?e=1784160000&v=beta&t=NTDXZW4RQAuRyKnGq93w4xtx3y--Cm2b02WiJiLjTqU",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      }
+    }
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "Chrome DevTools",
+      "duration": "Apr 2013 - Present",
+      "startDate": {
+        "month": "Apr",
+        "year": 2013,
+        "text": "Apr 2013"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "associatedWith": null,
+      "associatedWithLink": null,
+      "description": "Chrome DevTools is a suite of web development tools used by over 30M developers integrated directly into the Google Chrome browser, designed to assist developers in editing pages on-the-fly, diagnosing issues swiftly, and building better websites more efficiently."
+    },
+    {
+      "title": "Google Chrome",
+      "duration": "Jan 2012 - Present",
+      "startDate": {
+        "month": "Jan",
+        "year": 2012,
+        "text": "Jan 2012"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "associatedWith": "Associated with Google",
+      "associatedWithLink": null,
+      "description": "Google Chrome is a popular web browser we developed over time, first released in 2008. It is known for its speed, simplicity, security, and stability, often referred to as the four S principles:\n\n1. Speed: Chrome is designed for efficiency and quick navigation, with a fast startup and page loading time.\n\n2. Simplicity: The browser offers a clean, intuitive user interface, making it easy for users to navigate and manage their browsing experience.\n\n3. Security: Chrome prioritizes user safety with features like safe browsing, sandboxing, and regular updates to protect against threats.\n\n4. Stability: It runs each tab independently, so if one crashes, it doesn't affect the rest of the browser, ensuring a more stable browsing experience.",
+      "contributors": [
+        {
+          "linkedinUrl": "https://www.linkedin.com/in/ACoAAAChSB4Bv-CIPn-QJ8_We7lLIc0DNknncwg"
+        },
+        {
+          "linkedinUrl": "https://www.linkedin.com/in/ACoAAABB8v4BuNmi3v6HMZYyA6SfViz8UjmJD1U"
+        },
+        {
+          "linkedinUrl": "https://www.linkedin.com/in/ACoAAACkLUsBN8OKADOuUg79wxSx4Rz-oZZrAu4"
+        }
+      ]
+    },
+    {
+      "title": "WebComponents.org",
+      "duration": "Apr 2011 - Jan 2015",
+      "startDate": {
+        "month": "Apr",
+        "year": 2011,
+        "text": "Apr 2011"
+      },
+      "endDate": {
+        "month": "Jan",
+        "year": 2015,
+        "text": "Jan 2015"
+      },
+      "associatedWith": null,
+      "associatedWithLink": null,
+      "description": "Googlers from the Polymer/Chrome team, along with some great folks from Mozilla’s X-Tag/Brick, as well as other Web Components community members (like me) had been cooking up a vision for a simple, neutral site/community devoted to encouraging good best practices for Web Components.",
+      "link": "http://webcomponents.org",
+      "contributors": [
+        {
+          "linkedinUrl": "https://www.linkedin.com/in/ACoAAALcaj8B9WtX05y4evASKaKzUY3pitj0n60"
+        }
+      ]
+    }
+  ],
+  "volunteering": [],
+  "receivedRecommendations": [],
+  "skills": [
+    {
+      "name": "Chrome Developer Tools",
+      "positions": [
+        "Head of Google Chrome Developer Experience at Google"
+      ],
+      "endorsements": "5 endorsements"
+    },
+    {
+      "name": "Ruby on Rails",
+      "positions": [
+        "2 experiences across AOL and 1 other company"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "JavaScript",
+      "positions": [
+        "3 experiences across AOL and 2 other companies"
+      ],
+      "endorsements": "87 endorsements"
+    },
+    {
+      "name": "Backbone.js",
+      "positions": [
+        "2 experiences across AOL and 1 other company"
+      ],
+      "endorsements": "32 endorsements"
+    },
+    {
+      "name": "jQuery",
+      "endorsements": "44 endorsements"
+    },
+    {
+      "name": "JSON",
+      "endorsements": "16 endorsements"
+    },
+    {
+      "name": "PHP",
+      "positions": [
+        "3 experiences across AOL and 2 other companies"
+      ],
+      "endorsements": "22 endorsements"
+    },
+    {
+      "name": "HTML5",
+      "endorsements": "13 endorsements"
+    },
+    {
+      "name": "HTML",
+      "endorsements": "8 endorsements"
+    },
+    {
+      "name": "SQL",
+      "positions": [
+        "Senior Software Engineer (JavaScript) at AOL"
+      ],
+      "endorsements": "8 endorsements"
+    },
+    {
+      "name": "CSS",
+      "endorsements": "8 endorsements"
+    },
+    {
+      "name": "HTML 5",
+      "endorsements": "6 endorsements"
+    },
+    {
+      "name": "MySQL",
+      "endorsements": "5 endorsements"
+    },
+    {
+      "name": "Node.js",
+      "endorsements": "7 endorsements"
+    },
+    {
+      "name": "UML",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "JSP",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Django",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "C++",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "React.js",
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Vue.js",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Product Management",
+      "positions": [
+        "Director, Google Cloud AI at Google"
+      ]
+    },
+    {
+      "name": "Technology Evangelism",
+      "positions": [
+        "Director, Google Cloud AI at Google"
+      ]
+    },
+    {
+      "name": "Cloud Infrastructure",
+      "positions": [
+        "Director, Google Cloud AI at Google"
+      ]
+    },
+    {
+      "name": "Product Development",
+      "positions": [
+        "4 experiences across Google and 1 other company"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Design Review",
+      "positions": [
+        "4 experiences across Google and 1 other company"
+      ]
+    },
+    {
+      "name": "Coaching",
+      "positions": [
+        "3 experiences at Google"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Strategy Alignment",
+      "positions": [
+        "6 experiences across Google and 3 other companies"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Technical Architecture",
+      "positions": [
+        "5 experiences across Google and 2 other companies"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Product Vision",
+      "positions": [
+        "7 experiences across Google and 4 other companies"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Technical Solution Design",
+      "positions": [
+        "8 experiences across Google and 5 other companies"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Computer Engineering",
+      "positions": [
+        "5 experiences across Google and 2 other companies"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "IT Strategy",
+      "positions": [
+        "5 experiences across Google and 2 other companies"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Team Development",
+      "positions": [
+        "5 experiences across Google and 2 other companies"
+      ]
+    },
+    {
+      "name": "Technical Design",
+      "positions": [
+        "7 experiences across Google and 4 other companies"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "positions": [
+        "2 experiences at Google"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Computer Science",
+      "positions": [
+        "8 experiences across Google and 5 other companies"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "positions": [
+        "2 experiences at Google"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Chatbots",
+      "positions": [
+        "Head of Google Chrome Developer Experience at Google"
+      ]
+    },
+    {
+      "name": "Large Language Models (LLM)",
+      "positions": [
+        "2 experiences at Google"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Modernization",
+      "positions": [
+        "6 experiences across Google and 3 other companies"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "AI Agents",
+      "positions": [
+        "Director, Google Cloud AI at Google"
+      ]
+    },
+    {
+      "name": "AI Models",
+      "positions": [
+        "Director, Google Cloud AI at Google"
+      ]
+    },
+    {
+      "name": "Mentoring",
+      "positions": [
+        "5 experiences across Google and 2 other companies"
+      ],
+      "endorsements": "4 endorsements"
+    },
+    {
+      "name": "Team Management",
+      "positions": [
+        "4 experiences across Google and 1 other company"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Problem Solving",
+      "positions": [
+        "8 experiences across Google and 5 other companies"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Creative Problem Solving",
+      "positions": [
+        "6 experiences across Google and 3 other companies"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Analytical Skills",
+      "positions": [
+        "7 experiences across Google and 4 other companies"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Strategy",
+      "positions": [
+        "4 experiences across Google and 1 other company"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Team Leadership",
+      "positions": [
+        "7 experiences across Google and 4 other companies"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Communication",
+      "positions": [
+        "4 experiences across Google and 1 other company"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Strategic Planning",
+      "positions": [
+        "3 experiences at Google"
+      ],
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Management",
+      "endorsements": "2 endorsements"
+    },
+    {
+      "name": "Leadership",
+      "positions": [
+        "2 experiences across Google and 1 other company"
+      ],
+      "endorsements": "4 endorsements"
+    },
+    {
+      "name": "Product Strategy",
+      "positions": [
+        "5 experiences across Google and 2 other companies"
+      ],
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Optimization",
+      "positions": [
+        "8 experiences across Google and 5 other companies"
+      ]
+    },
+    {
+      "name": "Engineering Management",
+      "positions": [
+        "5 experiences across Google and 2 other companies"
+      ]
+    },
+    {
+      "name": "Productivity Improvement",
+      "endorsements": "1 endorsement"
+    },
+    {
+      "name": "Product Delivery",
+      "positions": [
+        "5 experiences across Google and 2 other companies"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Presentations",
+      "positions": [
+        "4 experiences across Google and 1 other company"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "B2C",
+      "positions": [
+        "4 experiences across Google and 1 other company"
+      ]
+    },
+    {
+      "name": "Business-to-Business (B2B)",
+      "positions": [
+        "3 experiences at Google"
+      ]
+    },
+    {
+      "name": "Organizational Leadership",
+      "positions": [
+        "3 experiences at Google"
+      ],
+      "endorsements": "3 endorsements"
+    },
+    {
+      "name": "Scalability",
+      "positions": [
+        "3 experiences at Google"
+      ],
+      "endorsements": "3 endorsements"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Success at Scale",
+      "publishedAt": "Smashing Books · Mar 30, 2024",
+      "description": "Success at Scale is a curated collection of best-practice case studies capturing how production sites of different sizes tackle performance, accessibility, capabilities, and developer experience at scale. \n\nCase studies are from industry experts from teams at Instagram, Shopify, Netflix, eBay, Figma, Spotify, Wix, Lyft, LinkedIn, and many more. Guidance that stands the test of time.\n\nJoin Addy Osmani, your curator, as we dive into a nuanced look at several key topics that will teach you tips and tricks that may help you optimize your own sites. The case studies fall into four major categories that impact almost every project — Performance, Capabilities, Accessibility, and Developer Experience — and the book also includes short interviews with contributors on what additional lessons, challenges, and tips they have to share some time after the case studies were written.\n\nRather than focusing on conventional project management steps and procedures, Success at Scale is about the ideas and processes that worked (and a few that didn’t), capturing challenges, frustrations, and wins through the eyes of the people who make change happen.",
+      "link": "https://www.smashingmagazine.com/printed-books/success-at-scale/"
+    },
+    {
+      "title": "Leading Effective Engineering Teams",
+      "publishedAt": "O'Reilly · Sep 10, 2023",
+      "description": "In this insightful and comprehensive guide, Addy Osmani shares more than a decade of experience working on the Chrome team at Google, uncovering secrets to engineering effectiveness, efficiency, and team success. Engineers and engineering leaders looking to scale their effectiveness and drive transformative results within their teams and organizations will learn the essential principles, tips, and frameworks for building highly effective engineering teams.\n\nOsmani presents best practices and proven strategies that foster engineering excellence in organizations of all sizes. Through practical advice and real-world examples, Leading Effective Engineering Teams empowers you to create a thriving engineering culture where individuals and teams can excel. Unlock the full potential of your engineering team and achieve unparalleled success by harnessing the power of trust, commitment, and accountability.\n\nWith this book, you'll discover:\n\nThe essential traits for engineering effectiveness and the pitfalls to avoid\nHow to cultivate trust, commitment, and accountability within your team\nStrategies to minimize friction, optimize career growth, and deliver maximum value\nThe dynamics of highly successful engineering teams and how to replicate their achievements\nHow to implement a systems thinking approach for everyday problem-solving and decision-making\nSelf-advocacy techniques to enhance your team's visibility and recognition within the organization",
+      "link": "https://learning.oreilly.com/library/view/leading-effective-engineering/9781098148232/"
+    },
+    {
+      "title": "The Stoic Mind - A Visual Exploration Of Stoic Philosophy",
+      "publishedAt": "GoLimitless · Sep 6, 2023",
+      "description": "Discover the timeless wisdom of Stoicism in a modern context with \"The Stoic Mind,\" an enlightening visual guide by GoLimitless and Addy Osmani. This rich exploration connects ancient philosophical tenets to modern-day scenarios, offering you a compass to navigate life's challenging waves with resilience and inner peace.\n\nWhether it's about stepping out of your comfort zone, taking control of your calendar, measuring success by your own standards, or understanding the multifaceted nature of success and failure, this book offers a treasure trove of insights, each steeped in the enduring wisdom of Stoicism.\n\nRemember, the journey is about progress, not perfection. As you turn the pages of \"The Stoic Mind,\" you equip yourself with the tools to sail through life's vast ocean with fortitude, irrespective of the storms you face. These teachings aren't relics of the past but beacons of wisdom for the present and future.",
+      "link": "https://stoic.im"
+    },
+    {
+      "title": "Learning JavaScript Design Patterns: Second Edition (2023)",
+      "publishedAt": "O'Reilly Media · May 10, 2023",
+      "description": "Do you want to write beautiful, structured, and maintainable JavaScript by applying modern design patterns to the language? Do you want clean, efficient, manageable code? Want to stay up-to-date with the latest best practices? If so, the updated second edition of Learning JavaScript Design Patterns is the ideal place to start.\n\nAuthor Addy Osmani shows you how to apply modern design patterns to JavaScript and React—including modules, mixins, observers, and mediators. You'll learn about performance and rendering patterns such as server-side rendering and Islands architecture. You'll also learn how architectural patterns like MVC, MVP, and MVVM are useful from the perspective of a modern web application developer.",
+      "link": "https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/"
+    },
+    {
+      "title": "Software Engineering - The Soft Parts (2022)",
+      "publishedAt": "LeanPub · Dec 10, 2022",
+      "description": "In \"Software Engineering - The Soft Parts\" Addy Osmani shares lessons from his first 10 years at Google on the \"soft skills\" that can help engineers become effective and scale their effectiveness. This guidance should help junior, mid-career and even senior developers move forward, deal with changing technology, and navigate building non-trivial systems.\n\n\nBecoming a good engineer is about collecting experience. Each project, even small ones, is a chance to add new techniques and tools to your toolbox. Where this delivers even more value is when you can solve problems by pairing techniques learned on one project with tools learned working on another. This short book tries to capture what the \"soft skills\" are and how they can all add up.",
+      "link": "https://addyosmani.com/blog/software-engineering-soft-parts/"
+    },
+    {
+      "title": "Learning Patterns - a JavaScript & React Design Patterns Book (2021, 2022)",
+      "publishedAt": "Patterns Press · Dec 20, 2021",
+      "description": "Patterns.dev is a book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React. \n\nIn this book, you will learn design patterns, performance and rendering patterns for building high-quality web applications using modern JavaScript and React.\nPatterns are time-tested templates for writing code. They can be really powerful, whether you're a seasoned developer or beginner, bringing a valuable level of resilience and flexibility to your codebase.\n\nWhether it's better user-experience, developer-experience or just smarter architecture, the patterns in “Learning Patterns” can be a valuable consideration for any modern web application.",
+      "link": "https://patterns.dev"
+    },
+    {
+      "title": "Image Optimization (2021)",
+      "publishedAt": "Smashing Media Press · Apr 28, 2021",
+      "description": "Images have always been a key part of the web. Our brains are able to interpret images much faster than text, which is why high-quality visuals drive conversions and user engagement.\n\nThat said, loading images efficiently at scale isn’t a little project for a quiet afternoon. It requires understanding of compression techniques, loading behavior, image decoding and image CDNs, adaptive media loading and caching.\n\nThis book will equip you with everything you need to know to optimize how you compress, serve and maintain images — boosting performance along the way.",
+      "link": "https://www.smashingmagazine.com/printed-books/image-optimization/"
+    },
+    {
+      "title": "Backbone Fundamentals",
+      "publishedAt": "O'Reilly · Mar 2, 2013",
+      "description": null,
+      "link": "http://shop.oreilly.com/product/0636920025344.do"
+    },
+    {
+      "title": "Learning JavaScript Design Patterns",
+      "publishedAt": "O'Reilly · Sep 14, 2012",
+      "description": null,
+      "link": "http://shop.oreilly.com/product/0636920025832.do"
+    }
+  ],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [
+    {
+      "title": "Engineering Excellence Award",
+      "issuedBy": "Chrome Browser",
+      "issuedAt": "Mar 2023",
+      "description": "For contributions to Chrome and browser benchmarking",
+      "associatedWith": "Associated with Google",
+      "associatedWithLink": null
+    },
+    {
+      "title": "Platforms & Ecosystems Award",
+      "issuedBy": "Google",
+      "issuedAt": "Apr 2022",
+      "description": "Awarded for my contributions to Chrome Performance & Core Web Vitals by Hiroshi",
+      "associatedWith": "Associated with Google",
+      "associatedWithLink": null
+    },
+    {
+      "title": "Search Tech Impact Award",
+      "issuedBy": "Google Search Tech Impact Award",
+      "issuedAt": "Feb 2022",
+      "description": "For contributions to the Page Experience program efforts to make the web faster",
+      "associatedWith": "Associated with Google",
+      "associatedWithLink": null
+    },
+    {
+      "title": "Most Exciting New Use Of Technology",
+      "issuedBy": "React Open Source Awards (React Summit)",
+      "issuedAt": "Aug 2020",
+      "description": "Awarded for my work on React Adaptive Loading",
+      "associatedWith": "Associated with Google",
+      "associatedWithLink": null
+    },
+    {
+      "title": "Web Platform Award Winner",
+      "issuedBy": "O'Reilly / Fluent",
+      "issuedAt": "Jun 2014",
+      "description": "The 1st Annual O’Reilly Web Platform Awards recognize individual contributors who have demonstrated exceptional leadership, creativity, and collaboration in the development of JavaScript, HTML, CSS, and the supporting Web ecosystem. The nomination process is open to the entire web community and all entries are judged by the Fluent program committee.\n\nhttp://conferences.oreilly.com/fluent/fluent2014/public/schedule/detail/35507",
+      "associatedWith": "Associated with Google",
+      "associatedWithLink": null
+    },
+    {
+      "title": "Google Search Tech Impact Award",
+      "issuedBy": "Google",
+      "description": "Awarded for my contributions to Core Web Vitals",
+      "associatedWith": "Associated with Google",
+      "associatedWithLink": null
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Native or bilingual proficiency"
+    },
+    {
+      "name": "French",
+      "proficiency": "Elementary proficiency"
+    },
+    {
+      "name": "German",
+      "proficiency": "Elementary proficiency"
+    }
+  ],
+  "organizations": [],
+  "causes": [
+    "Arts and Culture",
+    "Children",
+    "Civil Rights and Social Action",
+    "Human Rights",
+    "Disaster and Humanitarian Relief",
+    "Science and Technology"
+  ],
+  "featured": {
+    "images": [],
+    "link": null,
+    "title": null,
+    "subtitle": null,
+    "slides": [
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6981270958401609728?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6981270958401609728%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/C5622AQEbsuQl25wusw/feedshare-image-high-res/feedshare-image-high-res/0/1664464701808?e=1784160000&v=beta&t=fMp77c7EWJmm4IZx9bibo-gspNCq1FvM4m9_KVGS4OU"
+        }
+      },
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7402610181228134400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7402610181228134400%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQEalwwswh-qoQ/feedshare-image-high-res/B56ZrszOqaLIAc-/0/1764909444371?e=1784160000&v=beta&t=OLq6O2t3HRxN22uqalDVCzXo_YR9NmiYaL-_6_9I5Pw"
+        }
+      },
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7408046152845029376?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7408046152845029376%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQE_gV24R0wzDA/feedshare-image-high-res/B56Zs5wDhbIEAo-/0/1766200458070?e=1784160000&v=beta&t=bcIUq-km5ugYIftG2jdrhgKARd2x5SgefQFpwVdIs-E"
+        }
+      },
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7214878197732032514?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7214878197732032514%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQFExWu3Oy-KqQ/feedshare-image-high-res/feedshare-image-high-res/0/1720154827932?e=1784160000&v=beta&t=SEu_jgCqiFp6u4v8TftTE8DcAYOLfi0X520aaY7rRQw"
+        }
+      },
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7195769755310407680?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7195769755310407680%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEdg-nGCDW8lg/feedshare-image-high-res/feedshare-image-high-res/0/1715581328545?e=1784160000&v=beta&t=hBxhTUQ1gGxN232rOIAC_yMCwtlNz2jMKBS44Y5ixeE"
+        }
+      }
+    ]
+  },
+  "composeOptionType": "UPSELL",
+  "moreProfiles": [
+    {
+      "id": "ACoAAAKopWIBYRJyn0hH9ILbyy9_S-XyyWspIF8",
+      "firstName": "Jeff",
+      "lastName": "Nyman",
+      "position": "Director of Quality Assurance at Omatic",
+      "publicIdentifier": "jeffnyman",
+      "linkedinUrl": "https://www.linkedin.com/in/jeffnyman"
+    },
+    {
+      "id": "ACoAACfzK1IB104x3gWRynuXCraEuAOMzGzzuIM",
+      "firstName": "Oliver",
+      "lastName": "Martin-Hirsch",
+      "position": "Staff Quality Engineer at Satalia",
+      "publicIdentifier": "oliver-martin-hirsch",
+      "linkedinUrl": "https://www.linkedin.com/in/oliver-martin-hirsch"
+    },
+    {
+      "id": "ACoAAByIteYBXfAXnHpEQ4w_0eRIziPsyzLP4PA",
+      "firstName": "Andrii",
+      "lastName": "Cheparskyi",
+      "position": "SDET & AI Integration Specialist | 10+ Years in QA | Building AI-Powered Automation Workflows & Writing What Actually Works",
+      "publicIdentifier": "cheparsky",
+      "linkedinUrl": "https://www.linkedin.com/in/cheparsky"
+    },
+    {
+      "id": "ACoAAAV0GXcBp9gQ2U4eI0p4HOpS2u6CS9KYkN8",
+      "firstName": "Ben",
+      "lastName": "F.",
+      "position": "Agency & Tech Founder with a Passion for Development & QA. Sometimes Cringy YouTuber.",
+      "publicIdentifier": "ben-f-44778426",
+      "linkedinUrl": "https://www.linkedin.com/in/ben-f-44778426"
+    },
+    {
+      "id": "ACoAAAAmyl8B3CATg5mnc2st1tfUyShFezL8WAg",
+      "firstName": "Gregory",
+      "lastName": "Goldshteyn",
+      "position": "Award-Winning Leader in Quality| Keynote Speaker | Innovator | Advocate for Software Perfection | Strategist. Actively shaping the future of AI in Testing",
+      "publicIdentifier": "gregorygoldshteyn",
+      "linkedinUrl": "https://www.linkedin.com/in/gregorygoldshteyn"
+    },
+    {
+      "id": "ACoAAAYLemoBNPGrUtWd2j5d7OgEetoPUwvWBFk",
+      "firstName": "Renata",
+      "lastName": "Andrade",
+      "position": "Quality Engineer Lead | Test Automation Engineer & Architect | DevOps Advocate | Speaker | Instructor",
+      "publicIdentifier": "raptatinha",
+      "linkedinUrl": "https://www.linkedin.com/in/raptatinha"
+    },
+    {
+      "id": "ACoAABPnENkBr6tbuox0cGjwCyVkN8dWYsFakhk",
+      "firstName": "Sergii",
+      "lastName": "Khromchenko",
+      "position": "CEO & Founder @ Codemify | QA Automation | Machine Learning | Real Startup Practice",
+      "publicIdentifier": "sergii-khromchenko",
+      "linkedinUrl": "https://www.linkedin.com/in/sergii-khromchenko"
+    },
+    {
+      "id": "ACoAAAKyRlMBr-NLAvbJug_f9SYljMasMD7HCiY",
+      "firstName": "Deepak",
+      "lastName": "Kamboj",
+      "position": "Senior Software Engineer @ Microsoft | Driving AI Strategy & Scalable AI Solutions @ Microsoft | Specializing in LangChain, Playwright, MCP and agent workflows | AI/ML Engineer | AI-Powered Test Automation | Speaker",
+      "publicIdentifier": "kambojdeepak",
+      "linkedinUrl": "https://www.linkedin.com/in/kambojdeepak"
+    },
+    {
+      "id": "ACoAAA6hkcMBJbk9ctuxRPqMP3lnq1TzXdzry-s",
+      "firstName": "Lucas",
+      "lastName": "Smit",
+      "position": "AI-first SDET | Rethinking quality engineering for the age of AI",
+      "publicIdentifier": "qalucas",
+      "linkedinUrl": "https://www.linkedin.com/in/qalucas"
+    },
+    {
+      "id": "ACoAABFv2boBG-CqjkEn1EsR3rBr2QKxmjrW1A0",
+      "firstName": "Dawid",
+      "lastName": "Dylowicz",
+      "position": "Director of Test Engineering @ Entrust | Helping 9,000+ software testers grow",
+      "publicIdentifier": "dawid-dylowicz",
+      "linkedinUrl": "https://www.linkedin.com/in/dawid-dylowicz"
+    },
+    {
+      "id": "ACoAADkxuTYBjQ066cv-e7w52z_YhBOCT1QeNpI",
+      "firstName": "Mina",
+      "lastName": "Athanasopoulou",
+      "position": "--",
+      "publicIdentifier": "mina-athanasopoulou-b06430229",
+      "linkedinUrl": "https://www.linkedin.com/in/mina-athanasopoulou-b06430229"
+    },
+    {
+      "id": "ACoAAGj7mKkBPEqmjxfTH3ZfZbFQWucsRgwS0JU",
+      "firstName": "ΓΙΩΡΓΟΣ",
+      "lastName": "ΛΥΚΟΤΡΑΦΙΤΗΣ",
+      "position": "--",
+      "publicIdentifier": "%CE%B3%CE%B9%CF%89%CF%81%CE%B3%CE%BF%CF%82-%CE%BB%CF%85%CE%BA%CE%BF%CF%84%CF%81%CE%B1%CF%86%CE%B9%CF%84%CE%B7%CF%82-a61a41411",
+      "linkedinUrl": "https://www.linkedin.com/in/%CE%B3%CE%B9%CF%89%CF%81%CE%B3%CE%BF%CF%82-%CE%BB%CF%85%CE%BA%CE%BF%CF%84%CF%81%CE%B1%CF%86%CE%B9%CF%84%CE%B7%CF%82-a61a41411"
+    },
+    {
+      "id": "ACoAAGnIHG0BCQKUN3KMJeeSt3m6PYqBDGyxK5s",
+      "firstName": "Σωτηρία",
+      "lastName": "Κυπραιου",
+      "position": "--",
+      "publicIdentifier": "%CF%83%CF%89%CF%84%CE%B7%CF%81%CE%AF%CE%B1-%CE%BA%CF%85%CF%80%CF%81%CE%B1%CE%B9%CE%BF%CF%85-351426416",
+      "linkedinUrl": "https://www.linkedin.com/in/%CF%83%CF%89%CF%84%CE%B7%CF%81%CE%AF%CE%B1-%CE%BA%CF%85%CF%80%CF%81%CE%B1%CE%B9%CE%BF%CF%85-351426416"
+    },
+    {
+      "id": "ACoAAGVMvUEBIT4B2f48N_87LlbO50JN6Hlymvg",
+      "firstName": "Μιχαήλ",
+      "lastName": "Ζουλουφός",
+      "position": "--",
+      "publicIdentifier": "%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%B6%CE%BF%CF%85%CE%BB%CE%BF%CF%85%CF%86%CF%8C%CF%82-1952033b5",
+      "linkedinUrl": "https://www.linkedin.com/in/%CE%BC%CE%B9%CF%87%CE%B1%CE%AE%CE%BB-%CE%B6%CE%BF%CF%85%CE%BB%CE%BF%CF%85%CF%86%CF%8C%CF%82-1952033b5"
+    },
+    {
+      "id": "ACoAAFxPKvcB_lje-CohILjMxwB6ntaMupsHWTI",
+      "firstName": "Φωτεινη",
+      "lastName": "Λιουδακη",
+      "position": "--",
+      "publicIdentifier": "%CF%86%CF%89%CF%84%CE%B5%CE%B9%CE%BD%CE%B7-%CE%BB%CE%B9%CE%BF%CF%85%CE%B4%CE%B1%CE%BA%CE%B7-b077a1372",
+      "linkedinUrl": "https://www.linkedin.com/in/%CF%86%CF%89%CF%84%CE%B5%CE%B9%CE%BD%CE%B7-%CE%BB%CE%B9%CE%BF%CF%85%CE%B4%CE%B1%CE%BA%CE%B7-b077a1372"
+    },
+    {
+      "id": "ACoAAE0VKg4BKzS6UaZujDzPjpzzo1SiZ6J3dks",
+      "firstName": "ΕΥΘΥΜΙΟΣ",
+      "lastName": "ΚΑΠΩΝΗΣ",
+      "position": "--",
+      "publicIdentifier": "%CE%B5%CF%85%CE%B8%CF%85%CE%BC%CE%B9%CE%BF%CF%82-%CE%BA%CE%B1%CF%80%CF%89%CE%BD%CE%B7%CF%82-63a126301",
+      "linkedinUrl": "https://www.linkedin.com/in/%CE%B5%CF%85%CE%B8%CF%85%CE%BC%CE%B9%CE%BF%CF%82-%CE%BA%CE%B1%CF%80%CF%89%CE%BD%CE%B7%CF%82-63a126301"
+    },
+    {
+      "id": "ACoAAEghseEBm-7aa73yooeSGTmYdj9CiXt_M1o",
+      "firstName": "Panagiotis",
+      "lastName": "Kolokathis",
+      "position": "--",
+      "publicIdentifier": "panagiotis-kolokathis-6a9348299",
+      "linkedinUrl": "https://www.linkedin.com/in/panagiotis-kolokathis-6a9348299"
+    },
+    {
+      "id": "ACoAAFVfuq8B4DMbfH57-lYMT7RgmtDW4MvOb_g",
+      "firstName": "Ευφροσύνη",
+      "lastName": "Τσιώλη",
+      "position": "--",
+      "publicIdentifier": "%CE%B5%CF%85%CF%86%CF%81%CE%BF%CF%83%CF%8D%CE%BD%CE%B7-%CF%84%CF%83%CE%B9%CF%8E%CE%BB%CE%B7-92782a33b",
+      "linkedinUrl": "https://www.linkedin.com/in/%CE%B5%CF%85%CF%86%CF%81%CE%BF%CF%83%CF%8D%CE%BD%CE%B7-%CF%84%CF%83%CE%B9%CF%8E%CE%BB%CE%B7-92782a33b"
+    },
+    {
+      "id": "ACoAAGkTuUYBPhq3MjBLFCFKATndDQ_XiSMJmAw",
+      "firstName": "Κατερίνα",
+      "lastName": "Τσουκαρή",
+      "position": "--",
+      "publicIdentifier": "%CE%BA%CE%B1%CF%84%CE%B5%CF%81%CE%AF%CE%BD%CE%B1-%CF%84%CF%83%CE%BF%CF%85%CE%BA%CE%B1%CF%81%CE%AE-b1a484412",
+      "linkedinUrl": "https://www.linkedin.com/in/%CE%BA%CE%B1%CF%84%CE%B5%CF%81%CE%AF%CE%BD%CE%B1-%CF%84%CF%83%CE%BF%CF%85%CE%BA%CE%B1%CF%81%CE%AE-b1a484412"
+    },
+    {
+      "id": "ACoAAGXODZcBcvQxYUipf2DtysBY3lGEEvS3wP8",
+      "firstName": "Γιάννης",
+      "lastName": "Σαχίνης",
+      "position": "--",
+      "publicIdentifier": "%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CF%83%CE%B1%CF%87%CE%AF%CE%BD%CE%B7%CF%82-5b300b3b8",
+      "linkedinUrl": "https://www.linkedin.com/in/%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CF%83%CE%B1%CF%87%CE%AF%CE%BD%CE%B7%CF%82-5b300b3b8"
+    }
+  ],
+  "interests": [
+    {
+      "interestName": "Top Voices",
+      "elements": [
+        {
+          "title": "Alex Pall",
+          "subtitle": "Founder @ The Chainsmokers + Mantis Venture Capital | Early-Stage Investor | Innovation, Technology & Culture",
+          "link": "https://www.linkedin.com/in/alex-pall-9921b7244",
+          "caption": "73,766 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQGinRP_6UU09A/profile-displayphoto-crop_800_800/B4EZq86J3UKMAM-/0/1764105958584?e=1784160000&v=beta&t=f3wWNgKSjU1j7fjcNTt-IIXezkzcVH2f11ewZF4exrw"
+          }
+        },
+        {
+          "title": "Kevin Weil",
+          "subtitle": "Thinking about new things. Board member at Cisco & The Nature Conservancy. LTC, Army Reserves. Prev: CPO + VP Science at OpenAI, President at Planet, co-creator Libra, Head of Product at Instagram and Twitter.",
+          "link": "https://www.linkedin.com/in/kevinweil",
+          "caption": "159,244 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C5603AQG9mkkJXluKIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1586438108683?e=1784160000&v=beta&t=84Ug_cdbVlGaRj7YDHNQQIYuHGRQQ5t6WnuilFGjmQk"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Companies",
+      "elements": [
+        {
+          "title": "IBM",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1009/",
+          "caption": "19,641,566 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1784160000&v=beta&t=psu1Mls4v1mdFDCNWHms9IqibYB9_RT1QOImkS-iKXQ"
+          }
+        },
+        {
+          "title": "Google",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/company/1441/",
+          "caption": "41,979,508 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1784160000&v=beta&t=8XX6ZtswymQLN-nf_DxRVkM99HLSwueTvjKCV3giYzA"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Groups",
+      "elements": [
+        {
+          "title": "Web Design and Development",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/48650",
+          "caption": "37,946 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D07AQG_MG1HvVdmtQ/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1631358469661?e=1783242000&v=beta&t=4FZqYIEocCbwshTH15cUgoYzJ3yjn4-fyDdxjgkknko"
+          }
+        },
+        {
+          "title": "Learning, Education, and Training Professionals Group",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/groups/27003",
+          "caption": "1,390,465 members",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E07AQHh27uUzwoTgw/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1726467500458?e=1783242000&v=beta&t=h33gb5o_o1U3Bt1sDnDwfQCheR2AIQSva3tAYjgFCFQ"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Newsletters",
+      "elements": [
+        {
+          "title": "Transformation Today",
+          "subtitle": "Stories, interviews, and musings on technology innovations happening now from senior leaders like you.",
+          "link": "https://www.linkedin.com/newsletters/7058789513858310144",
+          "caption": "Published biweekly",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E12AQEQgRo7bQz-Ew/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1682946556534?e=1784160000&v=beta&t=hM5NjN31R07_AJmLarRMfR14pqMem9H8mq99QEpc6oA"
+          }
+        },
+        {
+          "title": "Journal of discoveries",
+          "subtitle": "Pique your curiosity with the best articles on personal development, leadership, technology, and innovation.",
+          "link": "https://www.linkedin.com/newsletters/6921396423909359616",
+          "caption": "Published weekly",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E12AQHlke3KvRO_AQ/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1650189475788?e=1784160000&v=beta&t=05WXf5NCsr3qqg0i6Vk_uXWBi_YgaLxjbJOh1ktVdoQ"
+          }
+        }
+      ]
+    },
+    {
+      "interestName": "Schools",
+      "elements": [
+        {
+          "title": "freeCodeCamp",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/4831032/",
+          "caption": "2,267,454 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGLKj3JHcof0w/company-logo_400_400/company-logo_400_400/0/1630639684997/free_code_camp_logo?e=1784160000&v=beta&t=MYbUUC1a1yNViXW3YIgILlbhkxevEDU0AoWZTgmmHoY"
+          }
+        },
+        {
+          "title": "Y Combinator",
+          "subtitle": null,
+          "link": "https://www.linkedin.com/school/167872/",
+          "caption": "1,725,247 followers",
+          "image": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1784160000&v=beta&t=MnRugexQtAdgOdD44gz02LIGNw2ZYv1KkTTaQQ4P19c"
+          }
+        }
+      ]
+    }
+  ],
+  "originalQuery": {
+    "url": "https://www.linkedin.com/in/addyosmani/"
+  }
+}]

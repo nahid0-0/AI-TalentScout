@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recruitment Screening Assistant</title>
+  <meta name="description"
+    content="Evaluate LinkedIn candidate profiles against Ideal Candidate Profiles (ICP) with structured AI scoring.">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+</head>
+
+<body>
+
+  <main class="container">
+    <header>
+      <h1>Candidate Screening Assistant</h1>
+      <p>Evaluate candidates against your Ideal Candidate Profile (ICP) using structured AI scoring</p>
+    </header>
+
+    <section class="card">
+      <form id="screeningForm" onsubmit="handleFormSubmit(event)">
+
+        <!-- ICP URL Input -->
+        <div class="form-group">
+          <label for="icpUrl">Ideal Candidate Profile (ICP) URL <span style="color:#f87171;font-weight:700;">(Required)</span></label>
+          <div class="input-wrapper">
+            <svg class="input-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+            </svg>
+            <input type="url" id="icpUrl" name="icpUrl" placeholder="https://linkedin.com/in/ideal-candidate-profile">
+          </div>
+        </div>
+
+        <!-- CSV File Input -->
+        <div class="form-group">
+          <label for="candidateCsv">Candidate Profile Data (CSV - Optional)</label>
+          <div class="file-dropzone" id="dropzone">
+            <input type="file" id="candidateCsv" name="candidateCsv" accept=".csv" onchange="handleFileSelect(event)">
+            <div class="dropzone-content">
+              <svg class="dropzone-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+              </svg>
+              <div class="dropzone-text">Click to upload or drag and drop</div>
+              <div class="dropzone-hint">CSV file with LinkedIn profile URLs</div>
+            </div>
+          </div>
+          <div id="selectedFile" class="selected-file"></div>
+        </div>
+
+        <!-- Mock JSON Input -->
+        <div class="form-group">
+          <label for="mockJson">Mock Raw Profile JSON (paste Apify output here — no API calls needed)</label>
+          <textarea id="mockJson" name="mockJson" rows="6"
+            placeholder='Paste raw Apify profile array here, e.g. [{"companyLogo":"...","firstName":"Anna","lastName":"Smith",...}, ...]&#10;&#10;First item = ICP (if ICP URL is set), rest = candidates.'></textarea>
+          <div style="margin-top: 0.6rem; display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap;">
+            <button type="button" class="btn-icon-sm" onclick="loadCombinedMock()"
+              style="background: rgba(167,139,250,0.15); border-color: rgba(167,139,250,0.4); color: #a78bfa; padding: 0.45rem 0.9rem; font-weight: 600;">
+              📂 Load combined_mock.json
+            </button>
+            <button type="button" class="btn-icon-sm" onclick="processMockJsonDirectly()"
+              style="background: rgba(56,189,248,0.15); border-color: rgba(56,189,248,0.4); color: #38bdf8; padding: 0.45rem 0.9rem; font-weight: 600;">
+              ⚡ Filter &amp; Display Mock JSON
+            </button>
+            <button type="button" class="btn-icon-sm" onclick="clearMockJson()">Clear Mock</button>
+          </div>
+        </div>
+
+        <!-- Rubric -->
+        <div class="rubric-summary">
+          <div class="rubric-title">Scoring Rubric (LLM Evaluation)</div>
+          <div class="pills-grid">
+            <div class="pill">Degree Match <span>0-30 pts</span></div>
+            <div class="pill">Grad Year 2025/26 <span>0-20 pts</span></div>
+            <div class="pill">Located in US <span>0-15 pts</span></div>
+            <div class="pill">AutoCAD / Tools <span>0-15 pts</span></div>
+            <div class="pill">Entry-level Signals <span>0-10 pts</span></div>
+            <div class="pill">Telecom / OSP <span>0-10 pts</span></div>
+          </div>
+        </div>
+
+        <!-- Submit -->
+        <div style="display:flex; gap:0.75rem; align-items:center; flex-wrap:wrap;">
+          <button type="submit" class="btn-submit" id="submitBtn">Screen Candidates</button>
+          <button type="button" onclick="clearSession()" style="padding:0.7rem 1.2rem; background:rgba(248,113,113,0.12); border:1px solid rgba(248,113,113,0.35); color:#f87171; border-radius:10px; font-weight:600; font-size:0.875rem; cursor:pointer;">🗑 Clear Session</button>
+        </div>
+      </form>
+
+
+      <!-- ══ 6 OUTPUT FIELDS ═══════════════════════════════════════════════════ -->
+      <div id="sixFieldsSection" style="display:none; margin-top:2rem;">
+        <h2
+          style="font-size:1.1rem;font-weight:700;color:var(--accent-color);margin-bottom:1.25rem;text-transform:uppercase;letter-spacing:0.05em;">
+          Filtered Profiles — Ideal Candidate + Up to 5 Candidates
+        </h2>
+
+        <!-- ICP Field -->
+        <div class="output-card" style="margin-bottom:1.25rem;">
+          <div class="output-header">
+            <div class="output-title-wrapper" onclick="toggleCollapse('fieldICP','chevICP')">
+              <svg id="chevICP" class="chevron-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+              <label>⭐ Ideal Candidate Profile (ICP)</label>
+            </div>
+            <button type="button" class="btn-icon-sm" onclick="copyToClipboard('fieldICP',this)">
+              <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+              <span>Copy JSON</span>
+            </button>
+          </div>
+          <div id="fieldICP" class="results-preview" style="border-color:#818cf8;"></div>
+        </div>
+
+        <!-- Candidate 1 -->
+        <div class="output-card" style="margin-bottom:1.25rem;">
+          <div class="output-header">
+            <div class="output-title-wrapper" onclick="toggleCollapse('fieldCand1','chevCand1')">
+              <svg id="chevCand1" class="chevron-icon" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+              <label id="labelCand1">Candidate 1</label>
+            </div>
+            <button type="button" class="btn-icon-sm" onclick="copyToClipboard('fieldCand1',this)">
+              <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+              <span>Copy JSON</span>
+            </button>
+          </div>
+          <div id="fieldCand1" class="results-preview" style="border-color:#38bdf8;"></div>
+        </div>
+
+        <!-- Candidate 2 -->
+        <div class="output-card" style="margin-bottom:1.25rem;">
+          <div class="output-header">
+            <div class="output-title-wrapper" onclick="toggleCollapse('fieldCand2','chevCand2')">
+              <svg id="chevCand2" class="chevron-icon" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+              <label id="labelCand2">Candidate 2</label>
+            </div>
+            <button type="button" class="btn-icon-sm" onclick="copyToClipboard('fieldCand2',this)">
+              <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+              <span>Copy JSON</span>
+            </button>
+          </div>
+          <div id="fieldCand2" class="results-preview" style="border-color:#34d399;"></div>
+        </div>
+
+        <!-- Candidate 3 -->
+        <div class="output-card" style="margin-bottom:1.25rem;">
+          <div class="output-header">
+            <div class="output-title-wrapper" onclick="toggleCollapse('fieldCand3','chevCand3')">
+              <svg id="chevCand3" class="chevron-icon" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+              <label id="labelCand3">Candidate 3</label>
+            </div>
+            <button type="button" class="btn-icon-sm" onclick="copyToClipboard('fieldCand3',this)">
+              <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+              <span>Copy JSON</span>
+            </button>
+          </div>
+          <div id="fieldCand3" class="results-preview" style="border-color:#fbbf24;"></div>
+        </div>
+
+        <!-- Candidate 4 -->
+        <div class="output-card" style="margin-bottom:1.25rem;">
+          <div class="output-header">
+            <div class="output-title-wrapper" onclick="toggleCollapse('fieldCand4','chevCand4')">
+              <svg id="chevCand4" class="chevron-icon" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+              <label id="labelCand4">Candidate 4</label>
+            </div>
+            <button type="button" class="btn-icon-sm" onclick="copyToClipboard('fieldCand4',this)">
+              <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+              <span>Copy JSON</span>
+            </button>
+          </div>
+          <div id="fieldCand4" class="results-preview" style="border-color:#f87171;"></div>
+        </div>
+
+        <!-- Candidate 5 -->
+        <div class="output-card" style="margin-bottom:1.25rem;">
+          <div class="output-header">
+            <div class="output-title-wrapper" onclick="toggleCollapse('fieldCand5','chevCand5')">
+              <svg id="chevCand5" class="chevron-icon" xmlns="http://www.w3.org/2000/svg" fill="none"
+                viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+              <label id="labelCand5">Candidate 5</label>
+            </div>
+            <button type="button" class="btn-icon-sm" onclick="copyToClipboard('fieldCand5',this)">
+              <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+              <span>Copy JSON</span>
+            </button>
+          </div>
+          <div id="fieldCand5" class="results-preview" style="border-color:#c084fc;"></div>
+        </div>
+
+        <!-- Evaluate Section — only visible after profiles are loaded -->
+        <div id="evaluateSection" style="display:none; flex-direction:column; gap:1.25rem; margin-top:1.5rem;">
+          <div style="display:flex; align-items:center; gap:0.75rem; background:#1e1b4b; border:1px solid #4c1d95; padding:0.75rem; border-radius:8px; flex-wrap:wrap;">
+            <label for="thresholdInput" style="font-size:0.875rem; color:#e9d5ff; font-weight:600; margin:0;">AI Qualification Threshold Score:</label>
+            <input type="number" id="thresholdInput" min="1" max="100" value="75" style="width:70px; background:#0f172a; color:#fff; border:1px solid #818cf8; border-radius:6px; padding:0.35rem 0.5rem; font-size:0.9rem; text-align:center; font-weight:700;">
+            <span style="font-size:0.75rem; color:#a5b4fc;">(Candidates scoring at or above this threshold will be highlighted)</span>
+          </div>
+
+          <button type="button" id="evaluateBtn" class="btn-evaluate" onclick="runEvaluation()" style="width:100%;">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="18"
+              height="18">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+            </svg>
+            Evaluate Candidates with AI
+          </button>
+        </div>
+      </div>
+
+      <!-- ══ AI EVALUATION DASHBOARD ════════════════════════════════════════════ -->
+      <div id="evaluationDashboard" style="display:none; margin-top:2.5rem;">
+        <div
+          style="display:flex;align-items:center;justify-content:space-between;margin-bottom:1.5rem;flex-wrap:wrap;gap:1rem;">
+          <h2
+            style="font-size:1.1rem;font-weight:700;color:#a78bfa;text-transform:uppercase;letter-spacing:0.05em;margin:0;">
+            🤖 AI Evaluation Results
+          </h2>
+          <div style="display:flex; gap:0.6rem; align-items:center; flex-wrap:wrap;">
+            <button type="button" id="downloadBtn" class="btn-download" onclick="downloadExcel()" style="display:none;">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="16" height="16">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+              </svg>
+              Download Session Excel
+            </button>
+            <button type="button" id="downloadMasterBtn" class="btn-download" onclick="downloadMasterExcel()" style="display:none; background: linear-gradient(135deg, #4f46e5, #818cf8); color: #fff; box-shadow: 0 3px 12px rgba(99, 102, 241, 0.35);">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="16" height="16">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z" />
+              </svg>
+              Download Master Excel (Server)
+            </button>
+          </div>
+        </div>
+        <div id="evaluationCards"></div>
+      </div>
+
+      <!-- Raw JSON Output -->
+      <div id="rawSection" style="display:none; margin-top:1.5rem;">
+        <div class="output-header">
+          <div class="output-title-wrapper" onclick="toggleCollapse('resultsPreview','rawChevron')">
+            <svg id="rawChevron" class="chevron-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+            <label>Full Pipeline Raw API Response</label>
+          </div>
+          <button type="button" class="btn-icon-sm" onclick="copyToClipboard('resultsPreview',this)">
+            <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+            </svg>
+            <span>Copy JSON</span>
+          </button>
+        </div>
+        <div id="resultsPreview" class="results-preview"></div>
+      </div>
+    </section>
+
+    <footer>Recruitment Screening Assistant &bull; Single-Page Application</footer>
+  </main>
+
+  <script>
+    // ── Global state ────────────────────────────────────────────────────────────
+    let _lastPipelineData = null;
+
+    // ── Restore state from localStorage on load ────────────────────────────────
+    window.addEventListener('DOMContentLoaded', () => {
+      try {
+        const savedPipeline = localStorage.getItem('_lastPipelineData');
+        const savedEvals    = localStorage.getItem('_evalResults');
+        const savedIcpUrl   = localStorage.getItem('_icpUrl');
+
+        if (savedIcpUrl) document.getElementById('icpUrl').value = savedIcpUrl;
+
+        if (savedPipeline) {
+          const data = JSON.parse(savedPipeline);
+          document.getElementById('sixFieldsSection').style.display = 'block';
+          document.getElementById('rawSection').style.display = 'block';
+          setField('resultsPreview', data.raw_data ?? data);
+          populateSixFields(data, savedIcpUrl || '');
+        }
+
+        if (savedEvals) {
+          const results = JSON.parse(savedEvals);
+          window._evalResults = results;
+          const dashboard = document.getElementById('evaluationDashboard');
+          const cards     = document.getElementById('evaluationCards');
+          const threshold = parseInt(document.getElementById('thresholdInput').value) || 75;
+          dashboard.style.display = 'block';
+          const sorted = [...results].sort((a, b) => b.score - a.score);
+          cards.innerHTML = sorted.map((r, i) => buildEvalCard(r, i)).join('');
+          document.getElementById('downloadBtn').style.display = 'flex';
+          document.getElementById('downloadMasterBtn').style.display = 'flex';
+        }
+      } catch(e) { console.warn('State restore failed:', e); }
+    });
+
+    // ── Dropzone ───────────────────────────────────────────────────────────────
+    const dropzone = document.getElementById('dropzone');
+    ['dragenter', 'dragover'].forEach(e => dropzone.addEventListener(e, ev => { ev.preventDefault(); dropzone.classList.add('dragover'); }, false));
+    ['dragleave', 'drop'].forEach(e => dropzone.addEventListener(e, ev => { ev.preventDefault(); dropzone.classList.remove('dragover'); }, false));
+
+    function handleFileSelect(event) {
+      const file = event.target.files[0];
+      const div = document.getElementById('selectedFile');
+      if (file) { div.textContent = `Selected: ${file.name} (${(file.size / 1024).toFixed(1)} KB)`; div.style.display = 'block'; }
+      else { div.style.display = 'none'; }
+    }
+
+    // ── UI helpers ─────────────────────────────────────────────────────────────
+    function toggleCollapse(boxId, chevId) {
+      document.getElementById(boxId).classList.toggle('hidden-box');
+      document.getElementById(chevId).classList.toggle('collapsed');
+    }
+
+    async function copyToClipboard(boxId, btn) {
+      const text = document.getElementById(boxId).textContent;
+      if (!text) return;
+      try {
+        await navigator.clipboard.writeText(text);
+        const span = btn.querySelector('span');
+        const orig = span.textContent;
+        span.textContent = 'Copied!'; btn.style.borderColor = '#38bdf8'; btn.style.color = '#38bdf8';
+        setTimeout(() => { span.textContent = orig; btn.style.borderColor = ''; btn.style.color = ''; }, 1800);
+      } catch (e) { }
+    }
+
+    async function copyText(text, btn) {
+      try {
+        await navigator.clipboard.writeText(text);
+        const orig = btn.textContent;
+        btn.textContent = '✓ Copied!'; btn.style.color = '#34d399';
+        setTimeout(() => { btn.textContent = orig; btn.style.color = ''; }, 1800);
+      } catch (e) { }
+    }
+
+    function setField(id, content) {
+      const el = document.getElementById(id);
+      if (el) el.textContent = typeof content === 'string' ? content : JSON.stringify(content, null, 2);
+    }
+
+    // ── Profile cleaning (mirrors backend) ────────────────────────────────────
+    const SCORING_FIELDS = new Set([
+      'id', 'publicIdentifier', 'linkedinUrl', 'firstName', 'lastName', 'headline',
+      'location', 'about', 'topSkills', 'connectionsCount', 'followerCount', 'verified',
+      'currentPosition', 'experience', 'education', 'skills', 'certifications',
+      'publications', 'honorsAndAwards', 'projects', 'volunteering', 'languages'
+    ]);
+    const LOGO_KEYS = new Set(['companyLogo', 'schoolLogo', 'issuedByLogo']);
+
+    function stripLogos(items) {
+      if (!Array.isArray(items)) return items;
+      return items.map(item => (!item || typeof item !== 'object') ? item
+        : Object.fromEntries(Object.entries(item).filter(([k]) => !LOGO_KEYS.has(k))));
+    }
+
+    function cleanProfile(p) {
+      if (!p || typeof p !== 'object') return p;
+      const r = {};
+      for (const f of SCORING_FIELDS) {
+        if (!(f in p)) continue;
+        r[f] = ['currentPosition', 'experience', 'education', 'certifications'].includes(f)
+          ? stripLogos(p[f]) : p[f];
+      }
+      return r;
+    }
+
+    function getCandidateName(p) {
+      if (!p) return 'No Data';
+      if (p.firstName || p.lastName) return `${p.firstName || ''} ${p.lastName || ''}`.trim();
+      return p.publicIdentifier || p.linkedinUrl || 'Unknown';
+    }
+
+    // ── Populate the 6 fields ─────────────────────────────────────────────────
+    function populateSixFields(data, icpUrl) {
+      _lastPipelineData = data;
+      // Persist to localStorage so a reload restores everything
+      try {
+        localStorage.setItem('_lastPipelineData', JSON.stringify(data));
+        if (icpUrl) localStorage.setItem('_icpUrl', icpUrl);
+      } catch(e) {}
+
+      // ICP field
+      if (data.icp_data && typeof data.icp_data === 'object' && Object.keys(data.icp_data).length > 0) {
+        setField('fieldICP', cleanProfile(data.icp_data));
+      } else {
+        setField('fieldICP', { icp_description: icpUrl || '', note: 'No ICP profile data — provide a LinkedIn URL in the ICP field.' });
+      }
+
+      // Candidate fields 1-5
+      const cands = Array.isArray(data.candidates_data) ? data.candidates_data : [];
+      let hasAnyCand = false;
+      for (let i = 1; i <= 5; i++) {
+        const cand = cands[i - 1];
+        const label = document.getElementById(`labelCand${i}`);
+        if (cand && typeof cand === 'object') {
+          hasAnyCand = true;
+          if (label) label.textContent = `Candidate ${i}: ${getCandidateName(cand)}`;
+          setField(`fieldCand${i}`, cleanProfile(cand));
+        } else {
+          if (label) label.textContent = `Candidate ${i}`;
+          setField(`fieldCand${i}`, `// No data for candidate slot ${i}`);
+        }
+      }
+
+      // Show evaluate section only when we actually have candidates
+      document.getElementById('evaluateSection').style.display = hasAnyCand ? 'flex' : 'none';
+    }
+
+    // ── Mock JSON (no API calls) ───────────────────────────────────────────────
+    function clearMockJson() { document.getElementById('mockJson').value = ''; }
+
+    function clearSession() {
+      localStorage.removeItem('_lastPipelineData');
+      localStorage.removeItem('_evalResults');
+      localStorage.removeItem('_icpUrl');
+      _lastPipelineData = null;
+      window._evalResults = null;
+      // Hide all output sections
+      ['sixFieldsSection','rawSection','evaluationDashboard','evaluateSection'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.style.display = 'none';
+      });
+      ['downloadBtn','downloadMasterBtn'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.style.display = 'none';
+      });
+      // Clear all output fields
+      ['fieldICP','fieldCand1','fieldCand2','fieldCand3','fieldCand4','fieldCand5','resultsPreview'].forEach(id => setField(id, ''));
+      document.getElementById('evaluationCards').innerHTML = '';
+      document.getElementById('icpUrl').value = '';
+      document.getElementById('mockJson').value = '';
+    }
+
+
+    function _parseMockJson(rawJson, icpUrl) {
+      const parsed = JSON.parse(rawJson);
+      let icpData = null, candidatesData = [];
+
+      if (Array.isArray(parsed)) {
+        // Treat first array item as ICP if ICP URL is set OR if the array has multiple profiles
+        const hasIcp = (icpUrl && icpUrl.trim().length > 0) || parsed.length > 1;
+        if (hasIcp && parsed.length > 0) {
+          icpData = cleanProfile(parsed[0]);
+          candidatesData = parsed.slice(1).map(cleanProfile);
+        } else {
+          candidatesData = parsed.map(cleanProfile);
+        }
+      } else if (parsed && typeof parsed === 'object') {
+        if ('icp_data' in parsed || 'candidates_data' in parsed) {
+          if (parsed.icp_data) icpData = cleanProfile(parsed.icp_data);
+          if (parsed.candidates_data) candidatesData = (parsed.candidates_data || []).map(cleanProfile);
+        } else {
+          candidatesData = [cleanProfile(parsed)];
+        }
+      }
+
+      return {
+        urls: candidatesData.map(c => c.linkedinUrl || '').filter(Boolean),
+        icp_description: icpUrl || 'Mock JSON input',
+        invalid_rows: [],
+        icp_data: icpData,
+        candidates_data: candidatesData,
+        raw_data: Array.isArray(parsed) ? parsed : [parsed]  // preserve raw for display
+      };
+    }
+
+    async function loadCombinedMock() {
+      try {
+        const res = await fetch('combined_mock.json');
+        if (res.ok) {
+          const text = await res.text();
+          document.getElementById('mockJson').value = text;
+          document.getElementById('icpUrl').value = 'https://www.linkedin.com/in/anna-gutowska';
+        } else {
+          alert('Could not auto-load combined_mock.json file.');
+        }
+      } catch (e) {
+        alert('Failed to load combined_mock.json: ' + e.message);
+      }
+    }
+
+    function processMockJsonDirectly() {
+      const rawJson = document.getElementById('mockJson').value.trim();
+      const icpUrl = document.getElementById('icpUrl').value.trim();
+      if (!icpUrl) { alert('Ideal Candidate Profile (ICP) URL is mandatory! Please enter an ICP URL before testing.'); return; }
+      if (!rawJson) { alert('Please paste raw JSON into the Mock JSON field.'); return; }
+
+      document.getElementById('sixFieldsSection').style.display = 'block';
+      document.getElementById('rawSection').style.display = 'block';
+
+      try {
+        const result = _parseMockJson(rawJson, icpUrl);
+        setField('resultsPreview', result.raw_data);  // raw in preview
+        populateSixFields(result, icpUrl);
+      } catch (err) {
+        alert('Invalid JSON: ' + err.message);
+      }
+    }
+
+    // ── Screen Candidates (submit) ─────────────────────────────────────────────
+    async function handleFormSubmit(event) {
+      event.preventDefault();
+      const submitBtn = document.getElementById('submitBtn');
+      const icpUrl = document.getElementById('icpUrl').value.trim();
+      const fileInput = document.getElementById('candidateCsv');
+      const mockJsonVal = document.getElementById('mockJson').value.trim();
+
+      if (!icpUrl) {
+        alert('Ideal Candidate Profile (ICP) URL is mandatory! Please enter an ICP URL before proceeding.');
+        return;
+      }
+
+      if (!fileInput.files[0] && !mockJsonVal) {
+        alert('Please select a CSV file or paste mock JSON data.');
+        return;
+      }
+
+      document.getElementById('sixFieldsSection').style.display = 'block';
+      document.getElementById('rawSection').style.display = 'block';
+      document.getElementById('evaluationDashboard').style.display = 'none';
+      document.getElementById('evaluateSection').style.display = 'none';
+
+      // ── MOCK MODE — purely client-side, no spinner / disabled button needed ──
+      if (mockJsonVal) {
+        setField('fieldICP', '// Processing...');
+        for (let i = 1; i <= 5; i++) setField(`fieldCand${i}`, `// Processing candidate ${i}...`);
+        setField('resultsPreview', '// Processing...');
+        try {
+          const result = _parseMockJson(mockJsonVal, icpUrl);
+          setField('resultsPreview', result.raw_data);  // raw in preview
+          populateSixFields(result, icpUrl);
+        } catch (err) {
+          alert('Invalid JSON: ' + err.message);
+          setField('resultsPreview', '// JSON parse error: ' + err.message);
+        }
+        return;
+      }
+
+      // ── LIVE MODE — call backend ──────────────────────────────────────────────
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Running Pipeline...';
+      setField('fieldICP', '// Processing...');
+      for (let i = 1; i <= 5; i++) setField(`fieldCand${i}`, `// Processing candidate ${i}...`);
+      setField('resultsPreview', '// Sending to POST http://localhost:8000/run-pipeline ...');
+
+      try {
+        const formData = new FormData();
+        formData.append('csv_file', fileInput.files[0]);
+        formData.append('icp_description', icpUrl);
+
+        const response = await fetch('http://localhost:8000/run-pipeline', { method: 'POST', body: formData });
+
+        if (response.ok) {
+          const data = await response.json();
+          setField('resultsPreview', data.raw_data ?? data);  // raw in preview
+          populateSixFields(data, icpUrl);
+        } else {
+          const err = await response.json();
+          setField('resultsPreview', `// Error (${response.status}):\n` + JSON.stringify(err, null, 2));
+          setField('fieldICP', '// Pipeline returned an error.');
+          for (let i = 1; i <= 5; i++) setField(`fieldCand${i}`, '// Pipeline returned an error.');
+        }
+      } catch (err) {
+        // Offline fallback demo data
+        const demo = {
+          icp_description: icpUrl,
+          icp_data: {
+            publicIdentifier: 'anna-gutowska', linkedinUrl: icpUrl,
+            firstName: 'Anna', lastName: 'Gutowska',
+            headline: 'Head of Talent Acquisition & Recruitment',
+            location: { linkedinText: 'Warsaw, Poland' },
+            education: [{ schoolName: 'University of Warsaw', degree: 'MA', fieldOfStudy: 'Human Resources', period: '2010 - 2012' }],
+            skills: [{ name: 'Talent Acquisition' }], certifications: [], projects: [], honorsAndAwards: []
+          },
+          candidates_data: [{
+            publicIdentifier: 'hamid-ali', linkedinUrl: 'https://www.linkedin.com/in/hamid-ali-03075156742',
+            firstName: 'Hamid', lastName: 'Ali',
+            headline: 'Senior AI | ML Engineer',
+            location: { linkedinText: 'Punjab, Pakistan' },
+            education: [{ schoolName: 'NUCES', degree: 'MS', fieldOfStudy: 'Data Science', period: '2018 - 2020' }],
+            skills: [{ name: 'Python' }], certifications: [], projects: [], honorsAndAwards: []
+          }]
+        };
+        setField('resultsPreview', '// [Server offline — showing demo data. Start: ./venv/bin/uvicorn main:app --reload]');
+        populateSixFields(demo, icpUrl);
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Screen Candidates';
+      }
+    }
+
+    // ── AI Evaluation ──────────────────────────────────────────────────────────
+    function scoreColor(s, threshold = 75) { return s >= threshold ? '#34d399' : s >= Math.max(30, threshold - 20) ? '#fbbf24' : '#f87171'; }
+    function scoreBg(s, threshold = 75) { return s >= threshold ? 'rgba(52,211,153,0.08)' : s >= Math.max(30, threshold - 20) ? 'rgba(251,191,36,0.08)' : 'rgba(248,113,113,0.08)'; }
+
+    function buildEvalCard(r, index) {
+      const threshold = parseInt(document.getElementById('thresholdInput')?.value) || 75;
+      const col = scoreColor(r.score, threshold), bg = scoreBg(r.score, threshold);
+      const emailHtml = r.outreach_email ? `
+        <div class="eval-email-section">
+          <div class="eval-email-label">📧 Outreach Email</div>
+          <div class="eval-email-body">${r.outreach_email.replace(/\n/g, '<br>')}</div>
+          <button type="button" class="btn-copy-email" onclick="copyText(${JSON.stringify(r.outreach_email)},this)">Copy Email</button>
+        </div>` : '';
+
+      return `<div class="eval-card" style="border-left-color:${col};background:linear-gradient(135deg,${bg},rgba(15,23,42,0.97));">
+        <div class="eval-card-header">
+          <div class="eval-left">
+            <div class="eval-rank">#${index + 1}</div>
+            <div>
+              <div class="eval-name">${r.name}</div>
+              ${r.linkedinUrl ? `<a href="${r.linkedinUrl}" target="_blank" class="eval-url">${r.linkedinUrl}</a>` : ''}
+            </div>
+          </div>
+          <div class="eval-right">
+            <div class="eval-score-ring"><span class="eval-score-num" style="color:${col};">${r.score}</span><span class="eval-score-label">/100</span></div>
+          </div>
+        </div>
+        <div class="eval-progress-bar"><div class="eval-progress-fill" style="width:${r.score}%;background:${col};"></div></div>
+        <div class="eval-justification">${r.justification}</div>
+        ${emailHtml}
+      </div>`;
+    }
+
+
+    async function runEvaluation() {
+      if (!_lastPipelineData) { alert('Please screen candidates first.'); return; }
+
+      const btn = document.getElementById('evaluateBtn');
+      btn.disabled = true;
+      btn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="18" height="18" style="animation:spin 1s linear infinite;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg> Evaluating…';
+
+      const dashboard = document.getElementById('evaluationDashboard');
+      const cards = document.getElementById('evaluationCards');
+      dashboard.style.display = 'block';
+      const n = (_lastPipelineData.candidates_data || []).length;
+      cards.innerHTML = `<div class="eval-loading"><div class="eval-spinner"></div>Sending ${n} parallel request${n !== 1 ? 's' : ''} to OpenAI gpt-5.4-mini…</div>`;
+      document.getElementById('downloadBtn').style.display = 'none';
+      document.getElementById('downloadMasterBtn').style.display = 'none';
+
+      const threshold = parseInt(document.getElementById('thresholdInput').value) || 75;
+
+      try {
+        const resp = await fetch('http://localhost:8000/evaluate-candidates', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            icp_data: _lastPipelineData.icp_data || null,
+            candidates_data: _lastPipelineData.candidates_data || [],
+            threshold: threshold
+          })
+        });
+
+        if (resp.ok) {
+          const data = await resp.json();
+          window._evalResults = data.results || [];
+          // Persist eval results to localStorage
+          try { localStorage.setItem('_evalResults', JSON.stringify(window._evalResults)); } catch(e) {}
+          const sorted = [...window._evalResults].sort((a, b) => b.score - a.score);
+          cards.innerHTML = sorted.map((r, i) => buildEvalCard(r, i)).join('');
+          document.getElementById('downloadBtn').style.display = 'flex';
+          document.getElementById('downloadMasterBtn').style.display = 'flex';
+        } else {
+          const err = await resp.json();
+          cards.innerHTML = `<div class="eval-error">❌ ${err.detail || 'Evaluation failed.'}</div>`;
+        }
+      } catch (err) {
+        cards.innerHTML = `<div class="eval-error">❌ Could not reach backend.<br><code>./venv/bin/uvicorn main:app --reload</code></div>`;
+      } finally {
+        btn.disabled = false;
+        btn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="18" height="18"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg> Re-Evaluate with AI';
+        dashboard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+
+    // ── Excel export ─────────────────────────────────────────────
+    function makeDummyEmail(name) {
+      const clean = name.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim().replace(/ +/g, '.');
+      return clean ? `${clean}@candidate-placeholder.com` : 'candidate@candidate-placeholder.com';
+    }
+
+    function downloadExcel() {
+      const results = window._evalResults;
+      if (!results || !results.length) { alert('No evaluation results to export.'); return; }
+
+      const rows = [['#', 'Name', 'Dummy Email', 'LinkedIn URL', 'Score', 'Status', 'Justification', 'Outreach Email Draft']];
+      results.forEach((r, i) => rows.push([
+        i + 1,
+        r.name || '',
+        makeDummyEmail(r.name || ''),
+        r.linkedinUrl || '',
+        r.score,
+        r.status || (r.score >= 75 ? 'Qualified' : 'Rejected'),
+        r.justification || '',
+        r.outreach_email || ''
+      ]));
+
+      const wb = XLSX.utils.book_new();
+      const ws = XLSX.utils.aoa_to_sheet(rows);
+      ws['!cols'] = [{ wch: 4 }, { wch: 28 }, { wch: 38 }, { wch: 50 }, { wch: 8 }, { wch: 12 }, { wch: 80 }, { wch: 80 }];
+      XLSX.utils.book_append_sheet(wb, ws, 'Evaluations');
+      XLSX.writeFile(wb, `candidate_evaluations_${new Date().toISOString().slice(0, 10)}.xlsx`);
+    }
+
+
+    function downloadMasterExcel() {
+      const link = document.createElement('a');
+      link.href = 'http://localhost:8000/download-master-excel';
+      link.download = 'master_evaluations.xlsx';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  </script>
+
+  <style>
+    @keyframes spin {
+      from {
+        transform: rotate(0deg)
+      }
+
+      to {
+        transform: rotate(360deg)
+      }
+    }
+
+    .btn-evaluate {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-top: 1.75rem;
+      padding: 0.9rem 1.75rem;
+      background: linear-gradient(135deg, #7c3aed, #a78bfa);
+      border: none;
+      border-radius: 10px;
+      color: #fff;
+      font-weight: 700;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      box-shadow: 0 4px 20px rgba(124, 58, 237, 0.35);
+    }
+
+    .btn-evaluate:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 28px rgba(124, 58, 237, 0.5);
+    }
+
+    .btn-evaluate:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .btn-download {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.65rem 1.2rem;
+      background: linear-gradient(135deg, #059669, #34d399);
+      border: none;
+      border-radius: 8px;
+      color: #0f172a;
+      font-weight: 700;
+      font-size: 0.875rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      box-shadow: 0 3px 12px rgba(52, 211, 153, 0.3);
+    }
+
+    .btn-download:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 5px 18px rgba(52, 211, 153, 0.45);
+    }
+
+    .eval-card {
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      border-left: 4px solid #38bdf8;
+      border-radius: 14px;
+      padding: 1.4rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .eval-card:hover {
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+    }
+
+    .eval-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .eval-left {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+
+    .eval-rank {
+      font-size: 1.5rem;
+      font-weight: 900;
+      color: rgba(255, 255, 255, 0.13);
+      line-height: 1;
+      min-width: 2rem;
+    }
+
+    .eval-name {
+      font-weight: 700;
+      font-size: 1.05rem;
+      color: var(--text-primary);
+    }
+
+    .eval-url {
+      display: block;
+      color: #38bdf8;
+      font-size: 0.78rem;
+      text-decoration: none;
+      margin-top: 0.2rem;
+      opacity: 0.8;
+      word-break: break-all;
+    }
+
+    .eval-url:hover {
+      opacity: 1;
+      text-decoration: underline;
+    }
+
+    .eval-right {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.5rem;
+      flex-shrink: 0;
+    }
+
+    .eval-score-ring {
+      display: flex;
+      align-items: baseline;
+      gap: 0.2rem;
+    }
+
+    .eval-score-num {
+      font-size: 2.2rem;
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .eval-score-label {
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    .eval-status-badge {
+      padding: 0.3rem 0.8rem;
+      border: 1px solid;
+      border-radius: 20px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+    }
+
+    .eval-progress-bar {
+      height: 4px;
+      background: rgba(255, 255, 255, 0.07);
+      border-radius: 2px;
+      margin: 1rem 0 0.9rem;
+      overflow: hidden;
+    }
+
+    .eval-progress-fill {
+      height: 100%;
+      border-radius: 2px;
+      transition: width 0.8s ease;
+    }
+
+    .eval-justification {
+      color: var(--text-secondary);
+      font-size: 0.88rem;
+      line-height: 1.65;
+    }
+
+    .eval-email-section {
+      margin-top: 1rem;
+      padding: 1rem;
+      background: rgba(52, 211, 153, 0.06);
+      border: 1px solid rgba(52, 211, 153, 0.2);
+      border-radius: 8px;
+    }
+
+    .eval-email-label {
+      font-weight: 700;
+      font-size: 0.8rem;
+      color: #34d399;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.6rem;
+    }
+
+    .eval-email-body {
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      line-height: 1.65;
+    }
+
+    .btn-copy-email {
+      margin-top: 0.75rem;
+      padding: 0.35rem 0.9rem;
+      background: rgba(52, 211, 153, 0.1);
+      border: 1px solid rgba(52, 211, 153, 0.3);
+      border-radius: 6px;
+      color: #34d399;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-copy-email:hover {
+      background: rgba(52, 211, 153, 0.2);
+    }
+
+    .eval-loading {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 2rem;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+    }
+
+    .eval-spinner {
+      width: 24px;
+      height: 24px;
+      border: 3px solid rgba(167, 139, 250, 0.3);
+      border-top-color: #a78bfa;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      flex-shrink: 0;
+    }
+
+    .eval-error {
+      padding: 1.25rem;
+      background: rgba(248, 113, 113, 0.08);
+      border: 1px solid rgba(248, 113, 113, 0.25);
+      border-radius: 10px;
+      color: #fca5a5;
+      font-size: 0.88rem;
+      line-height: 1.6;
+    }
+
+    .eval-error code {
+      background: rgba(255, 255, 255, 0.08);
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+  </style>
+</body>
+
+</html>
