@@ -1,5 +1,32 @@
+# Secrets & environment
 .env
+*.env
+
+# Python
 __pycache__/
-venv/
 *.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+ENV/
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Generated / runtime data (contains real candidate data — never commit)
+evaluations/
+jsons/
+combined_mock.json
+
+# LinkedIn session cookies (sensitive — never commit)
+li_scraper/cookies.json
+
+# Test / scratch files
+test_with2.csv
+*.csv
+temp.txt
+
+# Resume builder context file (local use only)
+project_context.md
